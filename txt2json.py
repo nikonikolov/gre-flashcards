@@ -1,5 +1,8 @@
 import json
 
+SOURCE_DATA_DIR = "original_data/"
+DEST_DATA_DIR = "original_data_json/"
+
 # How to deal with words which have two meanings
 def get_flashcards_list(lines):
   word_list = []
@@ -86,10 +89,15 @@ def detect_word(line):
 
 
 def preprocess_file(f):
-  with open(f + ".txt", 'r') as f:
+  with open(SOURCE_DATA_DIR + f + ".txt", 'r') as f:
     lines = f.readlines()
   lines = [ l.strip('\n') for l in lines if l != ('\n')]
   return lines
+
+
+def write_json(f, flashcards):
+  with open(DEST_DATA_DIR + f + '.json', 'w') as outfile:
+    json.dump(flashcards, outfile)
 
 
 def main():
@@ -97,10 +105,7 @@ def main():
   for f in filenames:
     lines = preprocess_file(f)
     flashcards = get_flashcards_list(lines)
-    # print(flashcards)
-    with open(f + '.json', 'w') as outfile:
-      json.dump(flashcards, outfile)
-
+    write_json(f, flashcards)
 
 if (__name__=="__main__"):
   main()
