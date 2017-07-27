@@ -1,7 +1,7 @@
 import json
 
-SOURCE_DATA_DIR = "original_data/"
-DEST_DATA_DIR = "original_data_json/"
+SOURCE_DATA_DIR = "../original_data/"
+DEST_DATA_DIR = "../original_data_json/"
 
 # How to deal with words which have two meanings
 def get_flashcards_list(lines):
