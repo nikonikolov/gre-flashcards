@@ -1,6 +1,14 @@
-# GRE Flashcard
+# GRE Flashcards
+
+Webapp for studying GRE Flashcards
+
+## Running
 
 ```
-python -m SimpleHTTPServer
+cd gre-flashcards
+./run.sh
 ```
-Then go to page http://127.0.0.1:8000/
+
+Then go to page http://localhost:5000
+
+Use `ctrl+shift+r` for refreshing in order to bypass the browser cache
