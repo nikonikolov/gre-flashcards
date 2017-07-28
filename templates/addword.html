@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+  
+  <!-- Description, keywords and author of this particular page for search engines-->
+  <meta name="description" content="Nikolay Nikolov Personal Website">
+  <meta name="keywords" content="Nikolay, Nikolov, nikonikolov, nikobnikolov, robotics, Imperial">      
+  <meta name="author" content="Nikolay Nikolov">      
+
+  <title>Nikolay Nikolov Home</title>
+  
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script type="text/javascript"            src = "{{ url_for('static',filename='vendor/jquery/jquery-2.1.4.min.js') }}">    </script>
+  
+  <!-- Bootstrap -->
+  <link   type="text/css" rel="stylesheet"  href= "{{ url_for('static',filename='vendor/bootstrap/css/bootstrap.min.css') }}">
+  <script type="text/javascript"            src = "{{ url_for('static',filename='vendor/bootstrap/js/bootstrap.min.js') }}">    </script>
+    
+  <!-- Navigation bar -->
+  <link   type="text/css" rel="stylesheet"  href= "{{ url_for('static',filename='navbar/navbar.css') }}">
+  <script type="text/javascript"            src = "{{ url_for('static',filename='navbar/navbar.js') }}">    </script>
+
+  
+  <!-- Footer -->
+  <link   type="text/css" rel="stylesheet"  href= "{{ url_for('static',filename='footer/footer.css') }}">
+  <script type="text/javascript"            src = "{{ url_for('static',filename='footer/footer.js') }}">    </script>
+
+  <!-- CSS and JS for this page -->
+  <link   type="text/css" rel="stylesheet"  href= "{{ url_for('static',filename='styles-common.css') }}">
+  <link   type="text/css" rel="stylesheet"  href= "{{ url_for('static',filename='styles-common.css') }}">
+  <script type="text/javascript"            src = "{{ url_for('static',filename='script-common.js') }}">    </script>
+  <script type="text/javascript"            src = "{{ url_for('static',filename='addword.js') }}">          </script>
+
+  <!-- Tab icon -->
+  <link rel="shortcut icon" href= "{{ url_for('static',filename='img/favicon.ico') }}">
+
+  <!-- Custom Fonts -->
+  <link   type="text/css" rel="stylesheet"  href= "{{ url_for('static',filename='vendor/font-awesome/css/font-awesome.min.css') }}">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+  <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+
+</head>
+
+<body>
+
+  <!-- ================================================== NAVBAR ================================================== -->
+  {% include 'navbar.html' %}
+
+  <!-- ================================================== BODY ================================================== -->
+  <div class="container">
+
+    <form id="word-form">
+
+ <!--          
+        <label for="example-text-input" class="col-2 col-form-label">Text</label>
+        <div class="col-10">
+        <input class="form-control" type="text" value="Artisanal kale" id="example-text-input">
+        </div>
+  -->
+      <!-- <input type="text" class="form-control" id="test" placeholder="Enter word"> -->
+
+
+      <!-- Word -->
+      <div class="form-group">
+        <label for="word">Word</label>
+        <input type="text" class="form-control" id="word" placeholder="Enter word">
+      </div>
+
+      {% for i in range(num) %}
+      <div class="new-meaning">
+        <!-- Type -->
+        <div class="form-group">
+          <label for="exampleSelect2">Type</label>
+          <select multiple class="form-control word-type">
+            <option>noun</option>
+            <option>verb</option>
+            <option>adjective</option>
+            <option>adverb</option>
+          </select>
+        </div>
+   
+        <!-- Meaning -->
+        <div class="form-group">
+          <label for="exampleInputEmail1">Meaning</label>
+          <input type="text" class="form-control word-meaning" placeholder="Enter word">
+        </div>
+
+       <!-- Meaning BG -->
+        <div class="form-group">
+          <label for="exampleInputEmail1">Meaning BG</label>
+          <input type="text" class="form-control word-meaning-bg" placeholder="Enter word">
+        </div>
+
+
+       <!-- Example Usage -->
+        <div class="form-group">
+          <label for="exampleTextarea">Example Usage</label>
+          <textarea class="form-control word-example" rows="3"></textarea>
+        </div>
+      </div>
+      {% endfor %}
+
+      <!-- <button type="submit" class="btn btn-primary" id="submit-form">Write Word</button> -->
+      <div type="submit" class="btn btn-primary" id="submit-form">Write Word</div>
+      <!-- <button id="submit-form">Write Word</button> -->
+      <button class="btn btn-danger" type="reset">Reset</button>
+
+    </form>        
+  </div>
+
+
+    <!-- ================================================== FOOTER ================================================== -->
+  {% include 'footer.html' %}
+
+  </div><!-- /.container -->    
+</body>
+</html>

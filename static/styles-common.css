@@ -1,0 +1,102 @@
+body {
+  overflow-x: hidden;
+  font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding-top: 120px;
+}
+.text-muted {
+  color: #777777;
+}
+.text-primary {
+  color: #fed136;
+}
+p {
+  font-size: 14px;
+  line-height: 1.75;
+}
+p.large {
+  font-size: 16px;
+}
+a,
+a:hover,
+a:focus,
+a:active,
+a.active {
+  outline: none;
+}
+a {
+  /*
+  color: #fed136;
+  */
+  color: #0073CF;
+}
+a:hover,
+a:focus,
+a:active,
+a.active {
+  /*
+  color: #fec503;
+  */
+  color: #0073CF;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.section-heading{
+    font-size: 36px;
+    margin-top: 60px;
+    text-align: center;
+}
+
+.featurette-image{
+    height: 90%;
+    width: 90%;
+}
+
+.profile_pic{
+    height: 70%;
+    width: 70%;
+}
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 40px 0; /* Space out the Bootstrap <hr> more */
+}
+
+.twitter-vid{
+    margin: auto;
+    text-align: center;
+    border-width: 5px;
+    border-color: red;
+    border-style: solid;
+}
+
+/* 
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+
+@media (min-width: 768px) {
+  .featurette-heading {
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 992px) {
+  .featurette-heading {
+    margin-top: 120px;
+  }
+}
+*/
+
