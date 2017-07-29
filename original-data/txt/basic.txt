@@ -13,7 +13,7 @@ public venue.
 This word has other definitions but this is the most important one for the GRE
 
 advocate (noun): a person who pleads for a cause or propounds an idea
-Martin Luther King Jr. was a tireless advocate for the rights of African-Americans in the United States.Â
+Martin Luther King Jr. was a tireless advocate for the rights of African-Americans in the United States.
 This word has other definitions but this is the most important one for the GRE
 
 affable (adjective): likeable; easy to talk to
@@ -111,7 +111,7 @@ Sitting all alone in his room, Harvey begrudged the happiness of the other child
 window.
 begrudge (verb): to give reluctantly
 We never begrudge money spent on ourselves.
-behooves (verb): to be one's duty or obligation
+behoove (verb): to be one's duty or obligation
 The teacher looked down at the student and said, "It would behoove you to be in class on time and
 complete your homework, so that you don't repeat freshman English for a third straight year."
 belittle (verb): lessen the importance, dignity, or reputation of
@@ -951,7 +951,7 @@ I'd never seen him so serene; usually, he was a knot of stress and anxiety from 
 stock exchange.
 slapdash (adjective): carelessly and hastily put together
 The office building had been constructed in a slapdash manner, so it did not surprise officials when,
-during a small earthquake, a large crack emerged on the faÃ§ade of the building.
+during a small earthquake, a large crack emerged on the facade of the building.
 smattering (noun): a slight or superficial understanding of a subject; a small amount of something
 I know only a smattering of German, but Helen is able to read German newspapers and converse with
 natives.

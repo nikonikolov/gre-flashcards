@@ -1,0 +1,485 @@
+{
+    "aphoristic": [
+        {
+            "example": "Sometimes I can't stand Nathan because he tries to impress everyone by being aphoristic, but he just states the obvious.", 
+            "meaning": "something that is a concise and instructive of a general truth or principle", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "brusquely": [
+        {
+            "example": "Not one for social pleasantries, the Chief of Staff would brusquely ask his subordinates anything he wanted, even coffee.", 
+            "meaning": "in a blunt, direct manner", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adv."
+        }
+    ], 
+    "candidness": [
+        {
+            "example": "Although I was unhappy that the relationship ended, I appreciated her candidness about why she was ready to move on from the relationship.", 
+            "meaning": "the quality of being honest and straightforward in attitude and speech", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "collusion": [
+        {
+            "example": "Many have argued that Lee Harvey Oswald, JFK's assassin, was in collusion with other criminals; others maintain that Oswald was a lone gunman.", 
+            "meaning": "agreement on a secret plot", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "complacent": [
+        {
+            "example": "After the water polo team won their sixth championship, they became complacent and didn't even make it to the playoffs the next year.", 
+            "meaning": "contented to a fault with oneself or one's actions", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "convoluted": [
+        {
+            "example": "Instead of solving the math problem in three simple steps, Kumar used a convoluted solution requiring fifteen steps.", 
+            "meaning": "highly complex or intricate", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "credulity": [
+        {
+            "example": "Virginia's wide-eyed credulity as a five-year old was replaced by suspicion after she learned that Santa Claus didn't really exist.", 
+            "meaning": "tendency to believe readily", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "derogative": [
+        {
+            "example": "Never before have we seen a debate between two political candidates that was so derogative and filthy.", 
+            "meaning": "expressed as worthless or in negative terms", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "destitute": [
+        {
+            "example": "Jean Valjean, is at first destitute, but through the grace of a priest, he makes something of his life.", 
+            "meaning": "poor enough to need help from others", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }, 
+        {
+            "example": "Now that the mine is closed, the town is destitute of any economic activity.", 
+            "meaning": "completely wanting or lacking (usually \"destitute of\")", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "devolve": [
+        {
+            "example": "The company was full of managers known for devolving tasks to lower management, but never doing much work themselves.", 
+            "meaning": "pass on or delegate to another", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }, 
+        {
+            "example": "The dialogue between the two academics devolved into a downright bitter argument.", 
+            "meaning": "grow worse (usually \"devolve into\")", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "diligent": [
+        {
+            "example": "Michael was a diligent gardener, never leaving a leaf on the ground and regularly watering each plant.", 
+            "meaning": "characterized by care and perseverance in carrying out tasks", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "discord": [
+        {
+            "example": "Despite all their talented players, the team was filled with discord--some players refused to talk to others--and lost most of their games.", 
+            "meaning": "lack of agreement or harmony", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "eke": [
+        {
+            "example": "Stranded in a cabin over the winter, Terry was able to eke out an existence on canned food.", 
+            "meaning": "To live off meager resources, to scrape by", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "elude": [
+        {
+            "example": "Even a basic understanding of physics can elude most high schools students.", 
+            "meaning": "escape understanding", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "embellish": [
+        {
+            "example": "McCartney would write relatively straightforward lyrics, and Lennon would embellish them with puns and poetic images.", 
+            "meaning": "make more attractive by adding ornament, colour, etc.; make more beautiful", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "enmity": [
+        {
+            "example": "Charles rude remark toward Sarah yesterday was due to his illness, not due to any real enmity toward Sarah.", 
+            "meaning": "a state of deep-seated ill-will", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "exasperate": [
+        {
+            "example": "As a child, I exasperated my mother with strings of never-ending questions.", 
+            "meaning": "to irritate intensely", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "exemplify": [
+        {
+            "example": "Lincoln exemplified the best of not only America, but also the potential greatness that exists within each person.", 
+            "meaning": "be characteristic of", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }, 
+        {
+            "example": "Please present some case studies that exemplify the results that you claim in your paper.", 
+            "meaning": "clarify by giving an example of", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "foible": [
+        {
+            "example": "When their new roommate sat staring at an oak tree for an hour, Marcia thought it indicated a mental problem, but Jeff assured her it was a harmless foible.", 
+            "meaning": "a behavioral attribute that is distinctive and peculiar to an individual", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "goad": [
+        {
+            "example": "Doug did not want to enter the race, but Jim, through a steady stream of taunts, goaded him into signing up for it.", 
+            "meaning": "urge on with unpleasant comments", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "impending": [
+        {
+            "example": "The impending doom of our world has been a discussed and debated for 2000 years--maybe even longer.", 
+            "meaning": "close in time; about to occur", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "impregnable": [
+        {
+            "example": "As a child, Amy would build pillow castles and pretend they were impregnable fotresses.", 
+            "meaning": "immune to attack; incapable of being tampered with", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "irk": [
+        {
+            "example": "My little sister has a way of irking and annoying me like no other person.", 
+            "meaning": "irritate or vex", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "leery": [
+        {
+            "example": "Without checking his references and talking to previous employers, I am leery of hiring the candidate.", 
+            "meaning": "openly distrustful and unwilling to confide", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "malevolent": [
+        {
+            "example": "Villians are known for their malevolent nature, oftentimes inflicting cruetly on others just for enjoyment.", 
+            "meaning": "wishing or appearing to wish evil to others; arising from intense ill will or hatred", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "maxim": [
+        {
+            "example": "Johnson initially suggests that the secret to business can be summarized in a single maxim but then requires a 300-page book to explain exactly what he means.", 
+            "meaning": "a short saying expressing a general truth", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "obstinate": [
+        {
+            "example": "The coach suggested improvements Sarah might make on the balance beam, but she remained obstinate, unwilling to modify any of the habits that made her successful in the past.", 
+            "meaning": "resistant to guidance or discipline; stubbornly persistent", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "pastoral": [
+        {
+            "example": "Those who imagine America's countryside as a pastoral region are often disappointed to learn that much of rural U.S. is filled with cornfields extending as far as the eye can see.", 
+            "meaning": "relating to the countryside in a pleasant sense", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "peevish": [
+        {
+            "example": "Our office manager is peevish, so the rest of us tip-toe around him, hoping not to set off another one of his fits.", 
+            "meaning": "easily irritated or annoyed", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "perturb": [
+        {
+            "example": "Now that Henry is recovering from a major illnesses, he no longer lets the little trivialities, such as late mail, perturb him.", 
+            "meaning": "disturb in mind or cause to be worried or alarmed", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "placid": [
+        {
+            "example": "Doug is normally placid, so we were all shocked to see him yelling at the television when the Mets lost the game.", 
+            "meaning": "not easily irritated", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "ploy": [
+        {
+            "example": "Dennis arranged an elaborate ploy, involving 14 different people lying for him in different situations, so that it could appear that he was meeting Mary completely by chance at the wedding reception.", 
+            "meaning": "a clever plan to turn a situation to one's advantage", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "presumption": [
+        {
+            "example": "When Mr. Baker found out the family car was gone, he acted under the presumption that his rebellious son had taken the car, calling his son's phone and yelling at him; only later did Mr. Baker realize that Mrs. Baker had simply gone out to get her nails d", 
+            "meaning": "an assumption that is taken for granted", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }, 
+        {
+            "example": "The new neighbor quickly gained a reptuation for her presumption; she had invited herself to several of the neighbors homes, often stopping over at inopportune times and asking for a drink.", 
+            "meaning": "audacious (even arrogant) behavior that you have no right to", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "quip": [
+        {
+            "example": "In one of the most famous quips about classical music, Mark Twain said: \"Wagner's music is better than it sounds.\"", 
+            "meaning": "a witty saying or remark", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "rash": [
+        {
+            "example": "Although Bruce was able to make the delivery in time with a nightime motorcycle ride in the rain, Susan criticized his actions as rash.", 
+            "meaning": "marked by defiant disregard for danger or consequences; imprudently incurring risk", 
+            "meaning_bg": "", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "type": "adj."
+        }
+    ], 
+    "reservation": [
+        {
+            "example": "I was initially excited by the idea of a trip to Washington, D.C. but now that I have read about the high crime statistics there, I have some reservations.", 
+            "meaning": "an unstated doubt that prevents you from accepting something wholeheartedly", 
+            "meaning_bg": "", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "type": "noun"
+        }
+    ], 
+    "retract": [
+        {
+            "example": "under pressure Email is wonderfully efficient, but once something awkward or damaging has been sent, there is no way to retract it.", 
+            "meaning": "pull inward or towards a center; formally reject or disavow a formerly held belief, usually", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "savvy": [
+        {
+            "example": "Although a great CEO, he did not have the political savvy to win the election.", 
+            "meaning": "a perceptive understanding", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }, 
+        {
+            "example": "The student savvies the meaning of astrophysics with little effort.", 
+            "meaning": "get the meaning of something", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }, 
+        {
+            "example": "With his savvy business partner, the company was able to turn a profit within a year.", 
+            "meaning": "well-informed or perceptive", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "serene": [
+        {
+            "example": "I'd never seen him so serene; usually, he was a knot of stress and anxiety from hours of trading on the stock exchange.", 
+            "meaning": "calm and peaceful", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "smug": [
+        {
+            "example": "When Phil was dating the model, he had a smug attitude that annoyed his buddies.", 
+            "meaning": "marked by excessive complacency or self-satisfaction", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "squander": [
+        {
+            "example": "Fearing his money would be squandered by his family, he gave all of it to charity when he died.", 
+            "meaning": "spend thoughtlessly; waste time, money, or an opportunity", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "steadfast": [
+        {
+            "example": "A good captain needs to be steadfast, continuing to hold the wheel and stay the course even during the most violent storm.", 
+            "meaning": "marked by firm determination or resolution; not shakable", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "tact": [
+        {
+            "example": "In a tremendous display of tact, Shelly was able to maintain a strong friendship with Marcia, even though Marcia's husband, Frank, confessed to finding Shelley more attractive than Marcia.", 
+            "meaning": "consideration in dealing with others and avoiding giving offense", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "tarnish": [
+        {
+            "example": "Pete Rose was one of the best baseball players of his generation, but his involvement with gambling on baseball games has tarnished his image in the eyes of many.", 
+            "meaning": "make dirty or spotty, as by exposure to air; also used metaphorically", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "taxing": [
+        {
+            "example": "The hike to the summit of Mt. Whitney was so taxing that I could barely speak or stand up.", 
+            "meaning": "use to the limit; exhaust", 
+            "meaning_bg": "", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "type": "adj."
+        }
+    ], 
+    "tout": [
+        {
+            "example": "At the conference, the CEO touted the extraordinary success of his company's Research & Development division.", 
+            "meaning": "advertize in strongly positive terms; show off", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "travail": [
+        {
+            "example": "While they experienced nothing but travails in refinishing the kitchen, they completed the master bedroom in less than a weekend.", 
+            "meaning": "use of physical or mental energy; hard work; agony or anguish", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "unprecedented": [
+        {
+            "example": "When America first created its national parks, the idea of setting aside the most beautiful land in a country was unprecedented in the history of mankind.", 
+            "meaning": "having never been done or known before; novel", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "unseemly": [
+        {
+            "example": "He acted in an unseemly manner, insulting the hostess and then speaking ill of her deceased husband.", 
+            "meaning": "not in keeping with accepted standards of what is right or proper in polite society", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ]
+}

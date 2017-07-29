@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+  
+  <!-- Description, keywords and author of this particular page for search engines-->
+  <meta name="description" content="GRE Flashcards">
+  <meta name="keywords" content="GRE, flashcards">      
+  <meta name="author" content="Nikolay Nikolov">      
+
+  <title>GRE Flashcards</title>
+  
+  <!-- Set the SCRIPT_ROOT variable -->
+  <script type=text/javascript> $SCRIPT_ROOT = {{ request.script_root|tojson|safe }}; </script>
+
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script type="text/javascript"            src = "{{ url_for('static',filename='vendor/jquery/jquery-2.1.4.min.js') }}">    </script>
+  
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+  <!-- <link   type="text/css" rel="stylesheet"  href= "{{ url_for('static',filename='vendor/bootstrap/css/bootstrap.min.css') }}"> -->
+  <!-- <script type="text/javascript"            src = "{{ url_for('static',filename='vendor/bootstrap/js/bootstrap.min.js') }}">    </script> -->
+  
+  <!-- Common CSS and JS -->
+  <link   type="text/css" rel="stylesheet"  href= "{{ url_for('static',filename='styles/common.css') }}">
+  <script type="text/javascript"            src = "{{ url_for('static',filename='js/common.js') }}">    </script>
+
+  <!-- CSS and JS for this page -->
+  <link   type="text/css" rel="stylesheet"  href= "{{ url_for('static',filename='styles/word.css') }}">
+  <script type="text/javascript"            src = "{{ url_for('static',filename='js/word.js') }}">    </script>
+
+  <!-- Tab icon -->
+  <link rel="shortcut icon" href= "{{ url_for('static',filename='img/favicon.ico') }}">
+
+  <!-- Custom Fonts -->
+  <link   type="text/css" rel="stylesheet" href= "{{ url_for('static',filename='vendor/font-awesome/css/font-awesome.min.css') }}">
+
+</head>
+
+<body>
+
+  <!-- ================================================== NAVBAR ================================================== -->
+  {% include 'navbar.html' %}
+
+  <!-- ================================================== BODY ================================================== -->
+  <div class="container">
+
+    <h2 class="section-heading"> Word List: {{ word_list }} </h2>
+    <!-- <h2 class="section-heading"> List </h2> -->
+    <hr class="featurette-divider">
+
+
+    <div class="card text-center">
+      <div class="card-block">
+        <h4 class="card-title"> {{ word }} </h4>
+        <div id="show-meaning"  class="btn btn-primary">See meaning</div>
+        <!-- <div id="next_word"     class="btn btn-primary">See meaning</div> -->
+        <!-- <a href="#" class="btn btn-primary">See meaning</a> -->
+      </div>
+    </div>
+  
+    <div id="meaning-block">  
+      {% for m in meaning %}
+      <div class="card card-meaning">
+        <div class="card-block">
+          <p class="card-text card-meaning-en"> <small class="text-muted"> {{ m["type"] }} </small> {{ m["meaning"] }} </p>
+          {% if m["meaning_bg"] != "" %}
+          <p class="card-text card-meaning-bg"> {{ m["meaning_bg"] }}</p>
+          {% endif %}
+          
+          <p class="card-text card-meaning-example"> {{ m["example"] }}</p>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+
+  </div>
+
+
+</body>
+</html>

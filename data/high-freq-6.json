@@ -1,0 +1,466 @@
+{
+    "anomaly": [
+        {
+            "example": "After finding an anomaly in the data, she knew that she would have to conduct her experiment again.", 
+            "meaning": "something that is not normal, standard, or expected", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "antipathy": [
+        {
+            "example": "Maria had an antipathy for tour groups, often bolting to the other side of the museum as soon as she saw a chaperone leading a group of wide-eyed tourists.", 
+            "meaning": "an intense feeling of dislike or aversion", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "appease": [
+        {
+            "example": "Neville Chamberlain, the British prime minister during WWII, tried to appease Hitler and in doing so sent a clear message: you can walk all over us.", 
+            "meaning": "pacify by acceding to the demands of", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "arduous": [
+        {
+            "example": "In order to deal with the arduous cross-country journey, truck drivers often survive on a string of caffeinated drinks, staying awake for up to 30 hours at a time.", 
+            "meaning": "demanding considerable mental effort and skill; testing powers of endurance", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "askance": [
+        {
+            "example": "The old couple looked askance on the teenagers seated next to them, whispering to each other, \"They've got rings through their noses and purple hair!\"", 
+            "meaning": "with a look of suspicion or disapproval", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adv."
+        }
+    ], 
+    "banality": [
+        {
+            "example": "Herbert regarded the minister's remark as a mere banality until Sharon pointed out profound implications to the seemingly obvious words.", 
+            "meaning": "a trite or obvious remark", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "bolster": [
+        {
+            "example": "The case for the suspect's innocence was bolstered considerably by the fact that neither fingerprints nor DNA were found at the scene.", 
+            "meaning": "support and strengthen", 
+            "meaning_bg": "", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "type": "verb"
+        }
+    ], 
+    "capricious": [
+        {
+            "example": "Nearly every month our capricious CEO had a new plan to turn the company around, and none of them worked because we never gave them the time they needed to succeed.", 
+            "meaning": "determined by chance or impulse or whim rather than by necessity or reason", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "contrition": [
+        {
+            "example": "Those who show contrition during their prison terms--especially when under review by a parole board-often get shortened sentences.", 
+            "meaning": "the feeling of remorse or guilt that comes from doing something bad", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "craven": [
+        {
+            "example": "Though the man could have at least alerted the police, he crouched cravenly in the corner as the old woman was mugged.", 
+            "meaning": "pathetically cowardly", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "deleterious": [
+        {
+            "example": "The BP oil spill in the Gulf of Mexico was deleterious to the fishing industry in the southern states.", 
+            "meaning": "harmful to living things", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "dilatory": [
+        {
+            "example": "Lawyers use dilatory tactics so that it takes years before the case is actually decided.", 
+            "meaning": "wasting time", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "dispassionate": [
+        {
+            "example": "A good scientist should be dispassionate, focusing purely on what the evidence says, without personal attachment.", 
+            "meaning": "unaffected by strong emotion or prejudice", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "disseminate": [
+        {
+            "example": "Before the effects of anaethesia were disseminated, patients had to experience the full pain of a surgery.", 
+            "meaning": "cause to become widely known", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "duress": [
+        {
+            "example": "The witness said he signed the contract under duress and argued that the court should cancel the agreement.", 
+            "meaning": "compulsory force or threat", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "economical": [
+        {
+            "example": "Journalists favor an economical style of writing, in which no unnecessary words are used and every sentence is as short as possible.", 
+            "meaning": "avoiding waste, efficient", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "edifying": [
+        {
+            "example": "I recently read an article in the Times about whether good literature is edifying or not; specifically, does reading more make a person more moral.", 
+            "meaning": "enlightening or uplifting so as to encourage intellectual or moral improvement", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "efficacious": [
+        {
+            "example": "Since Maggie's cough syrup, which had expired five years back, was no longer efficacious, she coughed through the night.", 
+            "meaning": "producing the intended result", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "elicit": [
+        {
+            "example": "Just smiling--even if you are depressed--can elicit feelings of pleasure and happiness.", 
+            "meaning": "call forth (emotions, feelings, and responses)", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "erudite": [
+        {
+            "example": "Before the Internet, the library was typically were you would find erudite readers.", 
+            "meaning": "having or showing profound knowledge", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "esoteric": [
+        {
+            "example": "Map collecting is an esoteric hobby to most, but to geography geeks it is a highly enjoyable pasttime.", 
+            "meaning": "confined to and understandable by only an enlightened inner circle", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "fastidious": [
+        {
+            "example": "Whitney is fastidious about her shoes, arranging them on a shelf in a specific order, each pair evenly spaced.", 
+            "meaning": "overly concerned with details; fussy", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "flux": [
+        {
+            "example": "Ever since Elvira resigned as the head of marketing, everything about our sales strategy has been in a state of flux.", 
+            "meaning": "a state of uncertainty about what should be done (usually following some important event)", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "furtive": [
+        {
+            "example": "While at work, George and his boss Regina felt the need to be as furtive as possible about their romantic relationship.", 
+            "meaning": "marked by quiet and caution and secrecy; taking pains to avoid being observed", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "harried": [
+        {
+            "example": "With a team of new hires to train, Martha was constantly harried with little questions and could not focus on her projects.", 
+            "meaning": "troubled persistently especially with petty annoyances", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "ignominious": [
+        {
+            "example": "Since the politician preached ethics and morality, his texting of revealing photographs was ignominious, bringing shame on both himself and his party.", 
+            "meaning": "(used of conduct or character) deserving or bringing disgrace or shame", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "impartial": [
+        {
+            "example": "The judge was not impartial since he had been bribed by the witness's family.", 
+            "meaning": "free from undue bias or preconceived opinions", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "imprudent": [
+        {
+            "example": "Hitler, like Napoleon, made the imprudent move of invading Russia in winter, suffering even more casualties than Napoleon had.", 
+            "meaning": "not wise", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "indecorous": [
+        {
+            "example": "society Eating with elbows on the table is considered indecorous in refined circles.", 
+            "meaning": "not in keeping with accepted standards of what is right or proper in polite", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "jovial": [
+        {
+            "example": "The political candidate and his supporters were jovial once it was clear that she had won.", 
+            "meaning": "full of or showing high-spirited merriment", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "maladroit": [
+        {
+            "example": "As a child she was quite maladroit, but as an adult, she has become an adept dancer.", 
+            "meaning": "clumsy", 
+            "meaning_bg": "", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "type": "adj."
+        }
+    ], 
+    "maverick": [
+        {
+            "example": "Officer Kelly was a maverick, rarely following police protocols or adopting the conventions for speech common among his fellow officers.", 
+            "meaning": "someone who exhibits great independence in thought and action", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "mendacity": [
+        {
+            "example": "I can forgive her for her mendacity but only because she is a child and is seeing what she can get away with.", 
+            "meaning": "the tendency to be untruthful", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "misconstrue": [
+        {
+            "example": "The politician never trusted journalists because he though that they misconstrue his words and misrepresent his positions.", 
+            "meaning": "interpret in the wrong way", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "mundane": [
+        {
+            "example": "Nancy found doing dishes a thorougly mundane task, although Peter found a kind of Zen pleasure in the chore.", 
+            "meaning": "repetitive and boring; not spiritual", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }, 
+        {
+            "example": "Though we think of the pope as someone always dealing in holy matters, he is also concerned with mundane events, such as deciding when to set his alarm each morning.", 
+            "meaning": "relating to the ordinary world", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "nonplussed": [
+        {
+            "example": "Shirley was totally nonplussed when the angry motorist cut her off and then stuck his finger out the window.", 
+            "meaning": "unsure how to act or respond", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "nuance": [
+        {
+            "example": "Because of the nuances involved in this case, I hired an outside consultant to advice us and help.", 
+            "meaning": "a subtle difference in meaning or opinion or attitude", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "opulence": [
+        {
+            "example": "Russian oligarchs are famous for their opulence, living in fancy homes and dining on expensive cavier.", 
+            "meaning": "wealth as evidenced by sumptuous living", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "pejorative": [
+        {
+            "example": "Most psychologists object to the pejorative term \"shrink\", believing that they expand the human mind, not limit it.", 
+            "meaning": "expressing disapproval (usu. refers to a term)", 
+            "meaning_bg": "", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "type": "adj."
+        }
+    ], 
+    "placate": [
+        {
+            "example": "I was able to placate the angry mob of students by promising to bring cookies on Monday.", 
+            "meaning": "cause to be more favorably inclined; gain the good will of", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "polemic": [
+        {
+            "example": "The professor launched into a polemic, claiming that Freudian theory was a pack of lies that absolutely destroyed European literary theory.", 
+            "meaning": "a strong verbal or written attack on someone or something.", 
+            "meaning_bg": "", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "type": "noun"
+        }
+    ], 
+    "posit": [
+        {
+            "example": "Initially, Einstein posited a repulsive force to balance Gravity, but then rejected that idea as a blunder.", 
+            "meaning": "assume as fact", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "rebuke": [
+        {
+            "example": "The police chief rebuked the two officers whose irresponsible decisions almost led to the deaths of seven innocent by-standers.", 
+            "meaning": "criticize severely or angrily; censure", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "reproach": [
+        {
+            "example": "At first, Sarah was going to yell at the boy, but she didn't want to reproach him for telling the truth about the situation.", 
+            "meaning": "to express criticism towards", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "specious": [
+        {
+            "example": "Almost every image on TV is specious and not to be trusted.", 
+            "meaning": "based on pretense; deceptively pleasing", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }, 
+        {
+            "example": "He made a career out of specious arguments and fictional lab results, but lost his job and reputation when his lies were exposed by an article in The New York Times.", 
+            "meaning": "plausible but false", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "stringent": [
+        {
+            "example": "Most of the students disliked the teacher because of his stringent homework policy, but many students would later thank him for demanding so much from them.", 
+            "meaning": "demanding strict attention to rules and procedures", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "sullen": [
+        {
+            "example": "Herbert took board games too seriously, often appearing sullen after losing.", 
+            "meaning": "showing a brooding ill humor", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "timorous": [
+        {
+            "example": "Since this was her first time debating on stage and before an audience, Di's voice was timorous and quiet for the first 10 minutes.", 
+            "meaning": "timid by nature or revealing fear and nervousness", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "transient": [
+        {
+            "example": "The unpredictable and transient nature of deja vu makes it a very difficult phenomenon to study properly.", 
+            "meaning": "lasting a very short time", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "truncate": [
+        {
+            "example": "The soccer game was truncated when the monsoon rain began to fall.", 
+            "meaning": "reduce the length of something", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ]
+}

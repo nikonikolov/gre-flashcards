@@ -1,0 +1,441 @@
+{
+    "aboveboard": [
+        {
+            "example": "The mayor, despite his avuncular face plastered about the city, was hardly aboveboard -- some concluded that it was his ingratiating smile that allowed him to engage in corrupt behavior and get away with it.", 
+            "meaning": "open and honest", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "animosity": [
+        {
+            "example": "The governor's animosity toward his rival was only inflamed when the latter spread false lies regarding the governor's first term.", 
+            "meaning": "intense hostility", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "apex": [
+        {
+            "example": "The Ivy League is considered the apex of the secondary education system.", 
+            "meaning": "the highest point", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "avarice": [
+        {
+            "example": "The Spanish conquistadors were known for their avarice, plundering Incan land and stealing Incan gold.", 
+            "meaning": "greed (one of the seven deadly sins)", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "badger": [
+        {
+            "example": "Badgered by his parents to find a job, the 30-year-old loafer instead joined a gang of itinerant musicians.", 
+            "meaning": "to pester", 
+            "meaning_bg": "", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "type": "verb"
+        }
+    ], 
+    "beatific": [
+        {
+            "example": "Often we imagine all monks to wear the beatific smile of the Buddha, but, like any of us, a monk can have a bad day and not look very happy.", 
+            "meaning": "blissfully happy", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "becoming": [
+        {
+            "example": "Her dress was becoming and made her look even more beautiful.", 
+            "meaning": "appropriate, and matches nicely", 
+            "meaning_bg": "", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "type": "adj."
+        }
+    ], 
+    "bellicose": [
+        {
+            "example": "Known for their bellicose ways, the Spartans were once the most feared people from Peloponnesus to Persia.", 
+            "meaning": "warlike; inclined to quarrel", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "cadaverous": [
+        {
+            "example": "Some actors take challenging roles in which they have to lose so much weight that they appear cadaverous.", 
+            "meaning": "emaciated; gaunt", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "cardinal": [
+        {
+            "example": "Most cultures consider gambling a cardinal sin and thus have outlawed its practice.", 
+            "meaning": "of primary importance; fundamental", 
+            "meaning_bg": "", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "type": "adj."
+        }
+    ], 
+    "catalyst": [
+        {
+            "example": "Rosa Park's refusal to give up her bus seat acted as a catalyst for the Civil Rights Movement, setting into motion historic changes for African-Americans.", 
+            "meaning": "something that speeds up an event", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "chauvinist": [
+        {
+            "example": "The chauvinist lives on both sides of the political spectrum, outright shunning anybody whose ideas are not consistent with his own.", 
+            "meaning": "a person who believes in the superiority of their group", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "check": [
+        {
+            "example": "Deserted for six months, the property began to look more like a jungle and less like a residence--weeds grew unchecked in the front yard", 
+            "meaning": "to limit (usually modifying the growth of something)", 
+            "meaning_bg": "", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "type": "verb"
+        }, 
+        {
+            "example": "When government abuses are not kept in check, that government is likely to become autocratic.", 
+            "meaning": "the condition of being held back or limited", 
+            "meaning_bg": "", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "type": "noun"
+        }
+    ], 
+    "checkered": [
+        {
+            "example": "One by one, the presidential candidates dropped out of the race, their respective checkered pasts-- from embezzlement to infidelity--sabotaging their campaigns.", 
+            "meaning": "one that is marked by disreputable happenings", 
+            "meaning_bg": "", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "type": "adj."
+        }
+    ], 
+    "cogent": [
+        {
+            "example": "A cogent argument will change the minds of even the most skeptical audience.", 
+            "meaning": "clear and persuasive", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "contrite": [
+        {
+            "example": "Though he stole his little sister's licorice stick with malevolent glee, Chucky soon became contrite when his sister wouldn't stop crying.", 
+            "meaning": "to be remorseful", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "corroborate": [
+        {
+            "example": "Her claim that frog populations were falling precipitously in Central America was corroborated by locals, who reported that many species of frogs had seemingly vanished overnight.", 
+            "meaning": "to confirm or lend support to (usually an idea or claim)", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "desecrate": [
+        {
+            "example": "After desecrating the pharaoh's tomb, the archaeologist soon fell victim to a horrible illness.", 
+            "meaning": "to willfully violate or destroy a sacred place", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "disparate": [
+        {
+            "example": "With the advent of machines capable of looking inside the brain, fields as disparate as religion and biology have been brought together by scientists trying to understand what happens in the brain when people have a religious experience.", 
+            "meaning": "two things are fundamentally different", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "errant": [
+        {
+            "example": "Unlike his peers, who spent their hours studying in the library, Matthew preferred errant walks through the university campus.", 
+            "meaning": "to be wandering; not sticking to a circumscribed path", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "exhort": [
+        {
+            "example": "Nelson's parents exhorted him to study medicine, urging him to choose a respectable profession; intransigent, Nelson left home to become a graffiti artist.", 
+            "meaning": "to strongly urge on; encourage", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "extenuating": [
+        {
+            "example": "The jury was hardly moved by the man's plea that his loneliness was an extenuating factor in his crime of dognapping a prized pooch.", 
+            "meaning": "making less guilty or more forgivable", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "ferret": [
+        {
+            "example": "Ever the resourceful lexicographer, Fenton was able to ferret out the word origin of highly obscure words.", 
+            "meaning": "to search for something persistently", 
+            "meaning_bg": "", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "type": "verb"
+        }
+    ], 
+    "fleece": [
+        {
+            "example": "Many people have been fleeced by Internet scams and never received their money back.", 
+            "meaning": "to deceive", 
+            "meaning_bg": "", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "type": "verb"
+        }
+    ], 
+    "flush": [
+        {
+            "example": "The exam's passage is flush with difficult words, words that you may have learned only yesterday.", 
+            "meaning": "to be in abundance", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "heyday": [
+        {
+            "example": "During the heyday of Prohibition, bootlegging had become such a lucrative business that many who had been opposed to the 18th Amendment began to fear it would be repealed.", 
+            "meaning": "the pinnacle or top of a time period or career", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "hodgepodge": [
+        {
+            "example": "Those in attendance represented a hodgepodge of the city's denizens: chimney sweepers could be seen sitting elbow to elbow with stockbrokers.", 
+            "meaning": "a confusing mixture or jumble", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "immaterial": [
+        {
+            "example": "The judge found the defendant's comments immaterial to the trial, and summarily dismissed him from the witness stand.", 
+            "meaning": "not relevant", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "imponderable": [
+        {
+            "example": "According to many lawmakers, the huge variety of factors affecting society make devising an efficient healthcare system an imponderable task.", 
+            "meaning": "impossible to estimate or figure out", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "junta": [
+        {
+            "example": "As dangerous of a threat as North Korea is, some analysts believe that were a junta suddenly to gain power, it could be even more unpredictable and bellicose than the current leadership", 
+            "meaning": "an aggressive takeover by a group (usually military)", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "melee": [
+        {
+            "example": "After enduring daily taunts about my name, I became enraged and pummeled the schoolyard bully and his sycophantic friends in a brutal melee.", 
+            "meaning": "a wild, confusing fight or struggle", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "misanthrope": [
+        {
+            "example": "Hamilton had been deceived so many times in his life that he hid behind the gruff exterior of a misanthrope, lambasting perfect strangers for no apparent reason.", 
+            "meaning": "a hater of mankind", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "moment": [
+        {
+            "example": "Despite the initial hullabaloo, the play was of no great moment in Hampton's writing career, and within a few years the public quickly forgot his foray into theater arts.", 
+            "meaning": "significant and important value", 
+            "meaning_bg": "", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "type": "noun"
+        }
+    ], 
+    "paucity": [
+        {
+            "example": "There is a paucity of jobs hiring today that require menial skills, since most jobs have either been automated or outsourced.", 
+            "meaning": "a lack of something", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "pittance": [
+        {
+            "example": "Vinny's uncle beamed smugly about how he'd offered his nephew fifty dollars for his Harvard tuition; even twice the amount would have been a mere pittance.", 
+            "meaning": "a small amount (of money)", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "preemptive": [
+        {
+            "example": "Just as Martha was about to take the only cookie left on the table, Noah preemptively swiped it.", 
+            "meaning": "done before someone else can do it", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "pugnacious": [
+        {
+            "example": "The comedian told one flat joke after another, and when the audience started booing, he pugnaciously back at them, \"Hey, you think this is easy -- why don\"t you buffoons give it a shot?\"", 
+            "meaning": "eager to fight or argue; verbally combative", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "raft": [
+        {
+            "example": "Despite a raft of city ordinances passed by an overzealous council, noise pollution continued unabated in the megalopolis.", 
+            "meaning": "a large number of something", 
+            "meaning_bg": "", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "type": "noun"
+        }
+    ], 
+    "replete": [
+        {
+            "example": "Only weeks after the hurricane made landfall, the local supermarket shelves were replete with goods, so quick was the disaster relief response.", 
+            "meaning": "completely stocked or furnished with something", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "sanctimonious": [
+        {
+            "example": "Even during the quiet sanctity of evening prayer, she held her chin high, a sanctimonious sneer forming on her face as she eyed those who were attending church for the first time.", 
+            "meaning": "making a show of being pious; holier-than-thou", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "sanguine": [
+        {
+            "example": "With the prospect of having to learn 3,000 words during the course of the summer, Paul was anything but sanguine.", 
+            "meaning": "cheerful; optimistic", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "scintillating": [
+        {
+            "example": "Richard Feynman was renowned for his scintillating lectures--the arcana of quantum physics was made lucid as he wrote animatedly on the chalkboard.", 
+            "meaning": "describes someone who is brilliant and lively", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "start": [
+        {
+            "example": "All alone in the mansion, Henrietta started when she heard a sound.", 
+            "meaning": "to suddenly move in a particular direction", 
+            "meaning_bg": "", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "type": "verb"
+        }
+    ], 
+    "stem": [
+        {
+            "example": "To stem the tide of applications, the prestigious Ivy requires that each applicant score at least 330 on the Revised GRE.", 
+            "meaning": "to hold back or limit the flow or growth of something", 
+            "meaning_bg": "", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "type": "verb"
+        }
+    ], 
+    "unconscionable": [
+        {
+            "example": "The lawyer's demands were so unconscionable that rather than pay an exorbitant sum or submit himself to any other inconveniences, the defendant decided to find a new lawyer.", 
+            "meaning": "unreasonable; unscrupulous; excessive", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "vicarious": [
+        {
+            "example": "another The advent of twitter is a celebrity stalker's dream, as he or she can--through hundreds of intimate \"tweets\"--vicariously live the life of a famous person.", 
+            "meaning": "felt or undergone as if one were taking part in the experience or feelings of", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "virago": [
+        {
+            "example": "Poor Billy was the victim of the virago's invective--she railed at him for a good 30-minutes about how he is the scum of the earth for speaking loudly on his cellphone in public.", 
+            "meaning": "an ill-tempered or violent woman", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "wax": [
+        {
+            "example": "Her enthusiasm for the diva's new album only waxed with each song; by the end of the album, it was her favorite CD yet.", 
+            "meaning": "to gradually increase in size or intensity", 
+            "meaning_bg": "", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "type": "verb"
+        }
+    ]
+}

@@ -1,0 +1,480 @@
+{
+    "aberration": [
+        {
+            "example": "Aberrations in climate have become the norm: rarely a week goes by without some meteorological phenomenon making headlines.", 
+            "meaning": "a deviation from what is normal or expected", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "acrimony": [
+        {
+            "example": "The acrimonious dispute between the president and vice-president sent a clear signal to voters: the health of the current administration was imperiled.", 
+            "meaning": "bitterness and ill will", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "amalgam": [
+        {
+            "example": "The band's music was an amalgam of hip-hop, flamenco and jazz, blending the three styles with surprising results.", 
+            "meaning": "a mixture of multiple things", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "ambiguous": [
+        {
+            "example": "The coach told his team, \"Move towards that side of the field\"; because he did not point, his directions were ambiguous, and the team had no idea to which side he was referring.", 
+            "meaning": "open to more than one interpretation", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "ambivalent": [
+        {
+            "example": "Sam was ambivalent about studying for the exam because doing so ate up a lot of his time, yet he was able to improve his analytical skills.", 
+            "meaning": "mixed or conflicting emotions about something", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "amenable": [
+        {
+            "example": "Even though she did not like the outdoors, Shirley was generally amenable and so her brother was able to persuade her to go camping.", 
+            "meaning": "easily persuaded", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "amorphous": [
+        {
+            "example": "His study plan for the GRE was at best amorphous; he would do questions from random pages in any one of seven test prep books.", 
+            "meaning": "shapeless", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "anomalous": [
+        {
+            "example": "According to those who do not believe in climate change, the extreme weather over the last five years is simply anomalous--average temps should return to average, they believe.", 
+            "meaning": "not normal", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "artful": [
+        {
+            "example": "Picasso is generally considered the most artful member of the Cubist movement.", 
+            "meaning": "exhibiting artistic skill", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }, 
+        {
+            "example": "Bernie Madoff's artful Ponzi scheme stole billions of dollars from investors and is considered the largest financial fraud in U.S. history.", 
+            "meaning": "clever in a cunning way", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "auspicious": [
+        {
+            "example": "Despite an auspicious beginning, Mike's road trip became a series of mishaps, and he was soon stranded and penniless, leaning against his wrecked automobile.", 
+            "meaning": "favorable, the opposite of sinister", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "belie": [
+        {
+            "example": "The smile on her face belies the pain she must feel after the death of her husband.", 
+            "meaning": "to give a false representation to; misrepresent", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "betray": [
+        {
+            "example": "With the gold medal at stake, the gymnast awaited his turn, his quivering lip betraying his intense emotions.", 
+            "meaning": "to reveal or make known something, usually unintentionally", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "calumny": [
+        {
+            "example": "With the presidential primaries well under way, the air is thick with calumny, and the mud already waisthigh.", 
+            "meaning": "making of a false statement meant to injure a person\"s reputation", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "castigate": [
+        {
+            "example": "Drill sergeants are known to castigate new recruits so mercilessly that the latter often break down during their first week in training.", 
+            "meaning": "to reprimand harshly", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "censure": [
+        {
+            "example": "After being caught in bed with a mistress, the mayor was quickly censured by the city council.", 
+            "meaning": "to express strong disapproval", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "chastise": [
+        {
+            "example": "Though chastised for his wanton abuse of the pantry, Lawrence shrugged off his mother's harsh words, and continued to plow through jars of cookies and boxes of donuts.", 
+            "meaning": "to reprimand harshly", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "commensurate": [
+        {
+            "example": "The convicted felon's life sentence was commensurate to the heinousness of his crime.", 
+            "meaning": "to be in proportion or corresponding in degree or amount", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "demur": [
+        {
+            "example": "Wallace disliked the cold, so he demurred when his friends suggested they going skiing in the Alps.", 
+            "meaning": "to object or show reluctance", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "disinterested": [
+        {
+            "example": "The potential juror knew the defendant, and therefore could not serve on the jury, which must consist only of disinterested members.", 
+            "meaning": "unbiased; neutral", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "egregious": [
+        {
+            "example": "The dictator's abuse of human rights was so egregious that many world leaders asked that he be tried in an international court for genocide.", 
+            "meaning": "standing out in negative way; shockingly bad", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "enervate": [
+        {
+            "example": "John preferred to avoid equatorial countries; the intense sun would always leave him enervated after he'd spent the day sightseeing.", 
+            "meaning": "to sap energy from", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "equivocal": [
+        {
+            "example": "The findings of the study were equivocal--the two researchers had different opinions on what the results signified.", 
+            "meaning": "confusing or ambiguous", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "extant": [
+        {
+            "example": "Despite many bookstores closing, experts predict that some form of book dealing will still be extant generations from now.", 
+            "meaning": "the opposite of extinct", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "frugal": [
+        {
+            "example": "Monte was no miser, but was simply frugal, wisely spending the little that he earned.", 
+            "meaning": "not spending much money (but spending wisely)", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "galvanize": [
+        {
+            "example": "At mile 23 of his first marathon, Kyle had all but given up, until he noticed his friends and family holding a banner that read, \"Go Kyle\"; galvanized, he broke into a gallop, finishing the last three miles in less than 20 minutes.", 
+            "meaning": "to excite or inspire (someone) to action", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "gregarious": [
+        {
+            "example": "Often we think that great leaders are those who are gregarious, always in the middle of a large group of people; yet, as Mahatma Gandhi and many others have shown us, leaders can also be introverted.", 
+            "meaning": "to be likely to socialize with others", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "harangue": [
+        {
+            "example": "Dinner at Billy's was more a punishment than a reward, since anyone who sat at the dinner table would have to listen to Billy's father's interminable harangues against the government.", 
+            "meaning": "a long pompous speech; a tirade", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }, 
+        {
+            "example": "Tired of his parents haranguing him about his laziness and lack of initiative, Tyler finally moved out of home at the age of thirty-five.", 
+            "meaning": "to deliver a long pompous speech or tirade", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "iconoclast": [
+        {
+            "example": "Lady Gaga, in challenging what it means to be clothed, is an iconoclast for wearing a \"meat dress\" to a prominent awards show.", 
+            "meaning": "somebody who attacks cherished beliefs or institutions", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "impertinent": [
+        {
+            "example": "Dexter, distraught over losing his pet dachshund, Madeline, found the police officer's questions impertinent--after all, he thought, did she have to pry into such details as to what Madeline's favorite snack was?", 
+            "meaning": "being disrespectful; improperly forward or bold", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "ingenuous": [
+        {
+            "example": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fall for any ruse, regardless of how elaborate.", 
+            "meaning": "to be naive and innocent", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "innocuous": [
+        {
+            "example": "Everyone found Nancy's banter innocuous--except for Mike, who felt like she was intentionally picking on him.", 
+            "meaning": "harmless and doesn\"t produce any ill effects", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "intimate": [
+        {
+            "example": "At first Manfred's teachers intimated to his parents that he was not suited to skip a grade; when his parents protested, teachers explicitly told them that, notwithstanding the boy's precocity, he was simply too immature to jump to the 6th grade.", 
+            "meaning": "to suggest something subtly", 
+            "meaning_bg": "", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "type": "verb"
+        }
+    ], 
+    "involved": [
+        {
+            "example": "The physics lecture became so involved that the undergraduate's eyes glazed over.", 
+            "meaning": "complicated, and difficult to comprehend", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "laconic": [
+        {
+            "example": "While Martha always swooned over the hunky, laconic types in romantic comedies, her boyfriends inevitably were very talkative--and not very hunky.", 
+            "meaning": "one who says very few words", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "maintain": [
+        {
+            "example": "The scientist maintained that the extinction of dinosaurs was most likely brought about by a drastic change in climate.", 
+            "meaning": "to assert", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "mercurial": [
+        {
+            "example": "The fact that Ella's moods were as mercurial as the weather was problematic for her relationships--it didn't help that she lived in Chicago.", 
+            "meaning": "(of a person) prone to unexpected and unpredictable changes in mood", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "parochial": [
+        {
+            "example": "Jasmine was sad to admit it, but her fledgling relationship with Jacob did not work out because his culinary tastes were simply too parochial; \"After all,\" she quipped on her blog, \"he considered Chef Boyardee ethnic food.\"", 
+            "meaning": "narrowly restricted in scope or outlook", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "parsimonious": [
+        {
+            "example": "Katie is so parsimonious that she only buys a pair of socks if all of her other socks have holes in them.", 
+            "meaning": "extremely frugal; miserly", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "prevaricate": [
+        {
+            "example": "The cynic quipped, \"There is not much variance in politicians; they all seem to prevaricate\".", 
+            "meaning": "to speak in an evasive way", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "prodigal": [
+        {
+            "example": "Successful professional athletes who do not fall prey to prodigality seem to be the exception--most live decadent lives.", 
+            "meaning": "rashly or wastefully extravagant", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "profligate": [
+        {
+            "example": "", 
+            "meaning": "spending money recklessly or wastefully", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }, 
+        {
+            "example": "Most lottery winners go from being conservative, frugal types to outright profligates who blow millions on fast cars, lavish homes, and giant yachts.", 
+            "meaning": "someone who spends money recklessly or wastefully", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "qualify": [
+        {
+            "example": "If James had made more than $50,000 last year, then he wouldn't have qualified for the low-income scholarship.", 
+            "meaning": "to be legally competent or capable", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }, 
+        {
+            "example": "Chris qualified his love for San Francisco, adding that he didn't like the weather as much as the weather in Los Angeles.", 
+            "meaning": "to make less severe; to limit (a statement)", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "restive": [
+        {
+            "example": "The crowd grew restive as the comedian's opening jokes fell flat.", 
+            "meaning": "restless", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "undermine": [
+        {
+            "example": "The student undermined the teacher's authority by questioning the teacher's judgment on numerous occasions.", 
+            "meaning": "to weaken (usually paired with an abstract term)", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "upbraid": [
+        {
+            "example": "Bob took a risk walking into the \"Students Barbershop\"--in the end he had to upbraid the apparently drunk barber for giving him an uneven bowl cut.", 
+            "meaning": "to reproach; to scold", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "venality": [
+        {
+            "example": "Even some of the most sacrosanct sporting events are not immune to venality, as many of the officials have received substantial bribes to make biased calls.", 
+            "meaning": "the condition of being susceptible to bribes or corruption", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "venerate": [
+        {
+            "example": "The professor, despite his soporific lectures, was venerated amongst his colleagues, publishing more papers yearly than all of his peers combined.", 
+            "meaning": "to respect deeply", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "veracious": [
+        {
+            "example": "While we elect our leaders in the hope that every word they speak will be veracious, history has shown that such a hope is naive.", 
+            "meaning": "truthful", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "vindicate": [
+        {
+            "example": "Even seven Tour de France wins cannot vindicate Lance Armstrong in the eyes of the public--that the athlete used performance enhancing drugs invalidates all those wins.", 
+            "meaning": "to clear of accusation, blame, suspicion, or doubt with supporting arguments or proof", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "wanting": [
+        {
+            "example": "She did not think her vocabulary was wanting, yet there were so many words that inevitably she found a few she didn't know.", 
+            "meaning": "lacking", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ]
+}

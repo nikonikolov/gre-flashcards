@@ -233,7 +233,7 @@ grandkids learned to hide from him at every opportunity.
 corollary (noun): a practical consequence that follows naturally
 A corollary of Hurricane Sandy, which ravaged the east coast of the U.S., is a push to build higher sea
 walls to protect against future hurricanes.
-cosseted (verb): treat with excessive indulgence
+cosset (verb): treat with excessive indulgence
 The king and queen cosseted the young prince, giving him a prized miniature pony for his fifth birthday.
 coterminous (adjective): being of equal extent or scope or duration
 The border of the state is coterminous with geographic limits on travel; the east and north are
@@ -362,7 +362,7 @@ empiricism (noun): any method that derives knowledge from experience, used in ex
 as a way to gain insight and knowledge
 Empiricism does not always lead to knowledge; an experience or experiment may raise more questions
 than it answers.
-enamor (verb): attraction or feeling of love
+enamored (verb): strongly attracted to, in love with
 She is completely enamored with Justin Bieber, and goes to all his concerts on the East coast.
 encumber (verb): hold back
 The costume encumbered all my movements and caused me to sweat profusely.
@@ -410,7 +410,7 @@ bout, let the prototype slip into the hands of a rival company--the next day Lar
 then fired.
 execrate (verb): to curse and hiss at
 Though the new sitcom did decently in the ratings, Nelson railed against the show, saying that it was
-nothing more than an execrable pastiche of tired clichÃ©'s and canned laughter.
+nothing more than an execrable pastiche of tired cliches and canned laughter.
 exegesis (noun): critical explanation or analysis, especially of a text
 The Bible is fertile ground for exegesis--over the past five centuries there have been as many
 interpretations as there are pages in the Old Testament.
@@ -544,7 +544,7 @@ I am not impervious to your insults; they cause me great pain.
 impetuous (adjective): characterized by undue haste and lack of thought or deliberation
 Herbert is rarely impetuous, but on the spur of the moment, he spent thousands of dollars on a
 motorcycle today.
-importuned (verb): beg persistently and urgently
+importune (verb): beg persistently and urgently
 After weeks of importuning the star to meet for a five-minute interview, the journalist finally got what
 she wanted.
 improvident (adjective): not given careful consideration
@@ -614,7 +614,7 @@ While the literary critic subjected most of the classics to the harshest reviews
 inviolate, and had nothing but praise for him.
 irrefutable (adjective): impossible to deny or disprove
 The existence of life on earth is irrefutable; the existence of intelligent life on earth is still hotly debated.
-jaundice (adjective): to be biased against due to envy or prejudice
+jaundiced (adjective): to be biased against due to envy or prejudice
 Shelly was jaundiced towards Olivia; though the two had once been best friends, Olivia had become class
 president, prom queen, and, to make matters worse, the girlfriend of the one boy Shelly liked.
 jejune (adjective): dull; lacking flavor

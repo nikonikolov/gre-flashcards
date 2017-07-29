@@ -1,0 +1,18 @@
+
+.card{
+  width: 70%;
+  margin: 0 auto;
+}
+
+.card-title{
+  padding-top: 30px; 
+  padding-bottom: 30px; 
+}
+
+.card-meaning{
+  margin-top: 10px; 
+}
+
+#show-meaning:hover {
+  cursor: pointer;
+}

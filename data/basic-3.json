@@ -1,0 +1,494 @@
+{
+    "advocate": [
+        {
+            "example": "While the senator privately approved of gay marriage, he was unwilling to advocate for the cause in a public venue.", 
+            "meaning": "speak, plead, or argue in favor of", 
+            "meaning_bg": "", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "type": "verb"
+        }, 
+        {
+            "example": "Martin Luther King Jr. was a tireless advocate for the rights of African-Americans in the United States.", 
+            "meaning": "a person who pleads for a cause or propounds an idea", 
+            "meaning_bg": "", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "type": "noun"
+        }
+    ], 
+    "appreciable": [
+        {
+            "example": "There is an appreciable difference between those who say they can get the job done and those who actually get the job done.", 
+            "meaning": "large enough to be noticed (usu. refers to an amount)", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "apprehension": [
+        {
+            "example": "Test day can be one of pure apprehension, as many students worry about their test scores.", 
+            "meaning": "fearful expectation", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "archaic": [
+        {
+            "example": "Hoping to sound intelligent, Mary spoke in archaic English that was right out of Jane Austen's Pride and Prejudice--needless to say, she didn't have many friends.", 
+            "meaning": "so old as to appear to belong to a different period", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "ascendancy": [
+        {
+            "example": "The ascendancy of the Carlsbad water polo team is clear--they have a decade of championships behind them.", 
+            "meaning": "the state that exists when one person or group has power over another", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "autonomously": [
+        {
+            "example": "Many of the factory workers are worried about being replaced by machines and computers that will work completely autonomously.", 
+            "meaning": "In an autonomous or self-governing manner.", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adv."
+        }
+    ], 
+    "avid": [
+        {
+            "example": "Martin is an avid birdwatcher, often taking long hikes into remote mountains to see some rare eagle.", 
+            "meaning": "marked by active interest and enthusiasm", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "boon": [
+        {
+            "example": "Modern technology has been a boon to the travel industry.", 
+            "meaning": "a desirable state", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }, 
+        {
+            "example": "He was a boon companion to many, and will be sadly missed.", 
+            "meaning": "very close and convivial", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "consummate": [
+        {
+            "example": "Tyler was the consummate musician: he was able to play the guitar, harmonica, and the drum at the same time.", 
+            "meaning": "having or revealing supreme mastery or skill", 
+            "meaning_bg": "", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "type": "adj."
+        }, 
+        {
+            "example": "The restoration of the ancient church was only consummated after a twenty years of labor.", 
+            "meaning": "to make perfect and complete in every respect", 
+            "meaning_bg": "", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "type": "verb"
+        }
+    ], 
+    "dearth": [
+        {
+            "example": "I am surprised by the dearth of fast food chains; this is America and I assumed they were on every street.", 
+            "meaning": "a lack or shortage", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "degrade": [
+        {
+            "example": "Jesse had mockingly pointed out all of Nancy's faults in front of their friends, publicly degrading the poor girl.", 
+            "meaning": "reduce in worth or character, usually verbally", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "deter": [
+        {
+            "example": "His mother tried to deter him from joing the army, but he was too intoxicated with the idea of war to listen.", 
+            "meaning": "turn away from by persuasion", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }, 
+        {
+            "example": "The government's primary job should invlove deterring paths to war, not finding ways to start them.", 
+            "meaning": "try to prevent; show opposition to", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "discriminate": [
+        {
+            "example": "Sarah couldn't discriminate between a good wine and a bad wine, so she avoided wine tastings.", 
+            "meaning": "recognize or perceive the difference", 
+            "meaning_bg": "", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "type": "verb"
+        }
+    ], 
+    "disenfranchise": [
+        {
+            "example": "The U.S. Constitution disenfranchised women until 1920 when they were given the right to vote.", 
+            "meaning": "deprive of voting rights", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "disheartened": [
+        {
+            "example": "After the visiting team scored nine times, the home team's fans were disheartened, some leaving the game early.", 
+            "meaning": "made less hopeful or enthusiastic", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "elusive": [
+        {
+            "example": "Many first time skydivers say that describing the act of falling from the sky is elusive.", 
+            "meaning": "difficult to capture or difficult to remember", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "endemic": [
+        {
+            "example": "Irish cuisine makes great use of potatoes, but ironically, the potato is not endemic to Ireland.", 
+            "meaning": "native; originating where it is found", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "entice": [
+        {
+            "example": "Harold enticed his wife, Maude, to go on a vacation to Hawaii, with promises of luaus on the beach and all-you-can-eat seafood buffets.", 
+            "meaning": "get someone to do something through (often false or exaggerated) promises", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "fete": [
+        {
+            "example": "After World War II, war heroes were feted at first but quickly forgotten.", 
+            "meaning": "to celebrate a person", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "fledgling": [
+        {
+            "example": "Murray has years of experience in family practice, but he is just a fledgling in surgery.", 
+            "meaning": "young and inexperienced; describing any new participant in some activity", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "flounder": [
+        {
+            "example": "Sylvia has excelled at advanced calculus, but ironically, when she has deal with taxes, she flounders.", 
+            "meaning": "behave awkwardly; have difficulties", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "guffaw": [
+        {
+            "example": "Whenever the jester fell to the ground in mock pain, the king guffawed, exposing his yellow, fang-like teeth.", 
+            "meaning": "laugh boisterously", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "impede": [
+        {
+            "example": "Since the police sergeant had to train the pair of new hires, progress in his own case was impeded.", 
+            "meaning": "be a hindrance or obstacle to", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "impermeable": [
+        {
+            "example": "The sand bags placed on the river formed an impermeable barrier, protecting the town from flooding.", 
+            "meaning": "does not allow fluids to pass through", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "incessant": [
+        {
+            "example": "I don't mind small children in brief doses, but I think the incessant exposure that their parents have to them would quickly wear me down.", 
+            "meaning": "uninterrupted in time and indefinitely long continuing", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "inclement": [
+        {
+            "example": "After a week of inclement weather, we finally are able to go outside and enjoy the sun.", 
+            "meaning": "(of weather) unpleasant, stormy", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }, 
+        {
+            "example": "Marcus Aurelius, though a fair man, was inclement to Christians during his reign, persecuting them violently.", 
+            "meaning": "used of persons or behavior; showing no mercy", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "ingenuity": [
+        {
+            "example": "Daedalus was famous for his ingenuity; he was able to fashion his son Icarus with a pair of wings, using wax to hold them together.", 
+            "meaning": "the power of creative imagination", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "jocular": [
+        {
+            "example": "My uncle was always in a jocular mood at family gatherings, messing up people's hair and telling knockknock jokes to anyone who would listen.", 
+            "meaning": "characterized by jokes and good humor", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "malady": [
+        {
+            "example": "The town was struck by a malady throughout the winter that left most people sick in bed for two weeks.", 
+            "meaning": "a disease or sickness", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "malleable": [
+        {
+            "example": "The clay became malleable and easy to work with after a little water was added.", 
+            "meaning": "capable of being shaped or bent or drawn out", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }, 
+        {
+            "example": "My little brother is so malleable that I can convince him to sneak cookies from the cupboard for me.", 
+            "meaning": "easily influenced", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "meander": [
+        {
+            "example": "A casual observer might have thought that Peter was meandering through the city, but that day he was actually seeking out those places where he and his long lost love had once visited.", 
+            "meaning": "to wander aimlessly", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "moot": [
+        {
+            "example": "Since the Board just terminated Steve as the CEO, what the finance committe might have thought of his proposed marketing plan for next year is now a moot point.", 
+            "meaning": "open to argument or debate; undecidable in a meaningless or irrelevant way", 
+            "meaning_bg": "", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "type": "adj."
+        }
+    ], 
+    "morose": [
+        {
+            "example": "After Stanley found out he was no longer able to go on vacation with his friends, he sat in his room morosely.", 
+            "meaning": "ill-tempered and not inclined to talk; gloomy", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "muted": [
+        {
+            "example": "Helen preferred muted earth colors, such as green and brown, to the bright pinks and red her sister liked.", 
+            "meaning": "softened, subdued", 
+            "meaning_bg": "", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "type": "adj."
+        }
+    ], 
+    "obdurate": [
+        {
+            "example": "No number of pleas and bribes would get him to change his obdurate attitude.", 
+            "meaning": "stubbornly persistent in changing an opinion or action", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "ornate": [
+        {
+            "example": "The ornate Victorian and Edwardian homes spread throughout San Francisco are my favorite part of the city.", 
+            "meaning": "marked by elaborate rhetoric and elaborated with decorative details", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "patronize": [
+        {
+            "example": "She says she genuinely wanted to help me, but instead she patronized me, constantly pointing out how I was inferior to her.", 
+            "meaning": "treat condescendingly", 
+            "meaning_bg": "", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "type": "verb"
+        }
+    ], 
+    "pithy": [
+        {
+            "example": "I enjoy reading the Daodejing for its pithy and insightful prose; it always gives me something to think about.", 
+            "meaning": "concise and full of meaning", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "plodding": [
+        {
+            "example": "Charlie may seem to run at a plodding pace, but he is an ultramarathoner, meaning he runs distances of up to 100 miles, and can run for ten hours at a stretch.", 
+            "meaning": "(of movement) slow and laborious", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "proponent": [
+        {
+            "example": "Ironically, the leading proponent of Flat-Earth Theory flies all over the world in an effort to win more adherents.", 
+            "meaning": "a person who pleads for a cause or propounds an idea", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "quandary": [
+        {
+            "example": "unfavorable options Steve certainly is in a quandary: if he doesn't call Elaine, she will blame him for everything, but if he does call her, the evidence of where he currently is could cost him his job.", 
+            "meaning": "state of uncertainty or perplexity especially as requiring a choice between equally", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "raffish": [
+        {
+            "example": "The men found him raffish, but the women adored his smart clothes and casual attitude.", 
+            "meaning": "marked by a carefree unconventionality or disreputableness", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "renege": [
+        {
+            "example": "We will no longer work with that vendor since it has reneged on nearly every agreement.", 
+            "meaning": "fail to fulfill a promise or obligation", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "resolve": [
+        {
+            "example": "After much thought, Ted resolved not to travel abroad this summer because he didn't have much money in his bank account.", 
+            "meaning": "reach a conclusion after a discussion or deliberation", 
+            "meaning_bg": "", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "type": "verb"
+        }
+    ], 
+    "respite": [
+        {
+            "example": "Every afternoon, the small company has a respite in which workers play foosball or board games.", 
+            "meaning": "a pause from doing something (as work)", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "noun"
+        }
+    ], 
+    "robust": [
+        {
+            "example": "Chris preferred bland and mild beers, but Bhavin preferred a beer with more robust flavor.", 
+            "meaning": "sturdy and strong in form, constitution, or construction", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "snide": [
+        {
+            "example": "The chairman interpreted Taylor's question about promotions as a snide remark, but in all innocence Taylor was trying to figure out the company's process.", 
+            "meaning": "expressive of contempt; derogatory or mocking in an indirect way", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "stolid": [
+        {
+            "example": "Elephants may appear stolid to casual observers, but they actually have passionate emotional lives.", 
+            "meaning": "having or revealing little emotion or sensibility; not easily aroused or excited", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ], 
+    "thwart": [
+        {
+            "example": "I wanted to spend a week in New York this autumn, but the high costs of travel and lodging thwarted my plans.", 
+            "meaning": "hinder or prevent (the efforts, plans, or desires) of", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "verb"
+        }
+    ], 
+    "transitory": [
+        {
+            "example": "If we lived forever and life was not transitory, do you think we would appreciate life less or more?", 
+            "meaning": "lasting a very short time", 
+            "meaning_bg": "", 
+            "note": "", 
+            "type": "adj."
+        }
+    ]
+}
