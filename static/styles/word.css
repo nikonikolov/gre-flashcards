@@ -13,6 +13,19 @@
   margin-top: 10px; 
 }
 
-#show-meaning:hover {
+#know{
+  color: green;
+}
+
+#notknow{
+  color: #B11F00;
+}
+
+#show-meaning:hover,
+#know:hover,
+#notknow:hover
+{
   cursor: pointer;
 }
+
+

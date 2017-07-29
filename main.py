@@ -5,6 +5,8 @@ from flask import Flask
 from flask import jsonify
 from flask import render_template
 from flask import request
+from flask import redirect
+from flask import url_for
 
 from wordlist import WordList
 
@@ -83,66 +85,59 @@ def show_word(word, listname, meaning=None):
   else:
     return render_template('word.html', word_list=listname, word=word, meaning=meaning)
 
-def get_lman(listname):
-  return listmans[str(listname)]
+
+def get_and_read_lman(listname):
+  lman = listmans[str(listname)]
+  lman.read_data()
+  return lman
+
 
 # --------------------------- FLASK ---------------------------
 
 @app.route('/')
-def index():
+def home():
   wordlists = get_word_lists()
   return render_template('wordlists.html', wordlists=wordlists)
 
 
 @app.route('/vocab/<listname>')
-def show_list(listname):
-  lman = get_lman(listname)
-  # lman = listmans[str(listname)]
-  lman.read_data()
+def list_next_word(listname):
+  """
+  @brief: Displays the next word from a list
+  """
+  lman = get_and_read_lman(listname)
   word, meaning = lman.get_next_word()
   if word is None:
+    lman.clear_memory()
     return "List Learned"
   return show_word(word, listname, meaning=meaning)
 
 
+@app.route('/vocab/<listname>/_know')
+def list_know(listname):
+  """
+  @brief: Handles GET request after know/don't know button is clicked in word meaning
+  """
+  flag = bool(request.args.get('flag', 0, type=int))
+  lman = get_and_read_lman(listname)
+  lman.word_known(flag)
+  return jsonify(result= "/vocab/" + str(listname))
+
+
 @app.route('/words/<word>')
-def show_word_from_all(word):
+def query_word(word):
   return show_word(word, "all")
 
 
 @app.route('/words/<listname>/<word>')
-def show_word_from_list(word, listname):
+def query_from_list(word, listname):
   return show_word(word, listname)
 
 
-# @app.route('/')
-# def hello_world():
-#   return 'Hello, World!'
-
 @app.route('/addword')
-def addword_form():
-  return render_template('addword.html')
+def addword():
+  return render_template('addword.html', num=1)
 
-
-@app.route('/word')
-def word():
-  return render_template('word.html', word="mercurial", word_list="high-frequency", meaning=[])
-
-
-@app.route('/hello/<num>')
-def hello_num(num):
-  return render_template('addword.html', num=int(num))
-
-# @app.route('/hello/<user>')
-# def hello_name(user):
-#    return render_template('hello.html', name = user)
-
-
-@app.route('/_add_numbers')
-def add_numbers():
-  a = request.args.get('a', 0, type=int)
-  b = request.args.get('b', 0, type=int)
-  return jsonify(result=a + b)
 
 
 

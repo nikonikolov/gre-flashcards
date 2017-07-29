@@ -63,12 +63,15 @@ class WordList:
     """
     @return: tuple of the word (str) and its meaning (list)
     """
+
+    print("idx: %d, len: %d" % (self.word_idx, len(self.words)))
     try:
       word = self.words[self.word_idx]
     except IndexError:
       # We have run out of words - check if there are still words you don't know
       if self.out_of_words():
         return None, None
+      word = self.words[self.word_idx]
     
     return word, self.data[word]
 
@@ -88,13 +91,13 @@ class WordList:
       return True
 
 
-  def word_response(self, flag):
+  def word_known(self, flag):
     """
-    @brief: Puts the current word in the uknown list if necessary and advances self.word_idx
+    @brief: Puts the current word in the unknown list if necessary and advances self.word_idx
     @param flag: True if current word is known, false otherwise
     """
-    if flag:
-      self.uknown.append(self.words[self.word_idx])
+    if not flag:
+      self.unknown.append(self.words[self.word_idx])
     self.word_idx += 1
 
 
