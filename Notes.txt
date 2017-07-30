@@ -1,0 +1,71 @@
+
+NAVIGATION
+  - Make sure that addword and search get open in new tabs so that you don't lose track of the current list
+  - Think about: how should you handle the case when you leave the page while studying a list
+    - should you release the memory
+    - should you just remember where you are ?? 
+
+
+ADDING WORD
+  - Add a field for choosing which list to add the word to
+
+  - Check if it already exists and send appropriate message as response
+    - message must be in json format
+    - js must parse the message (string to json)
+    - js must report properly to user what happened
+
+  - Make sure you also add the word to the all list
+  - Make sure you can only add to new lists and not to the default ones
+    - how do you make a form with several selections possible
+
+
+  - BUG: why is the list in memory and the new word is only written to disk, but 
+    does not apprear in the list in the browser
+
+
+
+MODIFYING WORD
+  - Create a new page for it
+    - Proceed with this only after you are fully ready with adding words
+    - Proceed with this only after you have finalized the json format
+    - Use the value property in html to autofill the form
+    - Browser path must be sth like /modifyword/<word>
+
+  - Create new flask functions and paths for this
+  - Add button for doing this while browsing words
+
+  - Make sure that you modify every entry in EVERY LIST
+
+  - Add a way for removing the word from its current lists 
+    - again not active for the default lists
+    - this will change the format of the json you send
+
+
+
+REVIEWING WORDS
+  - Add a way to directly add the word to another list
+  - Must be also able to create a new list
+  - Add a way for removing the word from the current list - again not active for the default lists
+
+
+
+JSON FORMAT:
+  - Add a synonyms/antonyms entry to a card ?
+  - What other fields would you need
+
+
+SEARCHING FOR A WORD
+  - Check in python how to match a string to all dictionary keys
+  - Maybe use a dedicated page rather than the thing on the navbar
+
+
+IMPROVEMENTS
+  - make a button after learning a list to try it again - not crucial
+  - another page for creating a new list ?
+
+  - see log.md and fix the relevant words
+
+
+
+
+

@@ -43,13 +43,14 @@ def append_word(word, meaning, filename):
     meaning: list of meanings for the word
   """
   file_path = os.path.join(DATA_DIR, filename)
-  with open(file_path, 'rw') as f:
+  with open(file_path, 'r') as f:
     data = json.load(f)
-    if word in data:
-      data[word] += meaning
-    else:
-      data[word] = meaning
-    write_file_obj(data, f)
+
+  if word in data:
+    data[word] += meaning
+  else:
+    data[word] = meaning
+  write_file(data, filename)
 
 
 def json_from_file(filename):
@@ -141,9 +142,13 @@ def addword():
 
 @app.route('/addword/_submit', methods=['POST'])
 def process_form():
-  data_unicode = request.json
-  print(data_unicode)
-  return jsonify("Success")
+  """
+  @brief: Handle form submission for adding word
+  """
+  data = request.get_json()
+  word = next(iter(data))
+  append_word(word, data[word], "test.json")
+  return jsonify(word)
 
 
 # --------------------------- MAIN ---------------------------

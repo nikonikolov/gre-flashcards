@@ -47,22 +47,15 @@
   <!-- ================================================== BODY ================================================== -->
   <div class="container">
 
+    <h2 class="section-heading">Add new word</h2>
+
     <form id="word-form" data-toggle="validator">
-
- <!--          
-        <label for="example-text-input" class="col-2 col-form-label">Text</label>
-        <div class="col-10">
-        <input class="form-control" type="text" value="Artisanal kale" id="example-text-input">
-        </div>
-  -->
-      <!-- <input type="text" class="form-control" id="test" placeholder="Enter word"> -->
-
 
       <!-- Word -->
       <hr class="featurette-divider">
       <div class="form-group">
         <label for="word">Word</label>
-        <input type="text" class="form-control" id="word" placeholder="Enter word" required>
+        <input type="text" class="form-control" id="word" placeholder="Enter word" required value="">
       </div>
 
       <div id="meanings">
@@ -76,8 +69,8 @@
             <select multiple class="form-control word-type" required="">
               <option>noun</option>
               <option>verb</option>
-              <option>adjective</option>
-              <option>adverb</option>
+              <option>adj.</option>
+              <option>adv.</option>
             </select>
           </div>
      
@@ -108,9 +101,7 @@
       <button id="rmm-btn"    class="btn btn-warning"   type="button">Remove Meaning</button>
       <button id="reset-btn"  class="btn btn-danger"    type="reset">Reset</button>
 
-      <!-- <div type="submit" class="btn btn-primary" id="submit-form">Write Word</div> -->
-      
-      <!-- <button id="submit-form">Write Word</button> -->
+      <div id="result"></div>
 
     </form>        
 

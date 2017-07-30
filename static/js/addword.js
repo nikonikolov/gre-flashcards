@@ -41,6 +41,7 @@ $(document).ready( function() {
     function() {
       clone_count++;
       $("#m1").clone().attr('id', "m" + clone_count).appendTo("#meanings");  
+      $("#m" + clone_count).validator('update');
     }
   );
 
@@ -53,27 +54,38 @@ $(document).ready( function() {
     }
   );
 
+  $('#reset-btn').click( 
+    function() {
+      $("#result").text("");
+    }
+  );
+
+  function parseForm(form_data) {
+    var meaning = [];
+
+    // Parse the form
+    for (var i=0; i<form_data.length; i++) {
+      var m = $(form_data[i]);
+      var def = {};
+      def["type"]       = m.find(".word-type").val()[0];
+      def["meaning"]    = m.find(".word-meaning").val();
+      def["meaning_bg"] = m.find(".word-meaning-bg").val();
+      def["example"]    = m.find(".word-example").val();
+      meaning.push(def);
+    }
+
+    return meaning;
+  }
+
 
   $('#submit-btn').click( 
     function() {
 
       var form = $('#word-form');
-      var word = form.find("#word").val();
-
-      // var form_data = form.children(".new-meaning");
       var form_data = form.find(".new-meaning");
-      var meaning = [];
 
-      // Parse the form
-      for (var i=0; i<form_data.length; i++) {
-        var m = $(form_data[i]);
-        var def = {};
-        def["type"]       = m.find(".word-type").val()[0];
-        def["meaning"]    = m.find(".word-meaning").val();
-        def["meaning_bg"] = m.find(".word-meaning-bg").val();
-        def["example"]    = m.find(".word-example").val();
-        meaning.push(def);
-      }
+      var word = form.find("#word").val();
+      var meaning = parseForm(form_data);
     
       // Pack the word in JSON    
       var data = {};
@@ -87,12 +99,15 @@ $(document).ready( function() {
           data: JSON.stringify(data),
           dataType: 'json',
           url: '/addword/_submit',
-          success: function (e) {
-            console.log(e);
+          success: function (w) {
             $('#reset-btn').trigger('click');
+            $("#result").css("color", "green");
+            $("#result").text("Successfully added " + w + "!");
           },
           error: function(error) {
             console.log(error);
+            $("#result").css("color", "red");
+            $("#result").text("Something went wrong!");
         }
       });
 

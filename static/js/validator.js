@@ -43,9 +43,14 @@
     this.options    = options
     this.validators = $.extend({}, Validator.VALIDATORS, options.custom)
     this.$element   = $(element)
-    this.$btn       = $('button[type="submit"], input[type="submit"]')
+    // NOTE: THIS IS THE ORIGINAL LIBRARY VERSION
+    // this.$btn       = $('button[type="submit"], input[type="submit"]')
+    //                     .filter('[form="' + this.$element.attr('id') + '"]')
+    //                     .add(this.$element.find('input[type="submit"], button[type="submit"]'))
+    // NOTE: THIS IS THE MODIFIED VERSION
+    this.$btn       = $('button[id="submit-btn"], input[type="submit"]')
                         .filter('[form="' + this.$element.attr('id') + '"]')
-                        .add(this.$element.find('input[type="submit"], button[type="submit"]'))
+                        .add(this.$element.find('input[type="submit"], button[id="submit-btn"]'))
 
     this.update()
 
