@@ -139,6 +139,11 @@ def addword():
   return render_template('addword.html', num=1)
 
 
+@app.route('/addword/_submit', methods=['POST'])
+def process_form():
+  data_unicode = request.json
+  print(data_unicode)
+  return jsonify("Success")
 
 
 # --------------------------- MAIN ---------------------------

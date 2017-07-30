@@ -13,31 +13,29 @@
 
   <title>GRE Flashcards</title>
   
+  <!-- Set the SCRIPT_ROOT variable -->
+  <script type=text/javascript> $SCRIPT_ROOT = {{ request.script_root|tojson|safe }}; </script>
+
   <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
   <script type="text/javascript"            src = "{{ url_for('static',filename='vendor/jquery/jquery-2.1.4.min.js') }}">    </script>
   
   <!-- Bootstrap -->
-  <link   type="text/css" rel="stylesheet"  href= "{{ url_for('static',filename='vendor/bootstrap/css/bootstrap.min.css') }}">
-  <script type="text/javascript"            src = "{{ url_for('static',filename='vendor/bootstrap/js/bootstrap.min.js') }}">    </script>
-    
-  <!-- Navigation bar -->
-  <link   type="text/css" rel="stylesheet"  href= "{{ url_for('static',filename='navbar/navbar.css') }}">
-  <script type="text/javascript"            src = "{{ url_for('static',filename='navbar/navbar.js') }}">    </script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+  <!-- <link   type="text/css" rel="stylesheet"  href= "{{ url_for('static',filename='vendor/bootstrap/css/bootstrap.min.css') }}"> -->
+  <!-- <script type="text/javascript"            src = "{{ url_for('static',filename='vendor/bootstrap/js/bootstrap.min.js') }}">    </script> -->
+  
+  <!-- Common CSS and JS -->
+  <link   type="text/css" rel="stylesheet"  href= "{{ url_for('static',filename='styles/common.css') }}">
+  <script type="text/javascript"            src = "{{ url_for('static',filename='js/common.js') }}">    </script>
 
   <!-- CSS and JS for this page -->
-  <link   type="text/css" rel="stylesheet"  href= "{{ url_for('static',filename='styles-common.css') }}">
-  <script type="text/javascript"            src = "{{ url_for('static',filename='script-common.js') }}">    </script>
-  <script type="text/javascript"            src = "{{ url_for('static',filename='addword.js') }}">          </script>
-
-  <!-- Tab icon -->
-  <link rel="shortcut icon" href= "{{ url_for('static',filename='img/favicon.ico') }}">
+  <!-- <link   type="text/css" rel="stylesheet"  href= "{{ url_for('static',filename='styles/addword.css') }}"> -->
+  <script type="text/javascript"            src = "{{ url_for('static',filename='js/addword.js') }}">    </script>
+  <script type="text/javascript"            src = "{{ url_for('static',filename='js/validator.js') }}">    </script>
 
   <!-- Custom Fonts -->
-  <link   type="text/css" rel="stylesheet"  href= "{{ url_for('static',filename='vendor/font-awesome/css/font-awesome.min.css') }}">
-  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-  <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
-  <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-  <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+  <link   type="text/css" rel="stylesheet" href= "{{ url_for('static',filename='vendor/font-awesome/css/font-awesome.min.css') }}">
 
 </head>
 
@@ -49,7 +47,7 @@
   <!-- ================================================== BODY ================================================== -->
   <div class="container">
 
-    <form id="word-form">
+    <form id="word-form" data-toggle="validator">
 
  <!--          
         <label for="example-text-input" class="col-2 col-form-label">Text</label>
@@ -61,52 +59,63 @@
 
 
       <!-- Word -->
+      <hr class="featurette-divider">
       <div class="form-group">
         <label for="word">Word</label>
-        <input type="text" class="form-control" id="word" placeholder="Enter word">
+        <input type="text" class="form-control" id="word" placeholder="Enter word" required>
       </div>
 
+      <div id="meanings">
       {% for i in range(num) %}
-      <div class="new-meaning">
-        <!-- Type -->
-        <div class="form-group">
-          <label for="exampleSelect2">Type</label>
-          <select multiple class="form-control word-type">
-            <option>noun</option>
-            <option>verb</option>
-            <option>adjective</option>
-            <option>adverb</option>
-          </select>
-        </div>
-   
-        <!-- Meaning -->
-        <div class="form-group">
-          <label for="exampleInputEmail1">Meaning</label>
-          <input type="text" class="form-control word-meaning" placeholder="Enter word">
-        </div>
 
-       <!-- Meaning BG -->
-        <div class="form-group">
-          <label for="exampleInputEmail1">Meaning BG</label>
-          <input type="text" class="form-control word-meaning-bg" placeholder="Enter word">
-        </div>
+        <div id="m1" class="new-meaning">
+          <hr class="featurette-divider">
+          <!-- Type -->
+          <div class="form-group">
+            <label for="exampleSelect2">Type</label>
+            <select multiple class="form-control word-type" required="">
+              <option>noun</option>
+              <option>verb</option>
+              <option>adjective</option>
+              <option>adverb</option>
+            </select>
+          </div>
+     
+          <!-- Meaning -->
+          <div class="form-group">
+            <label for="exampleInputEmail1">Meaning</label>
+            <input type="text" class="form-control word-meaning" placeholder="Enter word" required="">
+          </div>
+
+         <!-- Meaning BG -->
+          <div class="form-group">
+            <label for="exampleInputEmail1">Meaning BG</label>
+            <input type="text" class="form-control word-meaning-bg" placeholder="Enter word">
+          </div>
 
 
-       <!-- Example Usage -->
-        <div class="form-group">
-          <label for="exampleTextarea">Example Usage</label>
-          <textarea class="form-control word-example" rows="3"></textarea>
+         <!-- Example Usage -->
+          <div class="form-group">
+            <label for="exampleTextarea">Example Usage</label>
+            <textarea class="form-control word-example" rows="3" required=""></textarea>
+          </div>
         </div>
-      </div>
       {% endfor %}
+      </div>
 
-      <!-- <button type="submit" class="btn btn-primary" id="submit-form">Write Word</button> -->
-      <div type="submit" class="btn btn-primary" id="submit-form">Write Word</div>
+      <button id="submit-btn" class="btn btn-primary"   type="button">Submit Word</button>
+      <button id="newm-btn"   class="btn btn-secondary" type="button">Add Meaning</button>
+      <button id="rmm-btn"    class="btn btn-warning"   type="button">Remove Meaning</button>
+      <button id="reset-btn"  class="btn btn-danger"    type="reset">Reset</button>
+
+      <!-- <div type="submit" class="btn btn-primary" id="submit-form">Write Word</div> -->
+      
       <!-- <button id="submit-form">Write Word</button> -->
-      <button class="btn btn-danger" type="reset">Reset</button>
 
     </form>        
-  </div>
+
+
+    <hr class="featurette-divider">
 
   </div><!-- /.container -->    
 </body>
