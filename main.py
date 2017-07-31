@@ -14,7 +14,7 @@ DATA_DIR = "data"
 
 app = Flask(__name__)
 
-
+DEFAULT_LISTS = ["basic", "high-freq", "advanced"]
 
 
 # --------------------------- DATABASE MANIPULATION ---------------------------
@@ -67,6 +67,39 @@ def get_word_lists():
   word_lists = os.listdir(DATA_DIR)
   return sorted([os.path.splitext(i)[0] for i in word_lists])
 
+
+def get_custom_lists():
+  """
+  @return: list of names of the custom-created word lists - without any file paths or extensions
+  """
+  all_lists = get_word_lists()
+  custom_lists = []
+
+  def is_custom(listname):
+    for dl in DEFAULT_LISTS:
+      if listname.startswith(dl) or listname == "all":
+        return False 
+    return True
+
+  return [l for l in all_lists if is_custom(l)]
+
+
+def is_word_new(word):
+  """
+  @return True if word is new, false otherwise
+  """
+  all_words = json_from_file("all.json")
+  return False if word in all_words else True
+
+
+def add_new_word(word, meaning, decks):
+  """
+  @brief: Add a completely new word to all lists in decks and automatically to all.json
+  @decks: List of str - the decks to add the word to
+  """
+  append_word(word, meaning, "all.json")
+  for d in decks:
+    append_word(word, meaning, d + ".json")
 
 
 # --------------------------- COMMON FUNCTIONALIY ---------------------------
@@ -137,18 +170,27 @@ def query_from_list(word, listname):
 
 @app.route('/addword')
 def addword():
-  return render_template('addword.html', num=1)
+  return render_template('addword.html', num_meanings=1, decks=get_custom_lists())
 
 
 @app.route('/addword/_submit', methods=['POST'])
-def process_form():
+def process_addword_form():
   """
   @brief: Handle form submission for adding word
   """
   data = request.get_json()
-  word = next(iter(data))
-  append_word(word, data[word], "test.json")
-  return jsonify(word)
+  word    = data["word"]
+  meaning = data["meaning"]
+  decks   = data["decks"]
+
+  resp = {"word": word}
+  if not is_word_new(word):
+    resp["status"] = "Error: The word " + word + " is already in your lists. Please modify it if you need to"
+  else:
+    resp["status"] = "Success"
+    add_new_word(word, meaning, decks)
+
+  return jsonify(resp)
 
 
 # --------------------------- MAIN ---------------------------

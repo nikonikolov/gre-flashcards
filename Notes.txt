@@ -7,18 +7,6 @@ NAVIGATION
 
 
 ADDING WORD
-  - Add a field for choosing which list to add the word to
-
-  - Check if it already exists and send appropriate message as response
-    - message must be in json format
-    - js must parse the message (string to json)
-    - js must report properly to user what happened
-
-  - Make sure you also add the word to the all list
-  - Make sure you can only add to new lists and not to the default ones
-    - how do you make a form with several selections possible
-
-
   - BUG: why is the list in memory and the new word is only written to disk, but 
     does not apprear in the list in the browser
 

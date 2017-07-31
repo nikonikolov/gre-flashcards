@@ -21,6 +21,7 @@
   
   <!-- Bootstrap -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+  <script src="https://npmcdn.com/tether@1.2.4/dist/js/tether.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
   <!-- <link   type="text/css" rel="stylesheet"  href= "{{ url_for('static',filename='vendor/bootstrap/css/bootstrap.min.css') }}"> -->
   <!-- <script type="text/javascript"            src = "{{ url_for('static',filename='vendor/bootstrap/js/bootstrap.min.js') }}">    </script> -->
@@ -57,9 +58,21 @@
         <label for="word">Word</label>
         <input type="text" class="form-control" id="word" placeholder="Enter word" required value="">
       </div>
+      
+      <label for="decks">Add to Lists</label>
+      {% for listname in decks %}
+      <div class="form-group deck">
+        <label class="custom-control custom-checkbox">
+          <input type="checkbox" class="custom-control-input deck-input">
+          <span class="custom-control-indicator"></span>
+          <span class="custom-control-description deck-name">{{listname}}</span>
+        </label>
+      </div>
+      {% endfor %}
+
 
       <div id="meanings">
-      {% for i in range(num) %}
+      {% for i in range(num_meanings) %}
 
         <div id="m1" class="new-meaning">
           <hr class="featurette-divider">

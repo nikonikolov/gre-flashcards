@@ -2,6 +2,10 @@
 ## Words that need their meainings fixed
 - concomitant
 
+## Adding new words
+- cross reference your current list with the one from Berkeley and maybe
+add the ones that you need
+
 ## Words with not known lists and currently missing from the split
 - conniving: basic
 - inflammable: basic
