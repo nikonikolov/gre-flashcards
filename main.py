@@ -102,6 +102,15 @@ def add_new_word(word, meaning, decks):
     append_word(word, meaning, d + ".json")
 
 
+def get_key_matches(query):
+  if query == "":
+    return []
+  words = json_from_file("all.json")
+  # return sorted([k for k,v in words.items() if query in k])
+  return [k for k,v in words.items() if k.startswith(query)]
+  # return [value for key, value in programs.items() if 'new york' in key.lower()]
+
+
 # --------------------------- COMMON FUNCTIONALIY ---------------------------
 
 def show_word(word, listname, meaning=None):
@@ -191,6 +200,17 @@ def process_addword_form():
     add_new_word(word, meaning, decks)
 
   return jsonify(resp)
+
+@app.route('/search')
+def search():
+  return render_template('search.html')
+
+
+@app.route('/search/_query', methods=['GET'])
+def search_query():
+  query = request.args.get('query', "", type=str)
+  matches = get_key_matches(query)
+  return jsonify(matches)
 
 
 # --------------------------- MAIN ---------------------------

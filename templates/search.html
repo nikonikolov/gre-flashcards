@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+  
+  <!-- Description, keywords and author of this particular page for search engines-->
+  <meta name="description" content="GRE Flashcards">
+  <meta name="keywords" content="GRE, flashcards">      
+  <meta name="author" content="Nikolay Nikolov">      
+
+  <title>GRE Flashcards</title>
+  
+  <!-- Set the SCRIPT_ROOT variable -->
+  <script type=text/javascript> $SCRIPT_ROOT = {{ request.script_root|tojson|safe }}; </script>
+
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script type="text/javascript"            src = "{{ url_for('static',filename='vendor/jquery/jquery-2.1.4.min.js') }}">    </script>
+  
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+  <script src="https://npmcdn.com/tether@1.2.4/dist/js/tether.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+  <!-- <link   type="text/css" rel="stylesheet"  href= "{{ url_for('static',filename='vendor/bootstrap/css/bootstrap.min.css') }}"> -->
+  <!-- <script type="text/javascript"            src = "{{ url_for('static',filename='vendor/bootstrap/js/bootstrap.min.js') }}">    </script> -->
+  
+  <!-- Common CSS and JS -->
+  <link   type="text/css" rel="stylesheet"  href= "{{ url_for('static',filename='styles/common.css') }}">
+  <script type="text/javascript"            src = "{{ url_for('static',filename='js/common.js') }}">    </script>
+
+  <!-- CSS and JS for this page -->
+  <!-- <link   type="text/css" rel="stylesheet"  href= "{{ url_for('static',filename='styles/search.css') }}"> -->
+  <script type="text/javascript"            src = "{{ url_for('static',filename='js/search.js') }}">    </script>
+  <script type="text/javascript"            src = "{{ url_for('static',filename='js/validator.js') }}">    </script>
+
+  <!-- Custom Fonts -->
+  <link   type="text/css" rel="stylesheet" href= "{{ url_for('static',filename='vendor/font-awesome/css/font-awesome.min.css') }}">
+
+</head>
+
+<body>
+
+  <!-- ================================================== NAVBAR ================================================== -->
+  {% include 'navbar.html' %}
+
+  <!-- ================================================== BODY ================================================== -->
+  <div class="container">
+
+    <h2 class="section-heading">Search</h2>
+
+    <form id="word-form" data-toggle="validator">
+
+      <!-- Word -->
+      <hr class="featurette-divider">
+      <div class="form-group">
+        <label for="word">Word</label>
+        <input type="text" class="form-control" id="word" placeholder="Enter word" value="">
+      </div>
+      
+
+      <hr class="featurette-divider">
+      <!-- Type -->
+      <div class="form-group">
+        <label for="exampleSelect2">Type</label>
+        <select multiple class="form-control" required="" id="search-results">
+
+        </select>
+      </div>
+     
+      <button id="submit-btn" class="btn btn-primary"   type="button">Display word</button>
+
+    </form>        
+
+
+    <hr class="featurette-divider">
+
+  </div><!-- /.container -->    
+</body>
+</html>
