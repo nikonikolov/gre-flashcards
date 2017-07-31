@@ -121,7 +121,7 @@ def show_word(word, listname, meaning=None):
 
 
 def get_and_read_lman(listname):
-  lman = listmans[str(listname)]
+  lman = g_listmans[str(listname)]
   lman.read_data()
   return lman
 
@@ -130,7 +130,7 @@ def get_and_read_lman(listname):
 
 @app.route('/')
 def home():
-  wordlists = get_word_lists()
+  wordlists = g_all_decks
   return render_template('wordlists.html', wordlists=wordlists)
 
 
@@ -170,7 +170,7 @@ def query_from_list(word, listname):
 
 @app.route('/addword')
 def addword():
-  return render_template('addword.html', num_meanings=1, decks=get_custom_lists())
+  return render_template('addword.html', num_meanings=1, decks=g_custom_decks)
 
 
 @app.route('/addword/_submit', methods=['POST'])
@@ -194,7 +194,10 @@ def process_addword_form():
 
 
 # --------------------------- MAIN ---------------------------
-listmans = { l: WordList(l) for l in get_word_lists()}
+g_all_decks    = get_word_lists()
+g_custom_decks = get_custom_lists()
+g_listmans = { l: WordList(l) for l in g_all_decks}
+
 
 if (__name__=="__main__"):
   app.run()
