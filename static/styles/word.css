@@ -14,11 +14,11 @@
 }
 
 #know{
-  color: green;
+  color: green !important;
 }
 
 #notknow{
-  color: #B11F00;
+  color: #B11F00 !important;
 }
 
 #show-meaning:hover,
@@ -28,4 +28,13 @@
   cursor: pointer;
 }
 
+h5{
+  font-size: 18px !important;
+}
+
+/*
+#rm-btn{
+  margin: 0 auto;
+}
+*/
 

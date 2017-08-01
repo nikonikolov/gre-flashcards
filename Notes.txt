@@ -27,13 +27,8 @@ MODIFYING WORD
     - again not active for the default lists
     - this will change the format of the json you send
 
-
-
-REVIEWING WORDS
-  - Add a way to directly add the word to another list
-  - Must be also able to create a new list
-  - Add a way for removing the word from the current list - again not active for the default lists
-
+  - Make a button on the display word page for modifying the word
+  - Autoselect all lists that the word currently appears in - make a python function to query that
 
 
 JSON FORMAT:
@@ -44,7 +39,6 @@ JSON FORMAT:
 IMPROVEMENTS
   - make a button after learning a list to try it again - not crucial
   - see log.md and fix the relevant words
-  - make KNOW and DON'T KNOW signs when displaying a word colored
 
 
 

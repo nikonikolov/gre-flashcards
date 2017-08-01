@@ -35,7 +35,7 @@
   <script type="text/javascript"            src = "{{ url_for('static',filename='js/word.js') }}">    </script>
 
   <!-- Custom Fonts -->
-  <link   type="text/css" rel="stylesheet" href= "{{ url_for('static',filename='vendor/font-awesome/css/font-awesome.min.css') }}">
+  <!-- <link   type="text/css" rel="stylesheet" href= "{{ url_for('static',filename='vendor/font-awesome/css/font-awesome.min.css') }}"> -->
 
 </head>
 
@@ -75,6 +75,35 @@
       </div>
       {% endfor %}
     </div>
+
+
+    <hr class="featurette-divider">
+    {% if rm_active %}
+      <button id="rm-btn" class="btn btn-danger"  type="button">Remove from Current List</button>
+      <div id="rm-result"></div>
+    {% endif %}
+
+    <hr class="featurette-divider">
+
+    <h5 class="section-heading"> Add to Lists </h5>
+    <form id="decks-form" data-toggle="validator">
+      
+      {% for listname in decks %}
+      {% if listname != word_list %}
+      <div class="form-group deck">
+        <label class="custom-control custom-checkbox">
+          <input type="checkbox" class="custom-control-input deck-input">
+          <span class="custom-control-indicator"></span>
+          <span class="custom-control-description deck-name">{{listname}}</span>
+        </label>
+      </div>
+      {% endif %}
+      {% endfor %}
+      <button id="add-btn"    class="btn btn-primary" type="button">Add Word to Lists</button>
+      <div id="add-result"></div>
+
+    </form>
+
 
   </div>
 
