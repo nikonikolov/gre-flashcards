@@ -32,8 +32,9 @@
   <script type="text/javascript"            src = "{{ url_for('static',filename='js/navbar.js') }}">    </script>
 
   <!-- CSS and JS for this page -->
-  <link   type="text/css" rel="stylesheet"  href= "{{ url_for('static',filename='styles/wordlists.css') }}">
-  <!-- <script type="text/javascript"            src = "{{ url_for('static',filename='js/wordlists.js') }}">    </script> -->
+  <!-- <link   type="text/css" rel="stylesheet"  href= "{{ url_for('static',filename='styles/addlist.css') }}"> -->
+  <script type="text/javascript"            src = "{{ url_for('static',filename='js/addlist.js') }}">    </script>
+  <script type="text/javascript"            src = "{{ url_for('static',filename='js/validator.js') }}">    </script>
 
   <!-- Custom Fonts -->
   <link   type="text/css" rel="stylesheet" href= "{{ url_for('static',filename='vendor/font-awesome/css/font-awesome.min.css') }}">
@@ -46,33 +47,40 @@
   {% include 'navbar.html' %}
 
   <!-- ================================================== BODY ================================================== -->
-<!--   <h1>jQuery Example</h1>
-  <p>
-    <input type=text size=5 name=a> +
-    <input type=text size=5 name=b> =
-    <span id=result>?</span>
-  <p>
-  <a href=# id=calculate>calculate server side</a>
- -->
-
   <div class="container">
-    <h2 class="section-heading"> Word Lists </h2>
-    
-    <div class="row">
 
-      {% for listname in wordlists %}
-      <div class="col-sm-4">
-        <a class="card text-center" href="/vocab/{{ listname }}">
-          <div class="card-block">
-            <h3 class="card-title"> {{ listname }} </h3>
-          </div>
-        </a>
+    <h2 class="section-heading">Add List</h2>
+
+    <form id="list-form" data-toggle="validator">
+
+      <hr class="featurette-divider">
+
+      <!-- Other lists -->
+      <label for="decks">Existing Custom Lists</label>
+      {% for listname in decks %}
+      <div>
+        <li class="custom-control-description">{{listname}}</li>
       </div>
       {% endfor %}
 
-    </div>
-  </div>
+      <!-- List -->
+      <hr class="featurette-divider">
+      <div class="form-group">
+        <label for="word">List Name</label>
+        <input type="text" class="form-control" id="deck" placeholder="Enter list" required>
+      </div>
+      
+     
+      <button id="submit-btn" class="btn btn-primary"   type="button">Create List</button>
+      <button id="reset-btn"  class="btn btn-danger"    type="reset">Reset</button>
+
+      <div id="result"></div>
+
+    </form>        
 
 
+    <hr class="featurette-divider">
+
+  </div><!-- /.container -->    
 </body>
 </html>

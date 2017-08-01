@@ -108,7 +108,23 @@ def get_key_matches(query):
   words = json_from_file("all.json")
   # return sorted([k for k,v in words.items() if query in k])
   return [k for k,v in words.items() if k.startswith(query)]
-  # return [value for key, value in programs.items() if 'new york' in key.lower()]
+
+
+def add_deck(deck):
+  global g_all_decks
+  global g_custom_decks
+  global g_listmans
+
+  if deck in g_all_decks:
+    return False
+  write_file({}, deck + ".json")
+  
+  g_all_decks    = get_word_lists()
+  g_custom_decks = get_custom_lists()
+  g_listmans[deck] = WordList(deck)
+
+  return True
+
 
 
 # --------------------------- COMMON FUNCTIONALIY ---------------------------
@@ -123,7 +139,7 @@ def show_word(word, listname, meaning=None):
       meaning = data[word]
       return render_template('word.html', word_list=listname, word=word, meaning=meaning)
     else:
-      return "Word Not Found"
+      return render_template('msg.html', msg="Word Not Found")
   
   else:
     return render_template('word.html', word_list=listname, word=word, meaning=meaning)
@@ -152,7 +168,7 @@ def list_next_word(listname):
   word, meaning = lman.get_next_word()
   if word is None:
     lman.clear_memory()
-    return "List Learned"
+    return render_template('msg.html', msg="List Learned")
   return show_word(word, listname, meaning=meaning)
 
 
@@ -201,6 +217,7 @@ def process_addword_form():
 
   return jsonify(resp)
 
+
 @app.route('/search')
 def search():
   return render_template('search.html')
@@ -211,6 +228,28 @@ def search_query():
   query = request.args.get('query', "", type=str)
   matches = get_key_matches(query)
   return jsonify(matches)
+
+
+@app.route('/addlist')
+def addlist():
+  return render_template('addlist.html', decks=g_custom_decks)
+
+
+@app.route('/addlist/_submit', methods=['GET'])
+def addlist_process_form():
+  """
+  @brief: Handle form submission for adding a list
+  """
+  deck = request.args.get('deck', "", type=str)
+
+  resp = {"deck": deck}
+  if add_deck(deck):
+    resp["status"] = "Success"
+  else:
+    resp["status"] = "Error: The list " + deck + " already exists"
+    
+  return jsonify(resp)
+
 
 
 # --------------------------- MAIN ---------------------------

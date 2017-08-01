@@ -1,6 +1,5 @@
 
 NAVIGATION
-  - Make sure that addword and search get open in new tabs so that you don't lose track of the current list
   - Think about: how should you handle the case when you leave the page while studying a list
     - should you release the memory
     - should you just remember where you are ?? 
@@ -42,17 +41,10 @@ JSON FORMAT:
   - What other fields would you need
 
 
-SEARCHING FOR A WORD
-  - Check in python how to match a string to all dictionary keys
-  - Maybe use a dedicated page rather than the thing on the navbar
-
-
 IMPROVEMENTS
   - make a button after learning a list to try it again - not crucial
-  - another page for creating a new list ?
-
   - see log.md and fix the relevant words
-
+  - make KNOW and DON'T KNOW signs when displaying a word colored
 
 
 
