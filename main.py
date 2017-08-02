@@ -72,20 +72,35 @@ def get_word_lists():
   return sorted([os.path.splitext(i)[0] for i in word_lists])
 
 
+def _is_list_custom(listname):
+  for dl in DEFAULT_LISTS:
+    if listname.startswith(dl) or listname == "all":
+      return False 
+  return True
+
+
 def get_custom_lists():
   """
   @return: list of names of the custom-created word lists - without any file paths or extensions
   """
-  all_lists = get_word_lists()
-  custom_lists = []
+  return [l for l in get_word_lists() if _is_list_custom(l)]
 
-  def is_custom(listname):
-    for dl in DEFAULT_LISTS:
-      if listname.startswith(dl) or listname == "all":
-        return False 
-    return True
 
-  return [l for l in all_lists if is_custom(l)]
+def get_default_lists():
+  """
+  @return: list of names of the custom-created word lists - without any file paths or extensions
+  """
+  return [l for l in get_word_lists() if not _is_list_custom(l)]
+
+  # all_lists = get_word_lists()
+
+  # def is_default(listname):
+  #   for dl in DEFAULT_LISTS:
+  #     if listname.startswith(dl) or listname == "all":
+  #       return False 
+  #   return True
+
+  # return [l for l in all_lists if not get_custom_lists.is_default(l)]
 
 
 def is_word_new(word):
@@ -121,13 +136,15 @@ def add_deck(deck):
 
   return True
 
-def remove_word(word, deck):
+
+def remove_word_from_list(word, deck):
   data = json_from_file(deck + ".json")
   try:
     del data[word]
     write_file(data, deck + ".json")
   except KeyError:
     return
+
 
 def append_word_to_lists(word, meaning, decks):
   """
@@ -158,9 +175,36 @@ def append_word_to_lists(word, meaning, decks):
   return msg
 
 
+def _modify_word_in_list(word, meaning, deck):
+  """
+  @brief: modify the word if it appears in deck
+  """
+  data = json_from_file(deck + ".json")
+  if word in data:
+    data[word] = meaning
+    write_file(data, deck + ".json")
+
+
+def modify_word(word, meaning, active_decks):
+  for deck in g_all_decks:
+    if deck in active_decks or deck in g_default_decks:
+      _modify_word_in_list(word, meaning, deck)
+    else:
+      remove_word_from_list(word, deck)
+
+
 # ===========================================================================
 # =========================== COMMON FUNCTIONALIY ===========================
 # ===========================================================================
+
+def is_word_in_list(word, listname):
+  data = json_from_file(listname + ".json")
+  return word in data
+
+
+def get_custom_lists_of_word(word):
+  return [d for d in g_custom_decks if is_word_in_list(word, d)]
+
 
 def get_word_meaning(word):
   """
@@ -264,7 +308,7 @@ def list_remove_word(listname):
   word = request.args.get('word', "", type=str)
   lman = get_and_read_lman(listname)
   lman.remove_word(word)
-  remove_word(word, listname)
+  remove_word_from_list(word, listname)
   return jsonify(result="Successfully removed word " + word + " from the list " + listname + "!")
 
 
@@ -337,14 +381,45 @@ def addlist_process_form():
   return jsonify(resp)
 
 
+# --------------------------- MODIFY WORD ---------------------------
+@app.route('/modify/<word>')
+def modify(word):
+  meaning = get_word_meaning(word)
+  active_decks = get_custom_lists_of_word(word)
+  print(active_decks)
+  return render_template('modify.html', word=word, meaning=enumerate(meaning), active_decks=active_decks, decks=g_custom_decks)
+
+
+@app.route('/mod/_submit', methods=['POST'])
+def modify_process_form():
+  """
+  @brief: Handle form submission for modifying word
+  """
+  data = request.get_json()
+  word    = data["word"]
+  meaning = data["meaning"]
+  decks   = data["decks"]
+  # print(word)
+  # print(decks)
+  # print(meaning)
+
+  modify_word(word, meaning, decks)
+  resp = "Word " + word + " successfully modified!"
+  return jsonify(result=resp)
+
+
 # ============================================================
 # =========================== MAIN ===========================
 # ============================================================
 
 g_all_decks    = get_word_lists()
 g_custom_decks = get_custom_lists()
+g_default_decks = get_default_lists()
 g_listmans = { l: WordList(l) for l in g_all_decks}
 
+# print(g_all_decks)
+# print(g_custom_decks)
+# print(g_default_decks)
 
 if (__name__=="__main__"):
   app.run()

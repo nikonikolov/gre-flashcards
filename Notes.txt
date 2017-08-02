@@ -12,23 +12,16 @@ ADDING WORD
 
 
 MODIFYING WORD
-  - Create a new page for it
-    - Proceed with this only after you are fully ready with adding words
-    - Proceed with this only after you have finalized the json format
-    - Use the value property in html to autofill the form
-    - Browser path must be sth like /modifyword/<word>
-
-  - Create new flask functions and paths for this
+  - Handle the note thing about word having other meanings
   - Add button for doing this while browsing words
+  - Should there be a button to delete word from all lists ???
+  - Remove the inputs when you clone a meaning
 
-  - Make sure that you modify every entry in EVERY LIST
+  - Clearing form
 
-  - Add a way for removing the word from its current lists 
-    - again not active for the default lists
-    - this will change the format of the json you send
 
-  - Make a button on the display word page for modifying the word
-  - Autoselect all lists that the word currently appears in - make a python function to query that
+DISPLAYING WORD
+  - Don't display KNOW/DON'T KNOW WHEN YOU ACCESS A WORD VIA LINK OR SEARCH
 
 
 JSON FORMAT:
@@ -40,6 +33,10 @@ IMPROVEMENTS
   - make a button after learning a list to try it again - not crucial
   - see log.md and fix the relevant words
 
+
+  REMOVING WORD
+    - After removing append the list to the displayed lists so that you can add the word back if a mistake
+    - Same after adding
 
 
 

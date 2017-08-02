@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+  
+  <!-- Description, keywords and author of this particular page for search engines-->
+  <meta name="description" content="GRE Flashcards">
+  <meta name="keywords" content="GRE, flashcards">      
+  <meta name="author" content="Nikolay Nikolov">      
+
+  <title>GRE Flashcards</title>
+  
+  <!-- Set the SCRIPT_ROOT variable -->
+  <script type=text/javascript> $SCRIPT_ROOT = {{ request.script_root|tojson|safe }}; </script>
+
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script type="text/javascript"            src = "{{ url_for('static',filename='vendor/jquery/jquery-2.1.4.min.js') }}">    </script>
+  
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+  <script src="https://npmcdn.com/tether@1.2.4/dist/js/tether.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+  <!-- <link   type="text/css" rel="stylesheet"  href= "{{ url_for('static',filename='vendor/bootstrap/css/bootstrap.min.css') }}"> -->
+  <!-- <script type="text/javascript"            src = "{{ url_for('static',filename='vendor/bootstrap/js/bootstrap.min.js') }}">    </script> -->
+  
+  <!-- Common CSS and JS -->
+  <link   type="text/css" rel="stylesheet"  href= "{{ url_for('static',filename='styles/common.css') }}">
+  <script type="text/javascript"            src = "{{ url_for('static',filename='js/navbar.js') }}">    </script>
+
+  <!-- CSS and JS for this page -->
+  <!-- <link   type="text/css" rel="stylesheet"  href= "{{ url_for('static',filename='styles/modify.css') }}"> -->
+  <script type="text/javascript"            src = "{{ url_for('static',filename='js/modify.js') }}">    </script>
+  <script type="text/javascript"            src = "{{ url_for('static',filename='js/validator.js') }}">    </script>
+
+  <!-- Custom Fonts -->
+  <link   type="text/css" rel="stylesheet" href= "{{ url_for('static',filename='vendor/font-awesome/css/font-awesome.min.css') }}">
+
+</head>
+
+<body>
+
+  <!-- ================================================== NAVBAR ================================================== -->
+  {% include 'navbar.html' %}
+
+  <!-- ================================================== BODY ================================================== -->
+  <div class="container">
+
+    <h2 class="section-heading">Modify exitsting word</h2>
+
+    <form id="word-form" data-toggle="validator">
+
+      <!-- Word -->
+      <hr class="featurette-divider">
+      <div class="form-group">
+        <label for="word">Word</label>
+        <input type="text" class="form-control" id="word" placeholder="Enter word" required value="{{word}}">
+      </div>
+      
+      <label for="decks">Lists in which the word will appear after being modified. Note that if the word is already in a default list, it will stay there but it will be <b>modified</b></label>
+      {% for listname in decks %}
+      <div class="form-group deck">
+        <label class="custom-control custom-checkbox">
+          {% if listname in active_decks %}
+          <input type="checkbox" class="custom-control-input deck-input" checked>
+          {% else %}
+          <input type="checkbox" class="custom-control-input deck-input">
+          {% endif %}
+          <span class="custom-control-indicator"></span>
+          <span class="custom-control-description deck-name">{{listname}}</span>
+        </label>
+      </div>
+      {% endfor %}
+
+
+      <div id="meanings">
+      {% for i, m in meaning %}
+
+        <div id="m{{i}}" class="new-meaning">
+          <hr class="featurette-divider">
+          <!-- Type -->
+          <div class="form-group">
+            <label for="exampleSelect2">Type</label>
+            <select multiple class="form-control word-type" required="">
+              {% for t in ["noun", "verb", "adj.", "adv."] %}
+                {% if t == m["type"] %}
+                <option selected="selected">{{t}}</option>
+                {% else %}
+                <option>{{t}}</option>
+                {% endif %}
+              {% endfor %}
+            </select>
+          </div>
+     
+          {% set mean=m["meaning"] %}
+          {% set mean_bg=m["meaning_bg"] %}
+          {% set example=m["example"] %}
+          <!-- Meaning -->
+          <div class="form-group">
+            <label for="exampleInputEmail1">Meaning</label>
+            <input type="text" class="form-control word-meaning" placeholder="Enter word" required value="{{mean}}">
+          </div>
+
+         <!-- Meaning BG -->
+          <div class="form-group">
+            <label for="exampleInputEmail1">Meaning BG</label>
+            <input type="text" class="form-control word-meaning-bg" placeholder="Enter word" value="{{mean_bg}}">
+          </div>
+
+
+         <!-- Example Usage -->
+          <div class="form-group">
+            <label for="exampleTextarea">Example Usage</label>
+            <textarea class="form-control word-example" rows="3" required>{{example}}</textarea>
+          </div>
+        </div>
+      {% endfor %}
+      </div>
+
+      <button id="submit-btn" class="btn btn-primary"   type="button">Modify Word</button>
+      <button id="newm-btn"   class="btn btn-secondary" type="button">Add Meaning</button>
+      <button id="rmm-btn"    class="btn btn-warning"   type="button">Remove Meaning</button>
+      <button id="reset-btn"  class="btn btn-danger"    type="reset">Cancel</button>
+
+      <div id="result"></div>
+
+    </form>        
+
+
+    <hr class="featurette-divider">
+
+  </div><!-- /.container -->    
+</body>
+</html>
