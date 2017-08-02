@@ -43,6 +43,7 @@ $(document).ready( function() {
 
       // Get the form data in JSON
       data = packWordJSON();
+      if (decksEmpty("#result", data["decks"])) return;
 
       // Submit the data to Flask
       $.ajax(

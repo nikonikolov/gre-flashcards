@@ -1,21 +1,10 @@
 $(document).ready( function() {
+  // Scroll to top at reload
+  $(this).scrollTop(0);
 
-  // ----------------- REPORT STATUS -----------------
-  
-  function reportError(el, msg) {
-    $(el).css("color", "red");
-    $(el).text(msg);
-  }
+  // Include script
+  $.getScript("/static/js/common.js", function(){});
 
-  function reportSuccess(el, msg) {
-    $(el).css("color", "green");
-    $(el).text(msg);
-  }
-
-  function reportWarning(el, msg) {
-    $(el).css("color", "#FF8C00");
-    $(el).text(msg);
-  }
 
   // ----------------- HANDLE REMOVAL -----------------
   
@@ -44,36 +33,19 @@ $(document).ready( function() {
     $.getJSON($SCRIPT_ROOT + url, {
       word: wordname,
     }, function(resp) {
-      reportSuccess("#rm-result", resp.result)
+      reportSuccess("#rm-result", resp.result, false)
     });
 
   }
 
-  function parseDecks() {
-    var form = $('#decks-form');
-    var form_decks = form.find(".deck");
-
-    decks = []
-    for (var i=0; i<form_decks.length; i++) {
-      var d = $(form_decks[i]);
-      var d_input = d.find(".deck-input").is(':checked');
-
-      if (d_input){
-        var d_name = d.find(".deck-name").html();
-        decks.push(d_name);
-      } 
-    }
-    return decks;
-  }
 
   // ----------------- HANDLE ADDITION -----------------
   
   function appendWord(){
-    var wordname = getWord();
-    var decks = parseDecks();
     var data = {};
-    data["word"] = wordname;
-    data["decks"] = decks;
+    data["word"] = getWord();
+    data["decks"] = parseDecks();
+    if (decksEmpty("#add-result", data["decks"])) return;
 
     $.ajax(
       {
@@ -125,6 +97,7 @@ $(document).ready( function() {
 
   // ----------------- START EXECUTION -----------------
   hideContent();
+  $("#options").hide();
 
   $('#show-meaning').click( 
     function() {
@@ -160,5 +133,20 @@ $(document).ready( function() {
       removeWord();
     }
   );
+
+  $('#mod-btn').click( 
+    function() {
+      window.location.href = "/modify/" + getWord();
+    }
+  );
+
+
+  $('#opt-btn').click( 
+    function() {
+      $("#opt-btn").hide();
+      $("#options").show();
+    }
+  );
+
 
 });

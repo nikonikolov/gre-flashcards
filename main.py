@@ -8,7 +8,7 @@ from flask import request
 from flask import redirect
 from flask import url_for
 
-from wordlist import WordList
+from listman import ListMan
 
 DATA_DIR = "data"
 
@@ -132,7 +132,7 @@ def add_deck(deck):
   
   g_all_decks    = get_word_lists()
   g_custom_decks = get_custom_lists()
-  g_listmans[deck] = WordList(deck)
+  g_listmans[deck] = ListMan(deck)
 
   return True
 
@@ -232,7 +232,7 @@ def is_list_custom(listname):
   return listname in g_custom_decks
 
 
-def show_word(word, listname, meaning=None):
+def show_word(word, listname, know_button, meaning=None):
   word = str(word)
   listname = str(listname)
 
@@ -241,13 +241,13 @@ def show_word(word, listname, meaning=None):
     data = json_from_file(listname + ".json")
     if word in data:
       meaning = data[word]
-      return render_template('word.html', word_list=listname, word=word, meaning=meaning, decks=g_custom_decks, rm_active=is_list_custom(listname))
+      return render_template('word.html', word_list=listname, word=word, meaning=meaning, decks=g_custom_decks, rm_active=is_list_custom(listname), know_button=False)
     else:
       return render_template('msg.html', msg="Word Not Found")
   
   # In this case the function was called to display a new word in a deck
   else:
-    return render_template('word.html', word_list=listname, word=word, meaning=meaning, decks=g_custom_decks, rm_active=is_list_custom(listname))
+    return render_template('word.html', word_list=listname, word=word, meaning=meaning, decks=g_custom_decks, rm_active=is_list_custom(listname), know_button=True)
 
 
 
@@ -274,7 +274,7 @@ def list_next_word(listname):
   if word is None:
     lman.clear_memory()
     return render_template('msg.html', msg="List Learned")
-  return show_word(word, listname, meaning=meaning)
+  return show_word(word, listname, know_button=True, meaning=meaning, )
 
 
 @app.route('/vocab/<listname>/_know')
@@ -315,12 +315,12 @@ def list_remove_word(listname):
 # --------------------------- QUERY WORD ---------------------------
 @app.route('/words/<word>')
 def query_word(word):
-  return show_word(word, "all")
+  return show_word(word, "all", know_button=False)
 
 
 @app.route('/words/<listname>/<word>')
 def query_from_list(word, listname):
-  return show_word(word, listname)
+  return show_word(word, listname, know_button=False)
 
 
 # --------------------------- ADD WORD ---------------------------
@@ -386,7 +386,6 @@ def addlist_process_form():
 def modify(word):
   meaning = get_word_meaning(word)
   active_decks = get_custom_lists_of_word(word)
-  print(active_decks)
   return render_template('modify.html', word=word, meaning=enumerate(meaning), active_decks=active_decks, decks=g_custom_decks)
 
 
@@ -415,7 +414,7 @@ def modify_process_form():
 g_all_decks    = get_word_lists()
 g_custom_decks = get_custom_lists()
 g_default_decks = get_default_lists()
-g_listmans = { l: WordList(l) for l in g_all_decks}
+g_listmans = { l: ListMan(l) for l in g_all_decks}
 
 # print(g_all_decks)
 # print(g_custom_decks)

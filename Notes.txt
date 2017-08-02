@@ -12,13 +12,10 @@ ADDING WORD
 
 
 MODIFYING WORD
-  - Handle the note thing about word having other meanings
-  - Add button for doing this while browsing words
+  - Handle the Note thing about word having other meanings
   - Should there be a button to delete word from all lists ???
+  - Should the cancel button make you go back ??
 
-
-DISPLAYING WORD
-  - Don't display KNOW/DON'T KNOW WHEN YOU ACCESS A WORD VIA LINK OR SEARCH
 
 
 JSON FORMAT:

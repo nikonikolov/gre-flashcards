@@ -53,7 +53,7 @@ $(document).ready( function() {
     function() {
 
       // Get the form data in JSON
-      data = packWordJSON(false);
+      data = packWordJSON();
 
       // Submit the data to Flask
       $.ajax(

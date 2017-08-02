@@ -34,25 +34,28 @@
 
 // ----------------- REPORT STATUS -----------------
 
-// function reportSuccess(msg) {
-function reportSuccess(elm, msg, reset) {
+function reportSuccess(el, msg, reset) {
   if (typeof(reset)==='undefined') reset = true;
 
   if (reset) { 
     $('#reset-btn').trigger('click');
   }
   
-  $(elm).css("color", "green");
-  $(elm).text(msg);
+  $(el).css("color", "green");
+  $(el).text(msg);
 }
 
 
-// function reportError(msg) {
-function reportError(elm, msg) {
-  $(elm).css("color", "red");
-  $(elm).text(msg);
+function reportError(el, msg) {
+  $(el).css("color", "red");
+  $(el).text(msg);
 }
 
+
+function reportWarning(el, msg) {
+  $(el).css("color", "#FF8C00");
+  $(el).text(msg);
+}
 
 
 // ----------------- PARSE FORM -----------------
@@ -83,7 +86,7 @@ function parseMeanings() {
 }
 
 
-function parseDecks(check_decks) {
+function parseDecks() {
   var form = $('#word-form');
   var form_decks = form.find(".deck");
   
@@ -100,22 +103,20 @@ function parseDecks(check_decks) {
     // console.log(d_name);
   }
 
-  if (decks.length < 1 && check_decks){
-    reportError("Error: You must select at least one list to add the word to!")
-    return;
-  }
+  // if (decks.length < 1 && check_decks){
+  //   reportError(report_el, "Error: You must select at least one list to add the word to!")
+  //   return;
+  // }
 
   return decks;
 }
 
 
 function packWordJSON() {
-  if (typeof(check_decks)==='undefined') check_decks = true;
-
   // Parse the form
   var word    = parseWord();
   var meaning = parseMeanings();
-  var decks   = parseDecks(check_decks);
+  var decks   = parseDecks();
 
   // Pack the word in JSON    
   var data = {};
@@ -123,6 +124,15 @@ function packWordJSON() {
   data["meaning"] = meaning;
   data["decks"] = decks;
   return data;
+}
+
+
+function decksEmpty(report_el, decks){
+  if (decks.length < 1){
+    reportError(report_el, "Error: You must select at least one list to add the word to!")
+    return true;
+  }
+  return false;
 }
 
 // ----------------- MANIPULATE FORM -----------------

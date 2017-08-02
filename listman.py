@@ -6,7 +6,7 @@ DATA_DIR = "data"
 
 # --------------------------- WORD LIST CLASS ---------------------------
 
-class WordList:
+class ListMan:
 
   def __init__(self, filename):
     self.listname = filename

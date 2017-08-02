@@ -28,7 +28,7 @@
   
   <!-- Common CSS and JS -->
   <link   type="text/css" rel="stylesheet"  href= "{{ url_for('static',filename='styles/common.css') }}">
-  <script type="text/javascript"            src = "{{ url_for('static',filename='js/common.js') }}">    </script>
+  <!-- <script type="text/javascript"            src = "{{ url_for('static',filename='js/common.js') }}">    </script> -->
 
   <!-- CSS and JS for this page -->
   <link   type="text/css" rel="stylesheet"  href= "{{ url_for('static',filename='styles/word.css') }}">
@@ -57,8 +57,10 @@
         <h4 class="card-title"> {{ word }} </h4>
         <div id="show-meaning"  class="btn btn-primary">See meaning</div>
       </div>
+      {% if know_button %}
       <div id="know"    class="card-footer text-muted">KNOW</div>
       <div id="notknow" class="card-footer text-muted">DON'T KNOW</div>
+      {% endif %}
     </div>
   
     <div id="meaning-block">  
@@ -75,36 +77,54 @@
       </div>
       {% endfor %}
     </div>
-
-
-    <hr class="featurette-divider">
-    {% if rm_active %}
-      <button id="rm-btn" class="btn btn-danger"  type="button">Remove from Current List</button>
-      <div id="rm-result"></div>
-    {% endif %}
-
+    
     <hr class="featurette-divider">
 
-    <h5 class="section-heading"> Add to Lists </h5>
-    <form id="decks-form" data-toggle="validator">
-      
-      {% for listname in decks %}
-      {% if listname != word_list %}
-      <div class="form-group deck">
-        <label class="custom-control custom-checkbox">
-          <input type="checkbox" class="custom-control-input deck-input">
-          <span class="custom-control-indicator"></span>
-          <span class="custom-control-description deck-name">{{listname}}</span>
-        </label>
-      </div>
+    <div class="col-md-12 text-center"> 
+      <button id="opt-btn" class="btn btn-secondary"  type="button">Options</button>
+    </div>
+
+    <div id="options">
+  
+      <!-- <div class="col-md-12 text-center">  -->
+        <button id="mod-btn" class="btn btn-warning"  type="button">Modify word</button>
+      <!-- </div> -->
+
+      {% if rm_active %}
+        <!-- <div class="col-md-12 text-center">  -->
+        <button id="rm-btn" class="btn btn-danger"  type="button">Remove from current list</button>
+        <div id="rm-result"></div>
+        <!-- </div> -->
       {% endif %}
-      {% endfor %}
-      <button id="add-btn"    class="btn btn-primary" type="button">Add Word to Lists</button>
-      <div id="add-result"></div>
 
-    </form>
+      <hr class="featurette-divider">
+
+      <h5 class="section-heading"> Add to Lists </h5>
+      <form id="word-form" data-toggle="validator">
+        
+        {% for listname in decks %}
+        {% if listname != word_list %}
+        <div class="form-group deck">
+          <label class="custom-control custom-checkbox">
+            <input type="checkbox" class="custom-control-input deck-input">
+            <span class="custom-control-indicator"></span>
+            <span class="custom-control-description deck-name">{{listname}}</span>
+          </label>
+        </div>
+        {% endif %}
+        {% endfor %}
+        <!-- <div class="col-md-12 text-center">  -->
+          <button id="add-btn"    class="btn btn-primary" type="button">Add word to lists</button>
+          <div id="add-result"></div>
+        <!-- </div> -->
 
 
+      </form>
+
+      <hr class="featurette-divider">
+  
+    </div>
+  
   </div>
 
 
