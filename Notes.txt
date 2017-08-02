@@ -15,9 +15,6 @@ MODIFYING WORD
   - Handle the note thing about word having other meanings
   - Add button for doing this while browsing words
   - Should there be a button to delete word from all lists ???
-  - Remove the inputs when you clone a meaning
-
-  - Clearing form
 
 
 DISPLAYING WORD

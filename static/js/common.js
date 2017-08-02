@@ -36,7 +36,7 @@
 
 // function reportSuccess(msg) {
 function reportSuccess(elm, msg, reset) {
-  if (typeof(reset)==='undefined') reset = false;
+  if (typeof(reset)==='undefined') reset = true;
 
   if (reset) { 
     $('#reset-btn').trigger('click');
@@ -124,5 +124,24 @@ function packWordJSON() {
   data["decks"] = decks;
   return data;
 }
+
+// ----------------- MANIPULATE FORM -----------------
+
+
+function removeClonedInputs(elm){
+  /*
+  @brief: Remove the inputs when an entry in a form is cloned
+   */
+  $(elm).find("input[type=text]").attr("value", "");
+  $(elm).find("input[type=checkbox]").removeAttr("checked");
+  $(elm).find("option").removeAttr("selected");
+  $(elm).find("textarea").html("");
+
+  // $('#word-form').find("input[type=text]").attr("value", "");
+  // $('#word-form').find("input[type=checkbox]").removeAttr("checked");
+  // $('#word-form').find("option").removeAttr("selected");
+  // $('#word-form').find("textarea").html("");
+}
+
 
 

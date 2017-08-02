@@ -15,7 +15,6 @@ $(document).ready( function() {
     return form_data.length
   }
 
-
   // ----------------- START EXECUTION -----------------
 
   var clone_count = count_meanings();
@@ -23,7 +22,8 @@ $(document).ready( function() {
 
   $('#newm-btn').click( 
     function() {
-      $("#m0").clone().attr('id', "m" + clone_count).appendTo("#meanings");  
+      $("#m0").clone().attr('id', "m" + clone_count).appendTo("#meanings");
+      removeClonedInputs("#m" + clone_count);
       $("#m" + clone_count).validator('update');
       clone_count++;
     }
@@ -38,9 +38,13 @@ $(document).ready( function() {
     }
   );
 
+
   $('#reset-btn').click( 
     function() {
-      $("#result").text("");
+      window.location.href = "/";
+      // history.back();
+      // clearForm();
+      // $("#result").text("");
     }
   );
 
@@ -48,6 +52,7 @@ $(document).ready( function() {
   $('#submit-btn').click( 
     function() {
 
+      // Get the form data in JSON
       data = packWordJSON(false);
 
       // Submit the data to Flask
@@ -59,11 +64,11 @@ $(document).ready( function() {
           dataType: 'json',
           url: '/mod/_submit',
           success: function (resp) {
-            reportSuccess("#result", resp.result, true)
+            reportSuccess("#result", resp.result, true);
           },
           error: function(error) {
-            console.log("#result", error);
-            reportError("Something went wrong!");
+            console.log(error);
+            reportError("#result","Something went wrong!");
         }
       });
 
