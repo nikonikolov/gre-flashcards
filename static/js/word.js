@@ -131,12 +131,14 @@ $(document).ready( function() {
   $('#rm-btn').click( 
     function() {
       removeWord();
+      sendResponse(true);
     }
   );
 
   $('#mod-btn').click( 
     function() {
-      window.location.href = "/modify/" + getWord();
+      window.open("/modify/" + getWord(), "_blank")
+      // window.location.href = "/modify/" + getWord();
     }
   );
 

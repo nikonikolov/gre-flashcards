@@ -1,20 +1,15 @@
 
+
 NAVIGATION
   - Think about: how should you handle the case when you leave the page while studying a list
     - should you release the memory
     - should you just remember where you are ?? 
 
 
-ADDING WORD
-  - BUG: why is the list in memory and the new word is only written to disk, but 
-    does not apprear in the list in the browser
-
-
 
 MODIFYING WORD
   - Handle the Note thing about word having other meanings
   - Should there be a button to delete word from all lists ???
-  - Should the cancel button make you go back ??
 
 
 

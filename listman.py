@@ -119,24 +119,34 @@ class ListMan:
 
   def remove_word(self, word):
     """
-    @brief: Remove word from the list, if it is in RAM
+    @brief: Remove word from the list, if it is in RAM. Supposed to be called only on 
     """
     if not self.read:
       return
+    
     try:
       del self.data[word]
     except KeyError:
-      pass
+      return
+  
+    # If this is the curently displayed word, set ignore_know. Remove from the list of words
+    if self.words[self.word_idx] == word:
+      self.ignore_know = True
+      del self.words[self.word_idx]
+    else:
+      try:
+        self.words.remove(word)
+      except ValueError:
+        pass
+
+    # Remove from the list of unknowns if there
     try:
-      self.words.remove(word)
-    except ValueError:
-      pass
-    try:
-      self.words.remove(word)
+      self.unknown.remove(word)
     except ValueError:
       pass
 
-    self.ignore_know = True
+    # self.ignore_know = True
+
 
   def append_word(self, word, meaning):
     """
@@ -151,5 +161,18 @@ class ListMan:
     self.words.append(word)
 
     return True
+
+
+  def modify_word(self, word, meaning):
+    """
+    @brief: Append word to this list
+    @return: True on success, False if word is already in the list
+    """
+    if not self.read:
+      return
+    if word in self.data:
+      self.data[word] = meaning
+
+
 
 

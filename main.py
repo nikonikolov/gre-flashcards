@@ -118,7 +118,11 @@ def add_new_word(word, meaning, decks):
   """
   append_word_to_file(word, meaning, "all.json")
   for d in decks:
+    # Append to the file
     append_word_to_file(word, meaning, d + ".json")
+    # Append to the ListMan if data already in memory
+    lman = g_listmans[d]
+    lman.append_word(word, meaning)
 
 
 def add_deck(deck):
@@ -155,7 +159,7 @@ def append_word_to_lists(word, meaning, decks):
   for d in decks:
     status = append_word_to_file(word, meaning, d + ".json")
     if status:
-      lman = get_and_read_lman(d)
+      lman = g_listmans[d]
       lman.append_word(word, meaning)
       success.append(d)
     else:
@@ -187,10 +191,13 @@ def _modify_word_in_list(word, meaning, deck):
 
 def modify_word(word, meaning, active_decks):
   for deck in g_all_decks:
+    lman = g_listmans[deck]
     if deck in active_decks or deck in g_default_decks:
       _modify_word_in_list(word, meaning, deck)
+      lman.modify_word(word, meaning)
     else:
       remove_word_from_list(word, deck)
+      lman.remove_word(word)
 
 
 # ===========================================================================
@@ -291,7 +298,7 @@ def list_know(listname):
 @app.route('/_append', methods=['POST'])
 def list_append_word():
   """
-  @brief: Handles GET request after know/don't know button is clicked in word meaning
+  @brief: Handles appending a word which is currently displayed to custom lists
   """
   data = request.get_json()
   word = data["word"]
@@ -302,11 +309,11 @@ def list_append_word():
 @app.route('/vocab/<listname>/_remove')
 def list_remove_word(listname):
   """
-  @brief: Handles GET request after know/don't know button is clicked in word meaning
+  @brief: Handles request to remove currently displayed word from the current list
   """
   listname = str(listname)
   word = request.args.get('word', "", type=str)
-  lman = get_and_read_lman(listname)
+  lman = g_listmans[listname]
   lman.remove_word(word)
   remove_word_from_list(word, listname)
   return jsonify(result="Successfully removed word " + word + " from the list " + listname + "!")
