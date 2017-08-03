@@ -1,5 +1,14 @@
 
 
+FINAL:
+  - Add a synonyms/antonyms entry to a card ?
+  - Handle the Note thing about word having other meanings
+
+
+
+
+
+
 NAVIGATION
   - Think about: how should you handle the case when you leave the page while studying a list
     - should you release the memory
@@ -8,13 +17,11 @@ NAVIGATION
 
 
 MODIFYING WORD
-  - Handle the Note thing about word having other meanings
   - Should there be a button to delete word from all lists ???
 
 
 
 JSON FORMAT:
-  - Add a synonyms/antonyms entry to a card ?
   - What other fields would you need
 
 
