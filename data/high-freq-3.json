@@ -1,479 +1,587 @@
 {
     "abstain": [
         {
+            "ant": "", 
             "example": "Considered a health nut, Jessica abstained from anything containing sugar--even chocolate.", 
             "meaning": "choose not to consume or take part in (particularly something enjoyable)", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "ameliorate": [
         {
+            "ant": "", 
             "example": "Three Cups of Tea tells the story of western man who hopes to ameliorate poverty and the lack of education in Afghanistan.", 
             "meaning": "make something bad better", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "apathy": [
         {
+            "ant": "", 
             "example": "Widespread apathy among voters led to a very small turnout on election day.", 
             "meaning": "an absence of emotion or enthusiasm", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "ascetic": [
         {
+            "ant": "", 
             "example": "His ascetic life is the main reason he inspired so many followers, especially since he gave up wealth and power to live in poverty.", 
             "meaning": "practicing self-denial", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }, 
         {
+            "ant": "", 
             "example": "Historically, ascetics like Ghandi are often considered wise men partially because of their restraint.", 
             "meaning": "one who practices great self-denial", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "avaricious": [
         {
+            "ant": "", 
             "example": "Since avaricious desire is similar to gluttony or lust--sins of excess--it was listed as one of the seven deadly sins by the Catholic church.", 
             "meaning": "excessively greedy", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "belligerent": [
         {
+            "ant": "", 
             "example": "Tom said that he was arguing the matter purely for philosophical reasons, but his belligerent tone indicated an underlying anger about the issue.", 
             "meaning": "characteristic of one eager to fight", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "circumvent": [
         {
+            "ant": "", 
             "example": "One way of circumventing the GRE is to apply to a grad school that does not require GRE scores.", 
             "meaning": "cleverly find a way out of one's duties or obligations", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "contrive": [
         {
+            "ant": "", 
             "example": "Despite a low GPA, he contrived to get into college, going so far as to write his own glowing letters of recommendation.", 
             "meaning": "to pull off a plan or scheme, usually through skill or trickery", 
             "meaning_bg": "", 
             "note": "This word has other definitions but this is the most important one for the GRE", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "delineate": [
         {
+            "ant": "", 
             "example": "After a brief summary of proper swimming technique, the coach delineated the specifics of each stroke, spending 30 minutes alone on the backstroke.", 
             "meaning": "describe in detail", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "denote": [
         {
+            "ant": "", 
             "example": "Even if the text is not visible, the red octagon denotes \"stop\" to all motorists in America.", 
             "meaning": "be a sign or indication of; have as a meaning", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "derivative": [
         {
+            "ant": "", 
             "example": "work of another person Because the movies were utterly derivative of other popular movies, they did well at the box office.", 
             "meaning": "(or a creative product, e.g. music, writing, etc.) not original but drawing on the", 
             "meaning_bg": "", 
             "note": "This word has other definitions but this is the most important one for the GRE", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "derive": [
         {
+            "ant": "", 
             "example": "Many words in the English language are derived from Latin, including the word \"derive.\"", 
             "meaning": "come from; be connected by a relationship of blood, for example", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }, 
         {
+            "ant": "", 
             "example": "From the multiple set of footprints in the living room, the investigator derived an important clue: Sheila was not alone in the room at the time of the murder.", 
             "meaning": "reason by deduction; establish by deduction", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "disaffected": [
         {
+            "ant": "", 
             "example": "After watching his superior take rations from the soliders, he quickly became disaffected and rebeled.", 
             "meaning": "discontented as toward authority", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "eclectic": [
         {
+            "ant": "", 
             "example": "Joey was known for his eclectic tastes in music, one moment dancing to disco the next \"air conducting\" along to Beethoven's 9th symphony.", 
             "meaning": "comprised of a variety of styles", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "elucidate": [
         {
+            "ant": "", 
             "example": "Youtube is great place to learn just about anything--an expert elucidates finer points so that even a complete novice can learn.", 
             "meaning": "make clearer and easier to understand", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "eminent": [
         {
+            "ant": "", 
             "example": "Shakespeare is an eminent author in the English language, but I find his writing uninteresting and melodramatic.", 
             "meaning": "standing above others in quality or position", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "ephemeral": [
         {
+            "ant": "", 
             "example": "The lifespan of a mayfly is ephemeral, lasting from a few hours to a couple of days.", 
             "meaning": "lasting a very short time", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "fallacious": [
         {
+            "ant": "", 
             "example": "The widespread belief that Eskimos have forty different words for snow is fallacious, based on one false report.", 
             "meaning": "of a belief that is based on faulty reasoning", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "forlorn": [
         {
+            "ant": "", 
             "example": "After her third pet dog died, Marcia was simply forlorn: this time even the possibility of buying a new dog no longer held any joy.", 
             "meaning": "marked by or showing hopelessness", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "frustrate": [
         {
+            "ant": "", 
             "example": "I thought I would finish writing the paper by lunchtime, but a number of urgent interruptions served to frustrate my plan.", 
             "meaning": "hinder or prevent (the efforts, plans, or desires) of", 
             "meaning_bg": "", 
             "note": "This word has other definitions but this is the most important one for the GRE", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "guileless": [
         {
+            "ant": "", 
             "example": "At first I thought my niece was guileless, but I then found myself buying her ice cream every time we passed a shop.", 
             "meaning": "free of deceit", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "haughty": [
         {
+            "ant": "", 
             "example": "unworthy The haughty manager didn't believe that any of his subordinates could ever have an insight as brilliant his own.", 
             "meaning": "having or showing arrogant superiority to and disdain of those one views as", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "heretic": [
         {
+            "ant": "", 
             "example": "Though everybody at the gym told Mikey to do cardio before weights, Mikey was a heretic and always did the reverse.", 
             "meaning": "a person who holds unorthodox opinions in any field (not merely religion)", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "immutable": [
         {
+            "ant": "", 
             "example": "Taxes are one of the immutable laws of the land, so there is no use arguing about paying them.", 
             "meaning": "not able to be changed", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "incongruous": [
         {
+            "ant": "", 
             "example": "The vast economic inequality of modern society is incongruous with America's ideals.", 
             "meaning": "lacking in harmony or compatibility or appropriateness", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "insidious": [
         {
+            "ant": "", 
             "example": "Plaque is insidious: we cannot see it, but each day it eats away at our enamel, causing cavities and other dental problems.", 
             "meaning": "working in a subtle but destructive way", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "itinerant": [
         {
+            "ant": "", 
             "example": "Doctors used to be itinerant, traveling between patients' homes.", 
             "meaning": "traveling from place to place to work", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "jingoism": [
         {
+            "ant": "", 
             "example": "North Korea maintains intense control over its population through a combination of jingoism and cult of personality.", 
             "meaning": "fanatical patriotism", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "jubilant": [
         {
+            "ant": "", 
             "example": "My hardwork paid off, and I was jubilant to receive a perfect score on the GRE.", 
             "meaning": "full of high-spirited delight because of triumph or success", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "juxtapose": [
         {
+            "ant": "", 
             "example": "The meaning of her paintings comes from a classical style which juxtaposes modern themes.", 
             "meaning": "place side by side", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "languid": [
         {
+            "ant": "", 
             "example": "As the sun beat down and the temperature climbed higher, we spent a languid week lying around the house.", 
             "meaning": "not inclined towards physical exertion or effort; slow and relaxed", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "magnanimous": [
         {
+            "ant": "", 
             "example": "powerful He was a great sportsman: in defeat he was complementary and in victory he was magnanimous.", 
             "meaning": "noble and generous in spirit, especially towards a rival or someone less", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "mollify": [
         {
+            "ant": "", 
             "example": "In the morning, Harriat was unable to mollify Harry, if he happened to become angry, unless he had his cup of coffee.", 
             "meaning": "to make someone angry less angry; placate", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "negligible": [
         {
+            "ant": "", 
             "example": "The GRE tests cumulative knowledge, so if you cram the night before it is, at best, likely to only have a negligible impact on your score.", 
             "meaning": "so small as to be meaningless; insignificant", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "panache": [
         {
+            "ant": "", 
             "example": "Jim, with his typical panache, came to the wedding reception with a top hat, a cane, and a long cape covered in sequins.", 
             "meaning": "distinctive and stylish elegance", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "precocious": [
         {
+            "ant": "", 
             "example": "(especially in mental aptitude) Though only seven years old, she was a precocious chess prodigy, able to beat players twice her age.", 
             "meaning": "characterized by or characteristic of exceptionally early development or maturity", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "quotidian": [
         {
+            "ant": "", 
             "example": "Phil gets so involved thinking about Aristotle's arguments that he totally forgets quotidian concerns, such as exercising and eating regularly.", 
             "meaning": "found in the ordinary course of events", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "refractory": [
         {
+            "ant": "", 
             "example": "Used to studious high school students, Martha was unprepared for the refractory Kindgergarteners who neither sat still nor listened to a single word she said.", 
             "meaning": "stubbornly resistant to authority or control", 
             "meaning_bg": "", 
             "note": "This word has other definitions but this is the most important one for the GRE", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "rudimentary": [
         {
+            "ant": "", 
             "example": "principles I would love to be able to present a fully polished proposal to the board, but right now, our plans for the product are still in the most rudimentary stages.", 
             "meaning": "being in the earliest stages of development; being or involving basic facts or", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "spurious": [
         {
+            "ant": "", 
             "example": "When listening to a politician speak, it is hard to distinguish the spurious claims from the authentic ones.", 
             "meaning": "plausible but false", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "staunch": [
         {
+            "ant": "", 
             "example": "No longer a staunch supporter of the movement, Todd now will openly question whether its goals are worthwhile.", 
             "meaning": "firm and dependable especially in loyalty", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "subsume": [
         {
+            "ant": "", 
             "example": "The rogue wave quickly subsumed the pier and boardwalk, destroying everything in its path.", 
             "meaning": "contain or include", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }, 
         {
+            "ant": "", 
             "example": "Don Quixote of La Mancha subsumes all other modern novels, demonstrating modern literary devices and predating even the idea of a postmodern, metanarrative.", 
             "meaning": "consider (an instance of something) as part of a general rule or principle", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "supplant": [
         {
+            "ant": "", 
             "example": "For many, a cell phone has supplanted a traditional phone; in fact, most 20-somethings don't even have a traditional phone anymore.", 
             "meaning": "take the place or move into the position of", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "tantamount": [
         {
+            "ant": "", 
             "example": "In many situations, remaining silent is tantamount to admitting guilt, so speak to prove your innocence.", 
             "meaning": "being essentially equal to something", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "tenacious": [
         {
+            "ant": "", 
             "example": "Even the most tenacious advocates for gun ownership must admit some of the dangers that firearms present.", 
             "meaning": "stubbornly unyielding", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "travesty": [
         {
+            "ant": "", 
             "example": "What I expected to be an intelligent, nuanced historical documentary turned out to be a poorly-produced travesty of the form.", 
             "meaning": "an absurd presentation of something; a mockery", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "treacherous": [
         {
+            "ant": "", 
             "example": "Even though Jesse James was an outlaw, his killer, Robert Ford, is remembered more for his treacherous actions than for eliminating a criminal and murder.", 
             "meaning": "tending to betray", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }, 
         {
+            "ant": "", 
             "example": "The bridge built from twine and vine is treacherous to walk across, and so I think I will stay put right here.", 
             "meaning": "dangerously unstable and unpredictable", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "unequivocal": [
         {
+            "ant": "", 
             "example": "interpretation and leading to only one conclusion The President's first statement on the subject was vague and open to competing interpretations, so when he spoke to Congress about the same subject later, he was cafeful to make his position completely unequivocal.", 
             "meaning": "admitting of no doubt or misunderstanding; having only one meaning or", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "vehement": [
         {
+            "ant": "", 
             "example": "While the other employees responded to the bad news in a measured way, Andrew responded in a vehement manner, tipping over his desk and shouting at the top of his lungs.", 
             "meaning": "marked by extreme intensity of emotions or convictions", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "vilify": [
         {
+            "ant": "", 
             "example": "Todd was noble after the divorce, choosing to say only complimentary things about Barbara, but Barbara did not hesitate to vilify Todd.", 
             "meaning": "spread negative information about", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ]

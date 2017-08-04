@@ -1,5 +1,6 @@
 
-/* JSON structure is as follows
+/*
+JSON structure is as follows
 
   {
     "word_name": 
@@ -9,7 +10,9 @@
           "type":       "noun/verb/adjective/adverb",
           "meaning":    "en explanation",
           "meaning_bg": "bg meaning",
-          "example":    "example usage",
+          "note":       "This word has other definitions but this is the most important one for the GRE" or "",
+          "syn":        "",
+          "ant":        "",
         },
 
         // Meaning 2
@@ -18,6 +21,9 @@
           "meaning":    "en explanation",
           "meaning_bg": "bg meaning",
           "example":    "example usage",
+          "note":       "This word has other definitions but this is the most important one for the GRE" or "",
+          "syn":        "",
+          "ant":        "",
         }
 
       ], 
@@ -27,9 +33,8 @@
         ...                    
       ], 
   }
+*/
 
-
- */
 
 
 // ----------------- REPORT STATUS -----------------
@@ -78,7 +83,10 @@ function parseMeanings() {
     def["type"]       = m.find(".word-type").val()[0];
     def["meaning"]    = m.find(".word-meaning").val();
     def["meaning_bg"] = m.find(".word-meaning-bg").val();
+    def["syn"]        = m.find(".word-syn").val();
+    def["any"]        = m.find(".word-ant").val();
     def["example"]    = m.find(".word-example").val();
+    def["note"]       = "";
     meaning.push(def);
   }
 
@@ -143,6 +151,7 @@ function removeClonedInputs(elm){
   @brief: Remove the inputs when an entry in a form is cloned
    */
   $(elm).find("input[type=text]").attr("value", "");
+  $(elm).find("input[type=text]").html("");
   $(elm).find("input[type=checkbox]").removeAttr("checked");
   $(elm).find("option").removeAttr("selected");
   $(elm).find("textarea").html("");

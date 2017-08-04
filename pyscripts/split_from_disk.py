@@ -54,6 +54,20 @@ def json_from_file(dirname, filename):
     data = json.load(f)
   return data
 
+# def sync_meanings(new_meaning, new_json):
+#   diff = len(new_meaning) - len(new_json)
+  
+#   # New meaning added manually
+#   if diff > 0:
+#     for _ in range(diff):
+#       new_json.append(new_json[-1])
+#   # A meaning deleted manually
+#   elif diff < 0:
+#     for _ in range(-diff):
+#       # WHAT SHOULD I DO
+
+#   return new_meaning, new_json
+
 
 def main():
   data = json_from_file(SRC_DATA_DIR, "all.json")
@@ -61,11 +75,31 @@ def main():
   for list_name in WORD_LISTS:
     split_data = json_from_file(DEST_DATA_DIR, list_name + ".json")
 
+    # ---------- Overwrite with the new structure ----------
     for w in split_data:
       split_data[w] = data[w]
 
+    # ---------- Use the new structure, but keep modifications that have been made ----------
+    # for w in split_data:
+    #   # Check if the meaning count is the same and fix if not
+    #   split_data[w], data[w] = sync_meanings(split_data[w], data[w])
+
+    #   # For every meaning in the list
+    #   for i, m in enumerate(split_data[w]):
+    #     # For every key in m
+    #     for key, v in m.iteritems():
+    #       # Change the value of that key in the list of all
+    #       data[w][i][key] = v
+
+    #   # Overwrite the meaning with the new JSON structure
+    #   split_data[w] = data[w]
+
+
     write_json(list_name, split_data)
     print("DONE with %s" % (list_name))
+
+  # Overwrite the whole new database
+  write_json("all", data)
 
 
 

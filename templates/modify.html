@@ -53,7 +53,7 @@
       <!-- Word -->
       <hr class="featurette-divider">
       <div class="form-group">
-        <label for="word">Word</label>
+        <label for="word">Word*</label>
         <input type="text" class="form-control" id="word" placeholder="Enter word" required value="{{word}}">
       </div>
       
@@ -80,7 +80,7 @@
           <hr class="featurette-divider">
           <!-- Type -->
           <div class="form-group">
-            <label for="exampleSelect2">Type</label>
+            <label for="exampleSelect2">Type*</label>
             <select multiple class="form-control word-type" required="">
               {% for t in ["noun", "verb", "adj.", "adv."] %}
                 {% if t == m["type"] %}
@@ -94,23 +94,36 @@
      
           {% set mean=m["meaning"] %}
           {% set mean_bg=m["meaning_bg"] %}
+          {% set syn=m["syn"] %}
+          {% set ant=m["ant"] %}
           {% set example=m["example"] %}
           <!-- Meaning -->
           <div class="form-group">
-            <label for="exampleInputEmail1">Meaning</label>
-            <input type="text" class="form-control word-meaning" placeholder="Enter word" required value="{{mean}}">
+            <label for="exampleInputEmail1">Meaning*</label>
+            <input type="text" class="form-control word-meaning" placeholder="Enter meaning" required value="{{mean}}">
           </div>
 
          <!-- Meaning BG -->
           <div class="form-group">
             <label for="exampleInputEmail1">Meaning BG</label>
-            <input type="text" class="form-control word-meaning-bg" placeholder="Enter word" value="{{mean_bg}}">
+            <input type="text" class="form-control word-meaning-bg" placeholder="Enter meaning in BG (optional)" value="{{mean_bg}}">
           </div>
 
+         <!-- Synonyms -->
+          <div class="form-group">
+            <label for="exampleInputEmail1">Synonyms</label>
+            <input type="text" class="form-control word-syn" placeholder="Enter synonyms (optional)" value="{{syn}}">
+          </div>
+
+         <!-- Antonyms -->
+          <div class="form-group">
+            <label for="exampleInputEmail1">Antonyms</label>
+            <input type="text" class="form-control word-ant" placeholder="Enter antonyms (optional)" value="{{ant}}">
+          </div>
 
          <!-- Example Usage -->
           <div class="form-group">
-            <label for="exampleTextarea">Example Usage</label>
+            <label for="exampleTextarea">Example Usage*</label>
             <textarea class="form-control word-example" rows="3" required>{{example}}</textarea>
           </div>
         </div>

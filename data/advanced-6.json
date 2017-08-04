@@ -1,472 +1,578 @@
 {
     "abjure": [
         {
+            "ant": "", 
             "example": "While the church believed that Galileo abjured the heliocentric theory under threat of torture, he later wrote a book clearly supporting the theory.", 
             "meaning": "formally reject or give up (as a belief)", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "afford": [
         {
+            "ant": "", 
             "example": "The summit of Mt. Kilimanjaro affords a panoramic view that encompasses both Tanzania and Kenya.", 
             "meaning": "provide with an opportunity", 
             "meaning_bg": "", 
             "note": "This word has other definitions but this is the most important one for the GRE", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "aplomb": [
         {
+            "ant": "", 
             "example": "Nancy acted with aplomb during dangerous situations--she once calmly climbed up an oak tree to save a cat.", 
             "meaning": "great coolness and composure under strain", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "appropriate": [
         {
+            "ant": "", 
             "example": "The government appropriated land that was occupied by squatters, sending them scurrying for another place to live.", 
             "meaning": "to give or take something by force", 
             "meaning_bg": "", 
             "note": "This word has other definitions but this is the most important one for the GRE", 
+            "syn": "", 
             "type": "verb"
         }, 
         {
+            "ant": "", 
             "example": "The committe appropriated the funds to its various members.", 
             "meaning": "to allocate", 
             "meaning_bg": "", 
             "note": "This word has other definitions but this is the most important one for the GRE", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "assiduously": [
         {
+            "ant": "", 
             "example": "The top college football program recruits new talent assiduously, only choosing those who were the top in their county.", 
             "meaning": "with care and persistence", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adv."
         }
     ], 
     "autocratic": [
         {
+            "ant": "", 
             "example": "The last true autocratic country is certainly North Korea; nowhere does a leader exercise the absolute control over all aspects of a people the way that Kim Jong-un does.", 
             "meaning": "characteristic of an absolute ruler or absolute rule; having absolute sovereignty", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }, 
         {
+            "ant": "", 
             "example": "The manager was finally fired for his autocratic leadership, which often bordered on rude and offensive.", 
             "meaning": "offensively self-assured or given to exercising usually unwarranted power", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "bridle": [
         {
+            "ant": "", 
             "example": "New curfew laws have bridled people's tendency to go out at night.", 
             "meaning": "the act of restraining power or action or limiting excess", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }, 
         {
+            "ant": "", 
             "example": "The hostess bridled at the tactless dinner guests who insisted on eating before everybody had gotten their food.", 
             "meaning": "anger or take offense", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "bromide": [
         {
+            "ant": "", 
             "example": "Instead of sharing his umbrella, the cheeky stranger offered Martha the following bromide: \"Looks like it's raining.\"", 
             "meaning": "a trite or obvious remark", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "callow": [
         {
+            "ant": "", 
             "example": "Both Los Angeles and New York are known for callow out-of-towners hoping to make it big.", 
             "meaning": "young and inexperienced", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "complaisant": [
         {
+            "ant": "", 
             "example": "On her first day at the job, Annie was complaisant, fulfilling every request of her new employee and anticipating future requests.", 
             "meaning": "showing a cheerful willingness to do favors for others", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "complicit": [
         {
+            "ant": "", 
             "example": "nature. While the grand jury cleared the senator of all criminal charges, in the public mind he was still complicit in the corruption.", 
             "meaning": "Associated with or participating in an activity, especially one of a questionable", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "conflagration": [
         {
+            "ant": "", 
             "example": "In the summer months, conflagrations are not uncommon in the southwest, do to the heat and lack of rain.", 
             "meaning": "a very intense and uncontrolled fire", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "conflate": [
         {
+            "ant": "", 
             "example": "In her recent book, the author conflates several genres--the detective story, the teen thriller, and the vampire romance--to create a memorable read.", 
             "meaning": "mix together different elements or concepts", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "coterminous": [
         {
+            "ant": "", 
             "example": "The border of the state is coterminous with geographic limits on travel; the east and north are surrounded by a nearly uncrossable river and the south by a desert.", 
             "meaning": "being of equal extent or scope or duration", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "desiccated": [
         {
+            "ant": "", 
             "example": "Few novelists over 80 are able to produce anything more than desiccated works--boring shadows of former books.", 
             "meaning": "uninteresting, lacking vitality", 
             "meaning_bg": "", 
             "note": "This word has other definitions but this is the most important one for the GRE", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "desideratum": [
         {
+            "ant": "", 
             "example": "The desideratum of the environmental group is that motorists should rely on carpooling.", 
             "meaning": "something desired as a necessity", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "discursive": [
         {
+            "ant": "", 
             "example": "Many readers find it tough to read Moby Dick since the author is discursive, often cutting the action short to spend 20 pages on the history of a whale.", 
             "meaning": "(of e.g. speech and writing) tending to depart from the main point", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "dolorous": [
         {
+            "ant": "", 
             "example": "Chopin's ballades are filled with sharp changes in moods--a dolorous melody can give way to a lighthearted tempo.", 
             "meaning": "showing sorrow", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "doughty": [
         {
+            "ant": "", 
             "example": "I enjoy films in which a doughty group comes together to battle a force of evil.", 
             "meaning": "brave; bold; courageous", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "elegiac": [
         {
+            "ant": "", 
             "example": "Few can listen to the elegiac opening bars of the Moonlight sonata without feeling the urge to cry.", 
             "meaning": "expressing sorrow", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "enormity": [
         {
+            "ant": "", 
             "example": "The enormity of Pol Pot's regime is hard to capture in words--within months hundreds of thousands of Cambodians lost their lives.", 
             "meaning": "an act of extreme wickedness", 
             "meaning_bg": "", 
             "note": "This word has other definitions but this is the most important one for the GRE", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "ethereal": [
         {
+            "ant": "", 
             "example": "Because she dances with an ethereal style, ballet critics have called her Madame Butterfly.", 
             "meaning": "characterized by lightness and insubstantiality", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "facile": [
         {
+            "ant": "", 
             "example": "Many news shows provide facile explanations to complex politics, so I prefer to read the in-depth reporting of The New York Times.", 
             "meaning": "arrived at without due care or effort; lacking depth", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "fecund": [
         {
+            "ant": "", 
             "example": "The artist had entered a fecund period, producing three masterpieces in the span of two months.", 
             "meaning": "intellectually productive", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "gumption": [
         {
+            "ant": "", 
             "example": "Wallace Stegner lamented the lack of gumption in the U.S. during the sixties, claiming that no young person knew the value of work.", 
             "meaning": "resourcefulness and determination", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "hauteur": [
         {
+            "ant": "", 
             "example": "As soon as she won the lottery, Alice begin displaying a hauteur to her friends, calling them dirty-clothed peasants behind their backs.", 
             "meaning": "overbearing pride evidenced by a superior manner toward inferiors", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "impervious": [
         {
+            "ant": "", 
             "example": "I am not impervious to your insults; they cause me great pain.", 
             "meaning": "not admitting of passage or capable of being affected", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "impugn": [
         {
+            "ant": "", 
             "example": "Though many initially tried to impugn Darwin's theory, in scientific circles today, the is idea taken as truth.", 
             "meaning": "attack as false or wrong", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "inequity": [
         {
+            "ant": "", 
             "example": "After decades of racial inequity, the \"separate but equal\" doctrine was successfully overturned.", 
             "meaning": "injustice by virtue of not conforming with rules or standards", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "internecine": [
         {
+            "ant": "", 
             "example": "The guerilla group, which had become so powerful as to own the state police, was finally destroyed by an internecine conflict.", 
             "meaning": "(of conflict) within a group or organization", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "inviolable": [
         {
+            "ant": "", 
             "example": "Too many the grass at Wimbledon is inviolable and only greater tennis players are able to enjoy a game there.", 
             "meaning": "never to be broken, infringed, or dishonored", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "malingerer": [
         {
+            "ant": "", 
             "example": "At one time, our country was full of hardworking respectful people, but now it seems that everyone is a malingerer with little inclination to work.", 
             "meaning": "someone shirking their duty by pretending to be sick or incapacitated", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "mendicant": [
         {
+            "ant": "", 
             "example": "Tolstoy was an aristocrat, but he strove to understand the Christianity of the Russian peasants by wandering among them as a mendicant.", 
             "meaning": "a pauper who lives by begging", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "noisome": [
         {
+            "ant": "", 
             "example": "Each August, when the winds moved in a south easterly direction, the garbage dump would spread noisome vapors through the small town.", 
             "meaning": "having an extremely bad smell", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "obtuse": [
         {
+            "ant": "", 
             "example": "discernment Jackson was the most obtuse member of the team: the manager's subtle ironies were always lost on him.", 
             "meaning": "slow to learn or understand; lacking intellectual acuity; lacking in insight or", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "palatable": [
         {
+            "ant": "", 
             "example": "MIkey didn't partake much in his friends' conversations, but found their presence palatable.", 
             "meaning": "acceptable to the taste or mind", 
             "meaning_bg": "", 
             "note": "This word has other definitions but this is the most important one for the GRE", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "panegyric": [
         {
+            "ant": "", 
             "example": "Dave asked Andrew to do just a simple toast, but Andrew launched into a full panegyric, enumerating a complete list of Dave's achievements and admirable qualities.", 
             "meaning": "a formal expression of praise", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "pellucid": [
         {
+            "ant": "", 
             "example": "The professor had a remarkable ability make even the most difficult concepts seem pellucid.", 
             "meaning": "transparently clear; easily understandable", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "pontificate": [
         {
+            "ant": "", 
             "example": "The vice-president would often pontificate about economic theory, as if no one else in the room were qualified to speak on the topic.", 
             "meaning": "talk in a dogmatic and pompous manner", 
             "meaning_bg": "", 
             "note": "This word has other definitions but this is the most important one for the GRE", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "proscribe": [
         {
+            "ant": "", 
             "example": "My doctor proscribes that I not eat donuts with chocolate sauce and hamburger patties for breakfast.", 
             "meaning": "command against", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "proselytize": [
         {
+            "ant": "", 
             "example": "Lisa loves her Mac but says little about it; by contrast, Jake will proselytize, interrogating anyone with an Android about why she didn't purchase an iPhone.", 
             "meaning": "convert to another religion, philosophy, or perspective", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "self-effacing": [
         {
+            "ant": "", 
             "example": "The most admirable teachers and respected leaders are those who are self-effacing, directing attention and praise to their students and workers.", 
             "meaning": "reluctant to draw attention to yourself", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "solicitous": [
         {
+            "ant": "", 
             "example": "Our neighbors are constantly knocking on our door to make sure we are ok, and I don't know how to ask them to stop being so solicitous about our health.", 
             "meaning": "showing hovering attentiveness", 
             "meaning_bg": "", 
             "note": "This word has other definitions but this is the most important one for the GRE", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "stultify": [
         {
+            "ant": "", 
             "example": "As an undergraduate Mark felt stultified by classes outside his area of study; only in grad school, in which he could focus solely on literary analysis, did he regain his scholarly edge.", 
             "meaning": "cause one, through routine, to lose energy and enthusiasm", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "transmute": [
         {
+            "ant": "", 
             "example": "One of the goals of alchemy was to find the substance or process that would transmute lead into gold.", 
             "meaning": "change or alter in form, appearance, or nature", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "turgid": [
         {
+            "ant": "", 
             "example": "The amount of GRE vocabulary he used increased with his years--by the time he was 60, his novels were so turgid that even his diehard fans refused to read them.", 
             "meaning": "(of language) pompous and tedious", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "tyro": [
         {
+            "ant": "", 
             "example": "All great writers, athletes, and artists were tyros at one time--unknown, clumsy, and unskilled with much to learn.", 
             "meaning": "someone new to a field or activity", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "unassailable": [
         {
+            "ant": "", 
             "example": "Professor Williams is so self-assured as to seem arrogant, presenting each and every opinion as an unassailable fact.", 
             "meaning": "immune to attack; without flaws", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "unimpeachable": [
         {
+            "ant": "", 
             "example": "After his long and unimpeachable service to the company, Sharat felt that a gold watch was a slap in the face rather than an honor.", 
             "meaning": "free of guilt; not subject to blame; beyond doubt or reproach", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "vaunted": [
         {
+            "ant": "", 
             "example": "For years, they had heard of New York City's vaunted skyline, and when they finally saw it, the spectacular cityscape did not disappoint them in the least.", 
             "meaning": "highly or widely praised or boasted about", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ]

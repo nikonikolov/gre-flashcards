@@ -1,9 +1,7 @@
 
 
 FINAL:
-  - Add a synonyms/antonyms entry to a card ?
-  - Handle the Note thing about word having other meanings
-
+  - Check log.md and do the necessary changes
 
 
 
@@ -15,19 +13,12 @@ NAVIGATION
     - should you just remember where you are ?? 
 
 
-
 MODIFYING WORD
   - Should there be a button to delete word from all lists ???
 
 
-
-JSON FORMAT:
-  - What other fields would you need
-
-
 IMPROVEMENTS
   - make a button after learning a list to try it again - not crucial
-  - see log.md and fix the relevant words
 
 
   REMOVING WORD

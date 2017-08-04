@@ -80,6 +80,19 @@ $(document).ready( function() {
     $('#notknow').show();
   }
 
+  function makeWordBold(){
+    var meanings  = $('#meaning-block').find(".card-meaning");
+    var word = $("#word").html();
+    var re = new RegExp("(" + word + "\\w*)", 'gi');
+
+    for (var i=0; i<meanings.length; i++) {
+      var m = $(meanings[i]);
+      el = m.find(".card-meaning-example");
+      // el.html( el.html().replace(re, "<b>$1</b>") );
+      el.html( el.html().replace(re, "<b>$&</b>") );
+    }
+  }
+
   function sendResponse(flag_val) {
     var page = window.location.pathname + "/_know";
     console.log(flag_val)
@@ -96,12 +109,14 @@ $(document).ready( function() {
 
 
   // ----------------- START EXECUTION -----------------
+
+  
   hideContent();
+  makeWordBold();
   $("#options").hide();
 
   $('#show-meaning').click( 
     function() {
-      console.log("click")
       $('#show-meaning').hide();
       showContent();
     }

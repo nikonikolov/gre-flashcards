@@ -52,7 +52,7 @@
 
     <div class="card text-center">
       <div class="card-block">
-        <h4 class="card-title"> {{ word }} </h4>
+        <h4 id="word" class="card-title">{{word}}</h4>
         <div id="show-meaning"  class="btn btn-primary">See meaning</div>
       </div>
       {% if know_button %}
@@ -65,12 +65,25 @@
       {% for m in meaning %}
       <div class="card card-meaning">
         <div class="card-block">
-          <p class="card-text card-meaning-en"> <small class="text-muted"> {{ m["type"] }} </small> {{ m["meaning"] }} </p>
+          <p class="card-text card-meaning-en"> <small class="text-muted"> {{ m["type"] }} </small> <b>{{ m["meaning"] }}</b> </p>
           {% if m["meaning_bg"] != "" %}
           <p class="card-text card-meaning-bg"> {{ m["meaning_bg"] }}</p>
           {% endif %}
           
+          {% if m["syn"] != "" %}
+          <p class="card-text card-meaning-bg"><small class="text-muted">syn:</small> {{ m["syn"] }}</p>
+          {% endif %}
+
+          {% if m["ant"] != "" %}
+          <p class="card-text card-meaning-bg"><small class="text-muted">ant:</small> {{ m["ant"] }}</p>
+          {% endif %}
+
           <p class="card-text card-meaning-example"> {{ m["example"] }}</p>
+
+          {% if m["note"] != "" %}
+          <p class="card-text card-meaning-bg"><small class="text-muted">{{ m["note"] }}</small></p>
+          {% endif %}
+
         </div>
       </div>
       {% endfor %}

@@ -1,507 +1,623 @@
 {
     "aesthete": [
         {
+            "ant": "", 
             "example": "A true aesthete, Marty would spend hours at the Guggenheim Museum, staring at the same Picasso.", 
             "meaning": "one who professes great sensitivity to the beauty of art and nature", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "aesthetic": [
         {
+            "ant": "", 
             "example": "The director, not known for his aesthetic sensibilities, decided not to use costumes at all, and put on the play in everyday clothing.", 
             "meaning": "concerned with the appreciation of beauty", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }, 
         {
+            "ant": "", 
             "example": "movement. The artist operated according to a peculiar aesthetic, not considering any photograph to be worth publishing unless it contained a marine mammal.", 
             "meaning": "a set of principles underlying and guiding the work of a particular artist or artistic", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "apathetic": [
         {
+            "ant": "", 
             "example": "Mr. Thompson was so talented at teaching math that even normally apathetic students took interest.", 
             "meaning": "marked by a lack of interest", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "audacious": [
         {
+            "ant": "", 
             "example": "As all of the other campers cowered in their tents, Bill, armed only with a flashlight, audaciously tracked down the bear that had raided their food.", 
             "meaning": "willing to be bold in social situations or to take risks", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "banal": [
         {
+            "ant": "", 
             "example": "The professor used such banal expression that many students in the class either fell asleep from bordeom or stayed awake to complete his sentences and humor friends.", 
             "meaning": "repeated too often; overfamiliar through overuse", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "bucolic": [
         {
+            "ant": "", 
             "example": "The noble families of England once owned vast expanses of beautiful, bucolic land.", 
             "meaning": "relating to the pleasant aspects of the country", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "chortle": [
         {
+            "ant": "", 
             "example": "Walking past the bar, I could hear happy, chortling people and the blast of horns from a jazz band.", 
             "meaning": "to chuckle, laugh merrily", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "concede": [
         {
+            "ant": "", 
             "example": "I concede. You win!", 
             "meaning": "acknowledge defeat", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }, 
         {
+            "ant": "", 
             "example": "After a long, stern lecture from her father, Olivia conceded to having broken the window.", 
             "meaning": "admit (to a wrongdoing)", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }, 
         {
+            "ant": "", 
             "example": "The Spanish were forced to concede much of the territory they had previously conquered.", 
             "meaning": "give over; surrender or relinquish to the physical control of another", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "conspicuous": [
         {
+            "ant": "", 
             "example": "American basketball players are always conspicuous when they go abroad--not only are they American, but some are over seven feet tall.", 
             "meaning": "without any attempt at concealment; completely obvious", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "cryptic": [
         {
+            "ant": "", 
             "example": "Since Sarah did not want her husband to guess the Christmas present she had bought him, she only answered cryptically when he would ask her questions about it.", 
             "meaning": "mysterious or vague, usually intentionally", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "culminate": [
         {
+            "ant": "", 
             "example": "Beethoven's musical genius culminated in the 9th Symphony, which many consider his greatest work.", 
             "meaning": "reach the highest or most decisive point", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "culpability": [
         {
+            "ant": "", 
             "example": "Since John had left his banana peel at the top of the stairwell, he accepted culpability for Martha's broken leg.", 
             "meaning": "a state of guilt", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "decorous": [
         {
+            "ant": "", 
             "example": "Sally's parties are decorous affairs, and instead of the usual beer and music, there is tea and intellectual conversation.", 
             "meaning": "characterized by good taste in manners and conduct", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "deferential": [
         {
+            "ant": "", 
             "example": "If you ever have the chance to meet the president, stand up straight and be deferential.", 
             "meaning": "showing respect", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "dictatorial": [
         {
+            "ant": "", 
             "example": "The coach was dictatorial in his approach: no players could ever argue or question his approach.", 
             "meaning": "expecting unquestioning obedience; characteristic of an absolute ruler", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "didactic": [
         {
+            "ant": "", 
             "example": "Tolstoy's The Death of Ivan Illyich is a didactic novel, instructing the reader on how to live a good life.", 
             "meaning": "instructive (especially excessively)", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "diffident": [
         {
+            "ant": "", 
             "example": "As a young girl she was diffident and reserved, but now as an adult, she is confident and assertive.", 
             "meaning": "showing modest reserve; lacking self-confidence", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "dogmatic": [
         {
+            "ant": "", 
             "example": "Bryan is dogmatic in his belief that the earth is flat, claiming that all pictures of a spherical earth are computer generated.", 
             "meaning": "highly opinionated, not accepting that your belief may not be correct", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "engender": [
         {
+            "ant": "", 
             "example": "The restrictions of the Treaty of Versailles were so severe that they engendered deep hatred and resentment in the German people.", 
             "meaning": "give rise to", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "entrenched": [
         {
+            "ant": "", 
             "example": "By the time we reach 60-years old, most of our habits are so entrenched that it is difficult for us to change.", 
             "meaning": "fixed firmly or securely", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "eschew": [
         {
+            "ant": "", 
             "example": "Politicians are the masters of eschewing morals; academics are the masters of eschewing clarity.", 
             "meaning": "avoid and stay away from deliberately; stay clear of", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "exacerbate": [
         {
+            "ant": "", 
             "example": "Her sleeplessness exacerbated her cold--when she woke up the next day, her sinuses were completely blocked.", 
             "meaning": "make worse", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "fortuitous": [
         {
+            "ant": "", 
             "example": "While the real objects are vastly different sizes in space, the sun and the moon seem to have the same fortuitous size in the sky.", 
             "meaning": "occurring by happy chance; having no cause or apparent cause", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "frivolous": [
         {
+            "ant": "", 
             "example": "Compared to Juliet's passionate concern for human rights, Jake's non-stop concern about football seems somewhat frivolous.", 
             "meaning": "not serious in content or attitude or behavior", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "gainsay": [
         {
+            "ant": "", 
             "example": "I can't gainsay a single piece of evidence James has presented, but I still don't trust his conclusion.", 
             "meaning": "deny or contradict; speak against or oppose", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "gall": [
         {
+            "ant": "", 
             "example": "Even though Carly was only recently hired, she had the gall to question her boss's judgment in front of the office.", 
             "meaning": "the trait of being rude and impertinent", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }, 
         {
+            "ant": "", 
             "example": "In an act of gall, Leah sent compromising photos of her ex-boyfriend to all his co-workers and professional contacts.", 
             "meaning": "feeling of deep and bitter anger and ill-will", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "germane": [
         {
+            "ant": "", 
             "example": "The professor wanted to tell the jury in detail about his new book, but the lawyer said it wasn't germane to the charges in the cases.", 
             "meaning": "relevant and appropriate", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "glut": [
         {
+            "ant": "", 
             "example": "The Internet offers such a glut of news related stories that many find it difficult to know which story to read first.", 
             "meaning": "an excessive supply", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }, 
         {
+            "ant": "", 
             "example": "In the middle of economic crises, hiring managers find their inboxes glutted with resumes.", 
             "meaning": "supply with an excess of", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "gossamer": [
         {
+            "ant": "", 
             "example": "The gossamer wings of a butterfly, which allow it to fly, are also a curse, so delicate that they are often damaged.", 
             "meaning": "characterized by unusual lightness and delicacy", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "impudent": [
         {
+            "ant": "", 
             "example": "In an impudent move, the defendant spoke out of order to say terribly insulting things to the judge.", 
             "meaning": "improperly forward or bold", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "incisive": [
         {
+            "ant": "", 
             "example": "The lawyer had an incisive mind, able in a flash to dissect a hopelessly tangled issue and isolate the essential laws at play.", 
             "meaning": "having or demonstrating ability to recognize or draw fine distinctions", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "inexorable": [
         {
+            "ant": "", 
             "example": "The rise of the computer was an inexorable shift in technology and culture.", 
             "meaning": "impossible to stop or prevent", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "lambast": [
         {
+            "ant": "", 
             "example": "Showing no patience, the manager utterly lambasted the sales team that lost the big account.", 
             "meaning": "criticize severely or angrily", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "mawkish": [
         {
+            "ant": "", 
             "example": "The film was incredibly mawkish, introducing highly likeable characters only to have them succumb to a devastating illnesses by the end of the movie.", 
             "meaning": "overly sentimental to the point that it is disgusting", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "meticulous": [
         {
+            "ant": "", 
             "example": "The Japanese noodle maker was meticulous in making his noodles and would never let another person take over the task.", 
             "meaning": "marked by extreme care in treatment of details", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "mitigate": [
         {
+            "ant": "", 
             "example": "I can only spend so much time mitigating your disagreements with your wife, and at certain point, you need to do it on your own.", 
             "meaning": "make less severe or harsh", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }, 
         {
+            "ant": "", 
             "example": "If it weren't for the mitigating circumstances, he would have certainly lost his job.", 
             "meaning": "lessen the severity of an offense", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "obscure": [
         {
+            "ant": "", 
             "example": "On the Smith's drive through the Grand Canyon, Mr. Smith's big head obscured much of Mrs. Robinson's view, so that she only saw momentary patches of red rock.", 
             "meaning": "make unclear", 
             "meaning_bg": "", 
             "note": "This word has other definitions but this is the most important one for the GRE", 
+            "syn": "", 
             "type": "verb"
         }, 
         {
+            "ant": "", 
             "example": "Many of the biggest movie stars were once obscure actors who got only bit roles in long forgotten films.", 
             "meaning": "known by only a few", 
             "meaning_bg": "", 
             "note": "This word has other definitions but this is the most important one for the GRE", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "perfidy": [
         {
+            "ant": "", 
             "example": "The lowest circles in Dante's Inferno were for those who had practiced perfidy, and among these, the very lowest was for those, such as Judas, who had been treacherous to one of their benefactors.", 
             "meaning": "an act of deliberate betrayal; a breach of a trust", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "platitude": [
         {
+            "ant": "", 
             "example": "The professor argued that many statements regarded as wise in previous times, such as the Golden Rule, are now regarded as mere platitudes.", 
             "meaning": "a trite or obvious remark", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "preclude": [
         {
+            "ant": "", 
             "example": "The manager specified that all other gates be locked, to preclude the possibility of persons without tickets entering the arena undetected.", 
             "meaning": "keep from happening or arising; make impossible", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "predilection": [
         {
+            "ant": "", 
             "example": "Monte had a predilection for the fine things in life: Cuban cigars, 200 dollar bottles of wine, and trips to the French Riviera.", 
             "meaning": "a strong liking", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "prescience": [
         {
+            "ant": "", 
             "example": "Baxter's warnings about investing in technology stocks seemed like an act of prescience after the whole market declined significantly.", 
             "meaning": "the power to foresee the future", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "querulous": [
         {
+            "ant": "", 
             "example": "The querulous old woman was begining to wear down even the happier members of the staff with her ceaseless complaining.", 
             "meaning": "habitually complaining", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "recondite": [
         {
+            "ant": "", 
             "example": "knowledge I found Ulysses recondite and never finished the book, waiting instead to read it with someone else so we could penetrate its meaning together.", 
             "meaning": "difficult to penetrate; incomprehensible to one of ordinary understanding or", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "reticent": [
         {
+            "ant": "", 
             "example": "When asked about her father, Helen lost her outward enthusiasm and became rather reticent.", 
             "meaning": "reluctant to draw attention to yourself; temperamentally disinclined to talk", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "rustic": [
         {
+            "ant": "", 
             "example": "The vacation cabin had no electricity and no indoor plumbing, but despite these inconveniences, Nigel adored its rustic charm.", 
             "meaning": "characteristic of rural life; awkwardly simple and provincial", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "superfluous": [
         {
+            "ant": "", 
             "example": "How can we hope to stay open if we don't eliminate all superfluous spending, like catered meetings and free acupucture Tuesday?", 
             "meaning": "serving no useful purpose", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }, 
         {
+            "ant": "", 
             "example": "Everything in this closet is superfluous and can be given to charity.", 
             "meaning": "more than is needed, desired, or required", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "torpor": [
         {
+            "ant": "", 
             "example": "After work, I was expecting my colleagues to be enthusiastic about the outing, but I found them in a state of complete torpor.", 
             "meaning": "inactivity resulting from lethargy and lack of vigor or energy", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "vociferous": [
         {
+            "ant": "", 
             "example": "In giving Marcia a particular vociferous response, Paul caused people at every other table in the restaurant to turn around an look at them angrily.", 
             "meaning": "conspicuously and offensively loud; given to vehement outcry", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "volubility": [
         {
+            "ant": "", 
             "example": "The professor's volubility knows no bounds; he could talk through a hurricane and elaborate a point from one St. Patrick's Day to the next.", 
             "meaning": "the quality of talking or writing easily and continuously", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ]

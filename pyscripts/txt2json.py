@@ -4,10 +4,6 @@ import os
 """
 JSON structure is as follows
 
-- NEED:
-  - the GRE word message
-  - maybe the list number of the word
-
   {
     "word_name": 
       [
@@ -16,7 +12,9 @@ JSON structure is as follows
           "type":       "noun/verb/adjective/adverb",
           "meaning":    "en explanation",
           "meaning_bg": "bg meaning",
-          "example":    "example usage",
+          "note":       "This word has other definitions but this is the most important one for the GRE" or "",
+          "syn":        "",
+          "ant":        "",
         },
 
         // Meaning 2
@@ -25,6 +23,9 @@ JSON structure is as follows
           "meaning":    "en explanation",
           "meaning_bg": "bg meaning",
           "example":    "example usage",
+          "note":       "This word has other definitions but this is the most important one for the GRE" or "",
+          "syn":        "",
+          "ant":        "",
         }
 
       ], 
@@ -141,6 +142,8 @@ def detect_word(line):
       def_start = found + len(search_str)
       meaning["meaning"] = line[def_start:]
       meaning["meaning_bg"] = ""
+      meaning["syn"] = ""
+      meaning["ant"] = ""
 
       return word, [meaning]
 

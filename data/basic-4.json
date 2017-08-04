@@ -1,472 +1,578 @@
 {
     "altruism": [
         {
+            "ant": "", 
             "example": "Albert Schweitzer spent most of his life doing missionary work as a doctor in Africa, seeking no reward, apparently motivated only by altruism.", 
             "meaning": "the quality of unselfish concern for the welfare of others", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "assail": [
         {
+            "ant": "", 
             "example": "In the weekly paper, the editor assailed the governor for wasting hundreds of thousands of dollars in public projects that quickly failed.", 
             "meaning": "attack in speech or writing", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "assuage": [
         {
+            "ant": "", 
             "example": "Her fear that the new college would be filled with unknown faces was assuaged when she recognized her childhood friend standing in line.", 
             "meaning": "make something intense less severe", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "augment": [
         {
+            "ant": "", 
             "example": "Ideally, the restaurant's augmented menu will expand its clientele and increase its profits.", 
             "meaning": "enlarge or increase; improve", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "banish": [
         {
+            "ant": "", 
             "example": "The most difficult part of the fast was banishing thoughts of food.", 
             "meaning": "expel from a community, residence, or location; drive away", 
             "meaning_bg": "", 
             "note": "This word has other definitions but this is the most important one for the GRE", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "benign": [
         {
+            "ant": "", 
             "example": "I remember my grandfather's face was wrinkled, benign, and calm.", 
             "meaning": "kind", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }, 
         {
+            "ant": "", 
             "example": "The tumor located in your ear lobe seems to be benign and should not cause you any trouble.", 
             "meaning": "(medicine) not dangerous to health; not recurrent or progressive", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "buck": [
         {
+            "ant": "", 
             "example": "The profits at our firm bucked the general downturn that effected the real estate industry.", 
             "meaning": "resist", 
             "meaning_bg": "", 
             "note": "This word has other definitions but this is the most important one for the GRE", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "commendable": [
         {
+            "ant": "", 
             "example": "The efforts of the firefighters running into the burning building were commendable.", 
             "meaning": "worthy of high praise", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "conducive": [
         {
+            "ant": "", 
             "example": "Studying in a quiet room is conducive to learning; studying in a noisy environment makes learning more difficult.", 
             "meaning": "making a situation or outcome more likely to happen", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "contemptuous": [
         {
+            "ant": "", 
             "example": "Always on the forefront of fashion, Vanessa looked contemptuously at anyone wearing dated clothing.", 
             "meaning": "scornful, looking down at others with a sneering attitude", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "cornucopia": [
         {
+            "ant": "", 
             "example": "The International Food Expo was a cornucopia of culinary delights: gourmet foods from every continent were under one roof.", 
             "meaning": "an abundant supply of something good", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "credence": [
         {
+            "ant": "", 
             "example": "He placed no credence in psychics, claiming that they offered no special powers beyond the ability to make people part with their money.", 
             "meaning": "belief in something", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "debase": [
         {
+            "ant": "", 
             "example": "The third-rate script so debased the film that not even the flawless acting could save it from being a flop.", 
             "meaning": "reduce the quality or value of something", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "derisive": [
         {
+            "ant": "", 
             "example": "I was surprised by her derisive tone; usually, she is sweet, soft spoken, and congenial.", 
             "meaning": "abusing vocally; expressing contempt or ridicule", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "detrimental": [
         {
+            "ant": "", 
             "example": "Many know that smoking is detrimental to your health, but processed sugar in large quantities is equally bad.", 
             "meaning": "(sometimes followed by \"to\") causing harm or injury", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "egotist": [
         {
+            "ant": "", 
             "example": "An egotist, Natasha had few friends because of her inability to talk about anything except her dream of becoming the next American Idol.", 
             "meaning": "a conceited and self-centered person", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "elaborate": [
         {
+            "ant": "", 
             "example": "Thomas, on returning from Morocco, replaced his dirty gray carpet with an elaborate one he'd brought back with him.", 
             "meaning": "marked by complexity and richness of detail", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }, 
         {
+            "ant": "", 
             "example": "Most high school physics teachers find themselves elaborating the same point over and over again, since many concepts confuse students.", 
             "meaning": "explain in more detail", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "empathetic": [
         {
+            "ant": "", 
             "example": "emotions Most discrimination and hatred is based on a lack of empathetic awareness of people that have the same aspitations and fears.", 
             "meaning": "showing understanding and ready comprehension of other peoples' states and", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "euphoria": [
         {
+            "ant": "", 
             "example": "The euphoria of winning her first gold medal in the 100 meter dash overwhelmed Shelly-Ann Fraser and she wept tears of immense joy.", 
             "meaning": "a feeling of great (usually exaggerated) elation", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "facetious": [
         {
+            "ant": "", 
             "example": "Facetious behavior will not be tolerated during sex eduation class; it's time for all of you to treat these matters like mature adults.", 
             "meaning": "cleverly amusing in tone", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "fickle": [
         {
+            "ant": "", 
             "example": "She was so fickle in her politics, it was hard to pinpoint her beliefs; one week she would embrace a side, and the next week she would denounce it.", 
             "meaning": "liable to sudden unpredictable change, esp. in affections or attachments", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "genial": [
         {
+            "ant": "", 
             "example": "Betty is a genial young woman: everyone she meets is put at ease by her elegance and grace.", 
             "meaning": "agreeable, conducive to comfort", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "genteel": [
         {
+            "ant": "", 
             "example": "A live string quartet would provide a more genteel air to the wedding than would a folk singer.", 
             "meaning": "marked by refinement in taste and manners", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "glib": [
         {
+            "ant": "", 
             "example": "I have found that the more glib the salesman, the worse the product.", 
             "meaning": "(of a person) speaking with ease but without sincerity", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "grovel": [
         {
+            "ant": "", 
             "example": "Every time Susan comes to the office, Frank grovels as if she were about to fire.", 
             "meaning": "show submission or fear", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "hamstrung": [
         {
+            "ant": "", 
             "example": "The FBI has made so many restriction on the local police that they are absolutely hamstrung, unable to accomplish anything.", 
             "meaning": "made ineffective or powerless", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "illicit": [
         {
+            "ant": "", 
             "example": "Though Al Capone was engaged in many illicit activities, he was finally arrested for income tax evasion, a relatively minor offense.", 
             "meaning": "contrary to or forbidden by law", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "impeccable": [
         {
+            "ant": "", 
             "example": "He was impeccably dressed in the latest fashion without a single crease or stain.", 
             "meaning": "without fault or error", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "inadvertent": [
         {
+            "ant": "", 
             "example": "Although Prohibition was rooted in noble ideals, the inadvertent and costly consequences of making alcohol illegal in the U.S. led its the repeal.", 
             "meaning": "happening by chance or unexpectedly or unintentionally", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "irresolute": [
         {
+            "ant": "", 
             "example": "He stood irresolute at the split in the trail, not sure which route would lead back to the camp.", 
             "meaning": "uncertain how to act or proceed", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "jargon": [
         {
+            "ant": "", 
             "example": "To those with little training in medicine, the jargon of doctors can be very difficult to understand.", 
             "meaning": "a characteristic language of a particular group", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "lucid": [
         {
+            "ant": "", 
             "example": "Though Walters writes about physics and time travel, his writing is always lucid, so readers with little scientific training can understand difficult concepts.", 
             "meaning": "(of language) transparently clear; easily understandable", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "martial": [
         {
+            "ant": "", 
             "example": "Americans tend to remember Abraham Lincoln as kindly and wise, not at all martial, despite the fact that he was involved in the fiercest war America has even fought.", 
             "meaning": "suggesting war or military life", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "perennial": [
         {
+            "ant": "", 
             "example": "Even at the old-timers games, Stan Musial would get the loudest cheer: he was a perennial favorite of the fans there.", 
             "meaning": "lasting an indefinitely long time; eternal; everlasting", 
             "meaning_bg": "", 
             "note": "This word has other definitions but this is the most important one for the GRE", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "perpetuate": [
         {
+            "ant": "", 
             "example": "If you do not let him do things for himself, you are merely perpetuating bad habits that will be even harder to break in the future.", 
             "meaning": "cause to continue", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "pertinent": [
         {
+            "ant": "", 
             "example": "While the salaries of the players might draw attention in the media, such monetary figures are not pertinent to the question of who plays the best on the field.", 
             "meaning": "having precise or logical relevance to the matter at hand", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "precedent": [
         {
+            "ant": "", 
             "example": "The principal explained that even though one student had done modelling work outside of school, the outfits that student wore in those photographs in no way established a precedent for what could be worn at school dances.", 
             "meaning": "an example that is used to justify similar occurrences at a later time", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "pristine": [
         {
+            "ant": "", 
             "example": "The glacial lake was pristine and we filled our canteens to drink deeply.", 
             "meaning": "Unspoiled, untouched (usu. of nature)", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }, 
         {
+            "ant": "", 
             "example": "Drill sergeants are known for demanding pristine cabinets, uniforms, and beds, and often make new recruits clean and clean and clean until they meet the expected high standards.", 
             "meaning": "Immaculately clean and unused", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "rankle": [
         {
+            "ant": "", 
             "example": "His constant whistling would rankle her, sometimes causing her to leave in a huff.", 
             "meaning": "gnaw into; make resentful or angry", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "sentimental": [
         {
+            "ant": "", 
             "example": "I don't like romanticism for the same reason I don't like melodramatic acting and soap operas--overly sentimental.", 
             "meaning": "effusively or insincerely emotional, especially in art, music, and literature", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "smattering": [
         {
+            "ant": "", 
             "example": "I know only a smattering of German, but Helen is able to read German newspapers and converse with natives.", 
             "meaning": "a slight or superficial understanding of a subject; a small amount of something", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "spurn": [
         {
+            "ant": "", 
             "example": "She spurned all his flattery and proposals, and so he walked off embarrassed and sad.", 
             "meaning": "reject with contempt", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "verb"
         }
     ], 
     "surly": [
         {
+            "ant": "", 
             "example": "Every morning, Bhavin was a surly unhappy person, but once he ate breakfast, he became loving, laughing, and a joy to be around.", 
             "meaning": "inclined to anger or bad feelings with overtones of menace", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "tawdry": [
         {
+            "ant": "", 
             "example": "Carol expected to find New York City magical, the way so many movies had portrayed it, but she was surprised how often tawdry displays took the place of genuine elegance.", 
             "meaning": "tastelessly showy; cheap and shoddy", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "tumult": [
         {
+            "ant": "", 
             "example": "Riots broke out just in front of our apartment building, and the tumult continued late into the night.", 
             "meaning": "a state of chaos, noise and confusion", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "noun"
         }
     ], 
     "uncompromising": [
         {
+            "ant": "", 
             "example": "The relationship between Bart and Hilda ultimately failed because they were both so uncompromising, never wanting to change their opinions.", 
             "meaning": "not making concessions", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "unruly": [
         {
+            "ant": "", 
             "example": "authority Walk in to any preschool and I am sure that you will find an unruly and chaotic scene--unless it's nap time.", 
             "meaning": "(of persons) noisy and lacking in restraint or discipline; unwilling to submit to", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "urbane": [
         {
+            "ant": "", 
             "example": "experience Because of his service as an intelligence officer and his refined tastes, W. Somerset Maugham became the inspiration for the urbane and sophistcate spy James Bond.", 
             "meaning": "showing a high degree of refinement and the assurance that comes from wide social", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "vacuous": [
         {
+            "ant": "", 
             "example": "To the journalist's pointed question, the senator gave a vacuous response, mixing a few of his overall campaign slogans with platitudes and completely avoiding the controversial subject of the question.", 
             "meaning": "devoid of intelligence, matter, or significance", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
     "whimsical": [
         {
+            "ant": "", 
             "example": "Adults look to kids and envy their whimsical nature at times, wishing that they could act without reason and play without limitation.", 
             "meaning": "determined by impulse or whim rather than by necessity or reason", 
             "meaning_bg": "", 
             "note": "", 
+            "syn": "", 
             "type": "adj."
         }
     ]

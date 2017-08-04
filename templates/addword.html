@@ -54,11 +54,11 @@
       <!-- Word -->
       <hr class="featurette-divider">
       <div class="form-group">
-        <label for="word">Word</label>
+        <label for="word">Word*</label>
         <input type="text" class="form-control" id="word" placeholder="Enter word" required value="">
       </div>
       
-      <label for="decks">Add to Lists</label>
+      <label for="decks">Add to Lists*</label>
       {% for listname in decks %}
       <div class="form-group deck">
         <label class="custom-control custom-checkbox">
@@ -77,7 +77,7 @@
           <hr class="featurette-divider">
           <!-- Type -->
           <div class="form-group">
-            <label for="exampleSelect2">Type</label>
+            <label for="exampleSelect2">Type*</label>
             <select multiple class="form-control word-type" required="">
               <option>noun</option>
               <option>verb</option>
@@ -88,20 +88,31 @@
      
           <!-- Meaning -->
           <div class="form-group">
-            <label for="exampleInputEmail1">Meaning</label>
-            <input type="text" class="form-control word-meaning" placeholder="Enter word" required="">
+            <label for="exampleInputEmail1">Meaning*</label>
+            <input type="text" class="form-control word-meaning" placeholder="Enter meaning" required="">
           </div>
 
          <!-- Meaning BG -->
           <div class="form-group">
             <label for="exampleInputEmail1">Meaning BG</label>
-            <input type="text" class="form-control word-meaning-bg" placeholder="Enter word">
+            <input type="text" class="form-control word-meaning-bg" placeholder="Enter meaning in BG (optional)">
           </div>
 
+         <!-- Synonyms -->
+          <div class="form-group">
+            <label for="exampleInputEmail1">Synonyms</label>
+            <input type="text" class="form-control word-syn" placeholder="Enter synonyms (optional)">
+          </div>
+
+         <!-- Antonyms -->
+          <div class="form-group">
+            <label for="exampleInputEmail1">Antonyms</label>
+            <input type="text" class="form-control word-ant" placeholder="Enter antonyms (optional)">
+          </div>
 
          <!-- Example Usage -->
           <div class="form-group">
-            <label for="exampleTextarea">Example Usage</label>
+            <label for="exampleTextarea">Example Usage*</label>
             <textarea class="form-control word-example" rows="3" required=""></textarea>
           </div>
         </div>
