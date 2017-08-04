@@ -97,6 +97,7 @@
           {% set syn=m["syn"] %}
           {% set ant=m["ant"] %}
           {% set example=m["example"] %}
+          {% set note=m["note"] %}
           <!-- Meaning -->
           <div class="form-group">
             <label for="exampleInputEmail1">Meaning*</label>
@@ -126,7 +127,22 @@
             <label for="exampleTextarea">Example Usage*</label>
             <textarea class="form-control word-example" rows="3" required>{{example}}</textarea>
           </div>
+
+         <!-- Note for GRE definitions -->
+          <div class="form-group">
+            <label class="custom-control custom-checkbox">
+              {% if note != "" %}
+              <input type="checkbox" class="custom-control-input word-note" checked>
+              {% else %}
+              <input type="checkbox" class="custom-control-input word-note">
+              {% endif %}
+              <span class="custom-control-indicator"></span>
+              <span class="custom-control-description">This word has other definitions but this is the most important one for the GRE?</span>
+            </label>
+          </div>
+
         </div>
+
       {% endfor %}
       </div>
 

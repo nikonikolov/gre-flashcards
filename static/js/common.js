@@ -84,9 +84,15 @@ function parseMeanings() {
     def["meaning"]    = m.find(".word-meaning").val();
     def["meaning_bg"] = m.find(".word-meaning-bg").val();
     def["syn"]        = m.find(".word-syn").val();
-    def["any"]        = m.find(".word-ant").val();
+    def["ant"]        = m.find(".word-ant").val();
     def["example"]    = m.find(".word-example").val();
-    def["note"]       = "";
+    var note          = m.find(".word-note").is(':checked');
+    if (note){
+      def["note"]     = "This word has other definitions but this is the most important one for the GRE";
+    } 
+    else{
+      def["note"]     = "";
+    }
     meaning.push(def);
   }
 
