@@ -48,9 +48,9 @@
     //                     .filter('[form="' + this.$element.attr('id') + '"]')
     //                     .add(this.$element.find('input[type="submit"], button[type="submit"]'))
     // NOTE: THIS IS THE MODIFIED VERSION
-    this.$btn       = $('button[id="submit-btn"], input[type="submit"]')
+    this.$btn       = $('#submit-btn, input[type="submit"]')
                         .filter('[form="' + this.$element.attr('id') + '"]')
-                        .add(this.$element.find('input[type="submit"], button[id="submit-btn"]'))
+                        .add(this.$element.find('input[type="submit"], #submit-btn'))
 
     this.update()
 

@@ -156,8 +156,10 @@ function removeClonedInputs(elm){
   /*
   @brief: Remove the inputs when an entry in a form is cloned
    */
-  $(elm).find("input[type=text]").attr("value", "");
-  $(elm).find("input[type=text]").html("");
+  var inputs = $(elm).find("input[type=text]")
+  inputs.attr("value", "");
+  inputs.html("");
+  inputs.val("");
   $(elm).find("input[type=checkbox]").removeAttr("checked");
   $(elm).find("option").removeAttr("selected");
   $(elm).find("textarea").html("");

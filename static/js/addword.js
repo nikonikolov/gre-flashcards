@@ -17,7 +17,7 @@ $(document).ready( function() {
       clone_count++;
       $("#m1").clone().attr('id', "m" + clone_count).appendTo("#meanings");  
       removeClonedInputs("#m" + clone_count);
-      $("#m" + clone_count).validator('update');
+      $("#word-form").validator('update');
     }
   );
 

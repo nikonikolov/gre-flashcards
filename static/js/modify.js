@@ -19,12 +19,11 @@ $(document).ready( function() {
 
   var clone_count = count_meanings();
 
-
   $('#newm-btn').click( 
     function() {
       $("#m0").clone().attr('id', "m" + clone_count).appendTo("#meanings");
       removeClonedInputs("#m" + clone_count);
-      $("#m" + clone_count).validator('update');
+      $("#word-form").validator('update');
       clone_count++;
     }
   );
