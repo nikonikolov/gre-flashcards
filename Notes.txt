@@ -4,9 +4,7 @@ FINAL:
   - Check log.md and do the necessary changes
 
 BUGS:
-  - modify.js - cloning does not clear entries
-  - search - when no results are available, undefined is displayed
-  - word options - currently abлe to add word to its current list
+  - word options - currently able to add word to its current list
 
 
 NAVIGATION

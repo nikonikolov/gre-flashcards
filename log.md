@@ -6,6 +6,15 @@
 - cross reference your current list with the one from Berkeley and maybe
 add the ones that you need
 
+## Candidate words
+- lewd
+- lustful
+- debauched
+- salacious
+- libertine
+- all synonyms of licentious in google dictionary
+
+- sap - gradually weaken or destroy
 
 ## Initial list counts
 
