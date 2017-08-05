@@ -27,6 +27,7 @@ $(document).ready( function() {
       if(clone_count == 1) return;
       $("#m" + clone_count).remove();  
       clone_count--;
+      $("#word-form").validator('update');
     }
   );
 
