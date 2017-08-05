@@ -4,7 +4,9 @@ $(document).ready( function() {
 
 
   function appendResults(data){
-    $('#search-results').append("<option selected=\"selected\">" + data[0] +"</option>");
+    if (data.length > 0){
+      $('#search-results').append("<option selected=\"selected\">" + data[0] +"</option>");
+    }
     
     for (var i=1; i<data.length; i++) {
       $('#search-results').append("<option>" + data[i] +"</option>");
