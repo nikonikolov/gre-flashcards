@@ -119,6 +119,7 @@ $(document).ready( function() {
     function() {
       $('#show-meaning').hide();
       showContent();
+      $("#notknow").focus();
     }
   );
 

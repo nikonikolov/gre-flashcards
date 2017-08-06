@@ -53,11 +53,12 @@
     <div class="card text-center">
       <div class="card-block">
         <h4 id="word" class="card-title">{{word}}</h4>
-        <div id="show-meaning"  class="btn btn-primary">See meaning</div>
+        <!-- <div id="show-meaning"  class="btn btn-primary">See meaning</div> -->
+        <button id="show-meaning"  class="btn btn-primary" autofocus>See meaning</button>
       </div>
       {% if know_button %}
-      <div id="notknow" class="card-footer text-muted">DON'T KNOW</div>
-      <div id="know"    class="card-footer text-muted">KNOW</div>
+      <div id="notknow" class="card-footer text-muted" tabindex="1">DON'T KNOW</div>
+      <div id="know"    class="card-footer text-muted" tabindex="2">KNOW</div>
       {% endif %}
     </div>
   
