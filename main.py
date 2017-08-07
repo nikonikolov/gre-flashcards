@@ -239,7 +239,7 @@ def is_list_custom(listname):
   return listname in g_custom_decks
 
 
-def show_word(word, listname, know_button, meaning=None):
+def show_word(word, listname, know_button, meaning=None, number=None):
   word = str(word)
   listname = str(listname)
 
@@ -248,13 +248,13 @@ def show_word(word, listname, know_button, meaning=None):
     data = json_from_file(listname + ".json")
     if word in data:
       meaning = data[word]
-      return render_template('word.html', word_list=listname, word=word, meaning=meaning, decks=g_custom_decks, rm_active=is_list_custom(listname), know_button=False)
+      return render_template('word.html', word_list=listname, word=word, meaning=meaning, decks=g_custom_decks, rm_active=is_list_custom(listname), know_button=False, number=number)
     else:
       return render_template('msg.html', msg="Word Not Found")
   
   # In this case the function was called to display a new word in a deck
   else:
-    return render_template('word.html', word_list=listname, word=word, meaning=meaning, decks=g_custom_decks, rm_active=is_list_custom(listname), know_button=True)
+    return render_template('word.html', word_list=listname, word=word, meaning=meaning, decks=g_custom_decks, rm_active=is_list_custom(listname), know_button=True, number=number)
 
 
 
@@ -277,11 +277,11 @@ def list_next_word(listname):
   @brief: Displays the next word from a list
   """
   lman = get_and_read_lman(listname)
-  word, meaning = lman.get_next_word()
+  word, meaning, number = lman.get_next_word()
   if word is None:
     lman.clear_memory()
     return render_template('msg.html', msg="List Learned")
-  return show_word(word, listname, know_button=True, meaning=meaning, )
+  return show_word(word, listname, know_button=True, meaning=meaning, number=number)
 
 
 @app.route('/vocab/<listname>/_know')
