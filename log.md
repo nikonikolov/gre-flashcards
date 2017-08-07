@@ -15,6 +15,11 @@ add the ones that you need
 - all synonyms of licentious in google dictionary
 
 - sap - gradually weaken or destroy
+- quarrelsome (belligerent)
+- counterfeit (spurious)
+- disdain (haughty)
+- wretched (forlorn)
+
 
 ## Initial list counts
 
