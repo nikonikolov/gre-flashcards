@@ -125,18 +125,30 @@ $(document).ready( function() {
 
   $('#know').bind('click', 
     function() {
-      // sendResponse(true);
       sendResponse(1);
     }
   );
 
+  $('#know').keypress(function(e){
+    //Enter key pressed
+    if(e.which == 13){
+      sendResponse(1);
+    }
+  });
+
   $('#notknow').bind('click', 
     function() {
-      console.log("notknow");
-      // sendResponse(false);
       sendResponse(0);
     }
   );
+
+  $('#notknow').keypress(function(e){
+    //Enter key pressed
+    if(e.which == 13){
+      sendResponse(0);
+    }
+  });
+
 
   $('#add-btn').click( 
     function() {
