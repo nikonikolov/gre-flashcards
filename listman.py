@@ -75,7 +75,7 @@ class ListMan:
         return None, None, None
       word = self.words[self.word_idx]
     
-    return word, self.data[word], str(self.word_idx) + "/" + str(len(self.words))
+    return word, self.data[word], str(self.word_idx+1) + "/" + str(len(self.words))
 
 
   def out_of_words(self):

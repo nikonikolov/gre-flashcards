@@ -1,0 +1,337 @@
+{
+    "antithetical": [
+        {
+            "ant": "", 
+            "example": "His deep emotional involvement with these ideas is, in fact, antithetical to the disattachment Buddhism preaches.", 
+            "meaning": "directly opposed or contrasted; mutually incompatible", 
+            "meaning_bg": "\u043f\u0440\u043e\u0442\u0438\u0432\u043e\u043f\u043e\u043b\u043e\u0436\u0435\u043d, \u043a\u043e\u043d\u0442\u0440\u0430\u0441\u0442\u0435\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "apocryphal": [
+        {
+            "ant": "", 
+            "example": "The web is notorious for sandwiching apocryphal stories between actual news.", 
+            "meaning": "being of questionable authenticity", 
+            "meaning_bg": "\u043d\u0435\u0434\u043e\u0441\u0442\u043e\u0432\u0435\u0440\u0435\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "brazen": [
+        {
+            "ant": "", 
+            "example": "Their large \"donations\" to the local police department gave the drug cartel the brazen confidence to do their business out in the open.", 
+            "meaning": "bold and without shame; unrestrained by convention or propriety", 
+            "meaning_bg": "\u0431\u0435\u0437\u0441\u0440\u0430\u043c\u0435\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "bumbling": [
+        {
+            "ant": "", 
+            "example": "Within a week of starting, the bumbling new waiter was unceremoniously fired.", 
+            "meaning": "lacking physical movement skills, especially with the hands", 
+            "meaning_bg": "\u0442\u0440\u043e\u043c\u0430\u0432, \u043d\u0435\u043f\u043e\u0445\u0432\u0430\u0442\u0435\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "confound": [
+        {
+            "ant": "", 
+            "example": "Though Harry loved numbers, he found calculus confounding.", 
+            "meaning": "be confusing or perplexing", 
+            "meaning_bg": "\u043e\u0431\u044a\u0440\u043a\u0432\u0430\u0449 \u0441\u044a\u043c", 
+            "note": "", 
+            "syn": "", 
+            "type": "verb"
+        }, 
+        {
+            "ant": "", 
+            "example": "Americans often confound sweet potatoes with yams, and refer to both vegetables by the same name.", 
+            "meaning": "mistake one thing for another", 
+            "meaning_bg": "\u043e\u0431\u044a\u0440\u043a\u0432\u0430\u043c", 
+            "note": "", 
+            "syn": "", 
+            "type": "verb"
+        }
+    ], 
+    "constituent": [
+        {
+            "ant": "", 
+            "example": "The mayor's constituents are no longer happy with her performance and plan to vote for another candidate in the upcoming election.", 
+            "meaning": "a member of an area which elects a representative to a legislative body", 
+            "meaning_bg": "\u0438\u0437\u0431\u0438\u0440\u0430\u0442\u0435\u043b", 
+            "note": "", 
+            "syn": "", 
+            "type": "noun"
+        }, 
+        {
+            "ant": "", 
+            "example": "The constituents of the metal alloy are nickle, copper, and tin.", 
+            "meaning": "a component; part of something", 
+            "meaning_bg": "\u0441\u044a\u0441\u0442\u0430\u0432\u043d\u0430 \u0447\u0430\u0441\u0442", 
+            "note": "", 
+            "syn": "", 
+            "type": "noun"
+        }
+    ], 
+    "construe": [
+        {
+            "ant": "", 
+            "example": "The author's inability to take a side on the issue was construed by both his opponents and supporters as a sign of weakness.", 
+            "meaning": "interpret in a particular way", 
+            "meaning_bg": "\u0442\u044a\u043b\u043a\u0443\u0432\u0430\u043c", 
+            "note": "", 
+            "syn": "", 
+            "type": "verb"
+        }
+    ], 
+    "copious": [
+        {
+            "ant": "", 
+            "example": "In midsummer, there are copious popsicle stands at the beach; in the winter, there are none.", 
+            "meaning": "in abundant supply", 
+            "meaning_bg": "\u0438\u0437\u043e\u0431\u0438\u043b\u0435\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "denigrate": [
+        {
+            "ant": "", 
+            "example": "Count Rumford denigrated the new theory of heat, demonstrating that it was wholly inadequate to explain the observations.", 
+            "meaning": "charge falsely or with malicious intent", 
+            "meaning_bg": "\u043a\u043b\u0435\u0432\u0435\u0442\u044f, \u043f\u0435\u0442\u043d\u044f, \u0447\u0435\u0440\u043d\u044f", 
+            "note": "", 
+            "syn": "disparage", 
+            "type": "verb"
+        }
+    ], 
+    "exalt": [
+        {
+            "ant": "", 
+            "example": "The teenagers exalted the rock star, covering their bedrooms with posters of him.", 
+            "meaning": "praise or glorify", 
+            "meaning_bg": "\u0432\u044a\u0437\u0445\u0432\u0430\u043b\u044f\u0432\u0430\u043c, \u0432\u0435\u043b\u0438\u0447\u0430\u044f", 
+            "note": "", 
+            "syn": "", 
+            "type": "verb"
+        }
+    ], 
+    "expound": [
+        {
+            "ant": "", 
+            "example": "The CEO refused to expound on the decision to merge our department with another one, and so I quit.", 
+            "meaning": "present in detail; clarify", 
+            "meaning_bg": "\u0438\u0437\u043b\u0430\u0433\u0430\u043c, \u0440\u0430\u0437\u044f\u0441\u043d\u044f\u0432\u0430\u043c", 
+            "note": "", 
+            "syn": "", 
+            "type": "verb"
+        }
+    ], 
+    "gauche": [
+        {
+            "ant": "", 
+            "example": "Sylvester says the most gauche things, such as telling a girl he liked that she was much prettier when she wore makeup.", 
+            "meaning": "socially awkward and incapable; lacking social polish", 
+            "meaning_bg": "\u0441\u0442\u0435\u0441\u043d\u0438\u0442\u0435\u043b\u0435\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "ignoble": [
+        {
+            "ant": "", 
+            "example": "In the 1920s, the World Series was rigged - an ignoble act which baseball took decades to recover from.", 
+            "meaning": "dishonorable", 
+            "meaning_bg": "\u043f\u043e\u0437\u043e\u0440\u0435\u043d, \u0434\u043e\u043b\u0435\u043d, \u043d\u0438\u0437\u044a\u043a", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "ingratiate": [
+        {
+            "ant": "", 
+            "example": "Even though Tom didn't like his new boss, he decided to ingratiate himself to her in order to advance his career.", 
+            "meaning": "gain favor with somebody by flattering or trying to please them", 
+            "meaning_bg": "\u043f\u043e\u0434\u043c\u0430\u0437\u0432\u0430\u043c \u0441\u0435", 
+            "note": "", 
+            "syn": "", 
+            "type": "verb"
+        }
+    ], 
+    "inimical": [
+        {
+            "ant": "", 
+            "example": "Venus, with a surface temperature that would turn rubber to liquid, is inimical to any form of life.", 
+            "meaning": "hostile (usually describes conditions or environments)", 
+            "meaning_bg": "\u043d\u0435\u0431\u043b\u0430\u0433\u043e\u043f\u0440\u0438\u044f\u0442\u0435\u043d, \u0432\u0440\u0430\u0436\u0434\u0435\u0431\u0435\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "intransigent": [
+        {
+            "ant": "", 
+            "example": "Despite many calls for mercy, the judge remained intransigent, citing strict legal precedence.", 
+            "meaning": "unwilling to change beliefs or course of action", 
+            "meaning_bg": "", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "laudable": [
+        {
+            "ant": "", 
+            "example": "To say that Gandhi's actions were laudable is the greatest understatement; he overthrew an empire without violence.", 
+            "meaning": "worthy of high praise", 
+            "meaning_bg": "\u043f\u043e\u0445\u0432\u0430\u043b\u0435\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "myopic": [
+        {
+            "ant": "", 
+            "example": "The company ultimately went out of business because the myopic managers couldn't predict the changes in their industry.", 
+            "meaning": "lacking foresight or imagination", 
+            "meaning_bg": "\u043a\u044a\u0441\u043e\u0433\u043b\u0435\u0434, \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "obsequious": [
+        {
+            "ant": "", 
+            "example": "The obsequious waiter did not give the couple a moment's peace all through the meal, constantly returning to their table to refill their water glasses and to tell them what a handsome pair they made.", 
+            "meaning": "obedient, attentive and flattering to an excessive or servile degree", 
+            "meaning_bg": "\u0440\u0430\u0431\u043e\u043b\u0435\u043f\u0435\u043d, \u0443\u0433\u043e\u0434\u043d\u0438\u0447\u0435\u0441\u043a\u0438", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "poignant": [
+        {
+            "ant": "", 
+            "example": "After the Montagues and Capulets discover the dead bodies of Romeo and Juliet, in the play's most poignant moment, the two griefstricken familes agree to end their feud once and for all.", 
+            "meaning": "emotionally touching", 
+            "meaning_bg": "\u0442\u0440\u043e\u0433\u0430\u0442\u0435\u043b\u0435\u043d", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "precipitous": [
+        {
+            "ant": "", 
+            "example": "None", 
+            "meaning": "done with great haste and without careful consideration", 
+            "meaning_bg": "", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }, 
+        {
+            "ant": "", 
+            "example": "He was expecting a precipitous rise in the value of a \"hot\" tech stock, so he was disappointed when it only inched up a dollar or two each day.", 
+            "meaning": "steep", 
+            "meaning_bg": "\u0441\u0442\u0440\u044a\u043c\u0435\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "prodigious": [
+        {
+            "ant": "", 
+            "example": "After the relatively small homerun totals in the \"dead ball\" era, Babe Ruth's homerun totals were truly prodigious: every year, he set a new all-time record.", 
+            "meaning": "remarkably or impressively great in extent, size, or degree", 
+            "meaning_bg": "\u0438\u0437\u0443\u043c\u0438\u0442\u0435\u043b\u0435\u043d, \u043e\u0433\u0440\u043e\u043c\u0435\u043d, \u0447\u0443\u0434\u043e\u0432\u0438\u0449\u0435\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "propitious": [
+        {
+            "ant": "", 
+            "example": "The child's heartbeat is still weak, but I am seeing many propitious signs and I think that she may be healing.", 
+            "meaning": "favorable; giving or indicating a good chance of success", 
+            "meaning_bg": "\u0431\u043b\u0430\u0433\u043e\u043f\u0440\u0438\u044f\u0442\u0435\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "pundit": [
+        {
+            "ant": "", 
+            "example": "Steven Pinker's credentials are unquestioned as a pundit; he has taught at MIT and Stanford, teaches at Harvard, and has published a number of influential books on cognition, language, and psychology.", 
+            "meaning": "someone who has been admitted to be an expert in particular field", 
+            "meaning_bg": "", 
+            "note": "", 
+            "syn": "", 
+            "type": "noun"
+        }
+    ], 
+    "subversive": [
+        {
+            "ant": "", 
+            "example": "The ruling political party has begun a campaign to shut down subversive websites that it deems as a threat to \"national safety.\"", 
+            "meaning": "opposing civil authority or government", 
+            "meaning_bg": "\u0440\u0430\u0437\u0440\u0443\u0448\u0438\u0442\u0435\u043b\u0435\u043d, \u043f\u043e\u0434\u0440\u0438\u0432\u0435\u043d, \u043f\u0430\u0433\u0443\u0431\u0435\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "taciturn": [
+        {
+            "ant": "", 
+            "example": "While the CEO enthusiastically shares his plans and agenda with all who will listen, the CFO is far more taciturn, rarely revealing his perspective.", 
+            "meaning": "reserved and uncommunicative", 
+            "meaning_bg": "\u043c\u044a\u043b\u0447\u0430\u043b\u0438\u0432, \u043d\u0435\u043e\u0431\u0449\u0438\u0442\u0435\u043b\u0435\u043d, \u0441\u0434\u044a\u0440\u0436\u0430\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "tempered": [
+        {
+            "ant": "", 
+            "example": "The wide-eyed optimism of her youth was now tempered after she had worked many years in the criminal justice system.", 
+            "meaning": "moderated in effect", 
+            "meaning_bg": "\u0443\u043c\u0435\u0440\u0435\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "tractable": [
+        {
+            "ant": "", 
+            "example": "Compared to middle school students, who have an untamed wildness about them, high school students are somewhat more tractable.", 
+            "meaning": " easy to control or influence; easily managed", 
+            "meaning_bg": "", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ]
+}

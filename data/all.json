@@ -15,7 +15,7 @@
             "ant": "", 
             "example": "When the financial director started screaming and throwing food at his co-workers, the police had to come in to deal with his aberrant behavior.", 
             "meaning": "markedly different from an accepted norm", 
-            "meaning_bg": "", 
+            "meaning_bg": "\u0430\u043d\u043e\u0440\u043c\u0430\u043b\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -1023,7 +1023,7 @@
         {
             "ant": "", 
             "example": "She surprised her colleagues by having the audacity to publically criticize the findings of an distinguished scientist.", 
-            "meaning": "a willingness to take bold risks; rude or disrespectful behavior; impudence", 
+            "meaning": "boldness; impudence; rude or disrespectful behavior", 
             "meaning_bg": "\u0434\u044a\u0440\u0437\u043e\u0441\u0442, \u0441\u043c\u0435\u043b\u043e\u0441\u0442", 
             "note": "", 
             "syn": "", 
@@ -2381,8 +2381,8 @@
         {
             "ant": "", 
             "example": "Though Harry loved numbers, he found calculus confounding.", 
-            "meaning": "be confusing or perplexing to", 
-            "meaning_bg": "", 
+            "meaning": "be confusing or perplexing", 
+            "meaning_bg": "\u043e\u0431\u044a\u0440\u043a\u0432\u0430\u0449 \u0441\u044a\u043c", 
             "note": "", 
             "syn": "", 
             "type": "verb"
@@ -2466,7 +2466,7 @@
             "ant": "", 
             "example": "The author's inability to take a side on the issue was construed by both his opponents and supporters as a sign of weakness.", 
             "meaning": "interpret in a particular way", 
-            "meaning_bg": "\u0442\u044a\u043b\u043a\u0443\u0432\u0430\u043c, \u0441\u0432\u044a\u0440\u0437\u0432\u0430\u043c", 
+            "meaning_bg": "\u0442\u044a\u043b\u043a\u0443\u0432\u0430\u043c", 
             "note": "", 
             "syn": "", 
             "type": "verb"
@@ -3056,7 +3056,7 @@
             "ant": "", 
             "example": "Count Rumford denigrated the new theory of heat, demonstrating that it was wholly inadequate to explain the observations.", 
             "meaning": "charge falsely or with malicious intent", 
-            "meaning_bg": "\u043e\u0447\u0435\u0440\u043d\u044f\u043c, \u043a\u043b\u0435\u0432\u0435\u0442\u044f, \u043f\u0435\u0442\u043d\u044f", 
+            "meaning_bg": "\u043a\u043b\u0435\u0432\u0435\u0442\u044f, \u043f\u0435\u0442\u043d\u044f, \u0447\u0435\u0440\u043d\u044f", 
             "note": "", 
             "syn": "disparage", 
             "type": "verb"
@@ -4611,7 +4611,7 @@
         {
             "ant": "", 
             "example": "The CEO refused to expound on the decision to merge our department with another one, and so I quit.", 
-            "meaning": "present and explain in detail; clarify", 
+            "meaning": "present in detail; clarify", 
             "meaning_bg": "\u0438\u0437\u043b\u0430\u0433\u0430\u043c, \u0440\u0430\u0437\u044f\u0441\u043d\u044f\u0432\u0430\u043c", 
             "note": "", 
             "syn": "", 
@@ -5166,7 +5166,7 @@
         {
             "ant": "", 
             "example": "Sylvester says the most gauche things, such as telling a girl he liked that she was much prettier when she wore makeup.", 
-            "meaning": "socially awkward; unsophisticated; lacking social polish", 
+            "meaning": "socially awkward and incapable; lacking social polish", 
             "meaning_bg": "\u0441\u0442\u0435\u0441\u043d\u0438\u0442\u0435\u043b\u0435\u043d", 
             "note": "", 
             "syn": "", 
@@ -6135,7 +6135,7 @@
         {
             "ant": "", 
             "example": "Tom Sawyer seems like an incorrigible youth until Huck Finn enters the novel; even Sawyer can't match his fierce individual spirit.", 
-            "meaning": "unable to be changed; beyond correction", 
+            "meaning": "beyond correction; unable to be changed", 
             "meaning_bg": "\u043d\u0435\u043f\u043e\u043f\u0440\u0430\u0432\u0438\u043c", 
             "note": "", 
             "syn": "", 
@@ -6507,7 +6507,7 @@
         {
             "ant": "", 
             "example": "Despite many calls for mercy, the judge remained intransigent, citing strict legal precedence.", 
-            "meaning": "unwilling to change his beliefs or course of action", 
+            "meaning": "unwilling to change beliefs or course of action", 
             "meaning_bg": "", 
             "note": "", 
             "syn": "", 
@@ -7631,7 +7631,7 @@
             "ant": "", 
             "example": "The company ultimately went out of business because the myopic managers couldn't predict the changes in their industry.", 
             "meaning": "lacking foresight or imagination", 
-            "meaning_bg": "\u043a\u044a\u0441\u043e\u0433\u043b\u0435\u0434", 
+            "meaning_bg": "\u043a\u044a\u0441\u043e\u0433\u043b\u0435\u0434, \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d", 
             "note": "This word has other definitions but this is the most important one for the GRE", 
             "syn": "", 
             "type": "adj."
@@ -7912,7 +7912,7 @@
         {
             "ant": "", 
             "example": "Matt wanted to buy stone lions for front of the house, but Cynthia convinced him that such a display would be too ostentatious for a modest house in an unassuming neighborhood.", 
-            "meaning": "intended to attract notice and impress others; pretentious (negative)", 
+            "meaning": "pretentious; intended to attract notice and impress others (negative)", 
             "meaning_bg": "\u043f\u043e\u043a\u0430\u0437\u0435\u043d, \u0441\u0430\u043c\u043e\u0438\u0437\u0442\u044a\u043a\u0432\u0430\u0449 \u0441\u0435", 
             "note": "", 
             "syn": "", 
@@ -8141,7 +8141,7 @@
         {
             "ant": "", 
             "example": "Professor Thompson was regarded as an expert in his field, but his lectures were utterly pedantic, focused on rigorous details of the most trivial conventions in the field.", 
-            "meaning": "excessively concerned with minor details or rules", 
+            "meaning": "excessively concerned with minor details", 
             "meaning_bg": "", 
             "note": "", 
             "syn": "overscrupulous", 
@@ -8282,7 +8282,7 @@
         {
             "ant": "", 
             "example": "The most successful viruses are pernicious: an infected person may feel perfectly healthy for several months while incubating and spreading the virus.", 
-            "meaning": "exceedingly harmful; working or spreading in a gradual, hidden and injurious way", 
+            "meaning": "exceedingly harmful; working in a gradual and injurious way", 
             "meaning_bg": "\u0433\u0438\u0431\u0435\u043b\u0435\u043d, \u043f\u0430\u0433\u0443\u0431\u0435\u043d, \u0432\u0440\u0435\u0434\u0435\u043d", 
             "note": "", 
             "syn": "", 
@@ -9016,7 +9016,7 @@
         {
             "ant": "", 
             "example": "The child's heartbeat is still weak, but I am seeing many propitious signs and I think that she may be healing.", 
-            "meaning": "giving or indicating a good chance of success; favorable", 
+            "meaning": "favorable; giving or indicating a good chance of success", 
             "meaning_bg": "\u0431\u043b\u0430\u0433\u043e\u043f\u0440\u0438\u044f\u0442\u0435\u043d", 
             "note": "", 
             "syn": "", 
@@ -9159,7 +9159,7 @@
         {
             "ant": "", 
             "example": "Steven Pinker's credentials are unquestioned as a pundit; he has taught at MIT and Stanford, teaches at Harvard, and has published a number of influential books on cognition, language, and psychology.", 
-            "meaning": "someone who has been admitted to be an expert in particular subject or field", 
+            "meaning": "someone who has been admitted to be an expert in particular field", 
             "meaning_bg": "", 
             "note": "", 
             "syn": "", 
@@ -9598,7 +9598,7 @@
             "ant": "", 
             "example": "Many in the public believed the rumors of a UFO crash outside town, so the chief of police did everything he could to repudiate the rumors.", 
             "meaning": "reject as untrue or unfounded; refuse to accept", 
-            "meaning_bg": "\u043e\u0442\u0445\u0432\u044a\u0440\u043b\u044f\u043c, \u043e\u0442\u0440\u0438\u0447\u0430\u043c", 
+            "meaning_bg": "\u043e\u0442\u0445\u0432\u044a\u0440\u043b\u044f\u043c, \u043e\u0442\u0440\u0438\u0447\u0430\u043c, \u043e\u0442\u043a\u0430\u0437\u0432\u0430\u043c \u0434\u0430 \u043f\u0440\u0438\u0435\u043c\u0430", 
             "note": "", 
             "syn": "", 
             "type": "verb"
@@ -9674,7 +9674,7 @@
         {
             "ant": "", 
             "example": "The team sank to fourth place in June, but is now resurgent and about to win the division.", 
-            "meaning": "rising again or reviving after a period of little activity, popularity, or occurrence", 
+            "meaning": "rising again or reviving after a period of little activity or popularity", 
             "meaning_bg": "", 
             "note": "", 
             "syn": "", 
@@ -9718,7 +9718,7 @@
         {
             "ant": "", 
             "example": "The professor could speak objectively about the other composers, but he always lectured about Brahms with a particularly reverent air, unable to offer a single criticism of his compositions.", 
-            "meaning": "feeling or showing profound respect or veneration", 
+            "meaning": "showing profound respect or veneration", 
             "meaning_bg": "\u0443\u0432\u0430\u0436\u0438\u0442\u0435\u043b\u0435\u043d", 
             "note": "", 
             "syn": "", 
@@ -9826,7 +9826,7 @@
         {
             "ant": "", 
             "example": "The authorities have sanctioned the use of the wilderness reserve for public use; many expect to see hikers an campers enjoying the park in the coming months.", 
-            "meaning": "give official permission or approval for (an action)", 
+            "meaning": "give official permission or approval", 
             "meaning_bg": "\u043e\u0434\u043e\u0431\u0440\u044f\u0432\u0430\u043c, \u0440\u0430\u0437\u0440\u0435\u0448\u0432\u0430\u043c", 
             "note": "", 
             "syn": "", 
@@ -10180,7 +10180,7 @@
             "ant": "", 
             "example": "Although the professor is brilliant, his bland monotone gives his lectures a soporific effect.", 
             "meaning": "inducing sleep", 
-            "meaning_bg": "\u043f\u0440\u0438\u0441\u043f\u0438\u0432\u0430\u0442\u0435\u043b\u0435\u043d, \u0441\u044a\u043d\u043e\u0442\u0432\u043e\u0440\u0435\u043d", 
+            "meaning_bg": "\u043f\u0440\u0438\u0441\u043f\u0438\u0432\u0435\u043d, \u043f\u0440\u0438\u0441\u043f\u0438\u0432\u0430\u0442\u0435\u043b\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -10452,7 +10452,7 @@
         {
             "ant": "", 
             "example": "The ruling political party has begun a campaign to shut down subversive websites that it deems as a threat to \"national safety.\"", 
-            "meaning": "in opposition to a civil authority or government", 
+            "meaning": "opposing civil authority or government", 
             "meaning_bg": "\u0440\u0430\u0437\u0440\u0443\u0448\u0438\u0442\u0435\u043b\u0435\u043d, \u043f\u043e\u0434\u0440\u0438\u0432\u0435\u043d, \u043f\u0430\u0433\u0443\u0431\u0435\u043d", 
             "note": "", 
             "syn": "", 
@@ -10690,7 +10690,7 @@
         {
             "ant": "", 
             "example": "Welles wasn't known for his temperance - he usually ate enough for two and drank enough for three.", 
-            "meaning": "the trait of avoiding excesses; moderation in action (often used for eating or drinking)", 
+            "meaning": "moderation in action; the trait of avoiding excesses (often used for eating or drinking)", 
             "meaning_bg": "\u0443\u043c\u0435\u0440\u0435\u043d\u043e\u0441\u0442, \u0432\u044a\u0437\u0434\u044a\u0440\u0436\u0430\u043d\u0438\u0435, \u0442\u0440\u0435\u0437\u0432\u0435\u043d\u043e\u0441\u0442", 
             "note": "", 
             "syn": "", 
@@ -10822,7 +10822,7 @@
         {
             "ant": "", 
             "example": "Because the logic behind McMahon's side of the debate was so tortuous, his audience came out either completely confused or, worse, feeling they'd been tricked.", 
-            "meaning": "full of twists and turns; not straightforward; excessively lengthy and complex", 
+            "meaning": "full of twists and turns, not straightforward; excessively lengthy and complex", 
             "meaning_bg": "\u0437\u0430\u043f\u043b\u0435\u0442\u0435\u043d, \u043e\u0431\u0438\u043a\u043e\u043b\u0435\u043d", 
             "note": "", 
             "syn": "", 

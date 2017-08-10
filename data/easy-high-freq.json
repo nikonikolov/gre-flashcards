@@ -1,0 +1,297 @@
+{
+    "accolade": [
+        {
+            "ant": "", 
+            "example": "Jean Paul-Sartre was not a fan of accolades, and as such, he refused to accept the Nobel Prize for Literature in 1964.", 
+            "meaning": "an award or praise granted as a special honor", 
+            "meaning_bg": "\u0432\u0438\u0441\u043e\u043a\u0430 \u043d\u0430\u0433\u0440\u0430\u0434\u0430", 
+            "note": "", 
+            "syn": "", 
+            "type": "noun"
+        }
+    ], 
+    "arbitrary": [
+        {
+            "ant": "", 
+            "example": "One of the arbitrary decrees in place during the emperor's rule is that all citizens pay him weekly homage at his palace.", 
+            "meaning": "based on a random, groundless decision", 
+            "meaning_bg": "\u0441\u0432\u043e\u0435\u0432\u043e\u043b\u0435\u043d, \u0441\u043b\u0443\u0447\u0430\u0435\u043d", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "circumscribe": [
+        {
+            "ant": "", 
+            "example": "Their tour of South America was circumscribed so that they saw only popular destinations and avoided the dangerous parts of cities.", 
+            "meaning": "restrict or confine", 
+            "meaning_bg": "\u043e\u0433\u0440\u0430\u0436\u0434\u0430\u043c, \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0430\u0432\u0430\u043c", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "syn": "", 
+            "type": "verb"
+        }
+    ], 
+    "eradicate": [
+        {
+            "ant": "", 
+            "example": "I tried eradicating the mosquitos in my apartment with a rolled up newspaper, but there were too many of them.", 
+            "meaning": "destroy completely ", 
+            "meaning_bg": "\u0438\u0437\u043a\u043e\u0440\u0435\u043d\u044f\u0432\u0430\u043c, \u043f\u0440\u0435\u043c\u0430\u0445\u0432\u0430\u043c", 
+            "note": "", 
+            "syn": "", 
+            "type": "verb"
+        }
+    ], 
+    "espouse": [
+        {
+            "ant": "", 
+            "example": "As a college student, Charlie espoused Marxism, growing his beard out and railing against the evils of the free-market.", 
+            "meaning": "to adopt or support an idea or cause", 
+            "meaning_bg": "\u0432\u044a\u0437\u043f\u0440\u0438\u0435\u043c\u0430\u043c", 
+            "note": "", 
+            "syn": "", 
+            "type": "verb"
+        }
+    ], 
+    "exonerate": [
+        {
+            "ant": "", 
+            "example": "The document clearly indicated that Nick was out of the state at the time of the crime, and so served to exonerate him of any charges.", 
+            "meaning": "pronounce not guilty of criminal charges", 
+            "meaning_bg": "\u043e\u043f\u0440\u0430\u0432\u0434\u0430\u0432\u0430\u043c", 
+            "note": "", 
+            "syn": "", 
+            "type": "verb"
+        }
+    ], 
+    "hackneyed": [
+        {
+            "ant": "", 
+            "example": "Cheryl rolled her eyes when she heard the lecturer's hackneyed advice to \"be true to yourself.\"", 
+            "meaning": "lacking significance because it has been overused", 
+            "meaning_bg": "\u0431\u0430\u043d\u0430\u043b\u0435\u043d, \u0438\u0437\u0442\u044a\u0440\u043a\u0430\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "hegemony": [
+        {
+            "ant": "", 
+            "example": "Until the Spanish Armada was defeated in 1587, Spain had hegemony over the seas, controlling waters stretching as far as the Americas.", 
+            "meaning": "dominance over a certain area", 
+            "meaning_bg": "\u0433\u043e\u0441\u043f\u043e\u0434\u0441\u0442\u0432\u043e, \u043d\u0430\u0434\u043c\u043e\u0449\u0438\u0435", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "iconoclastic": [
+        {
+            "ant": "", 
+            "example": "Jackson Pollack was an iconoclastic artist, totally breaking with tradition by splashing paint on a blank canvas.", 
+            "meaning": "defying tradition or convention", 
+            "meaning_bg": "", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "idiosyncrasy": [
+        {
+            "ant": "", 
+            "example": "Peggy's numerous idiosyncrasies include wearing mismatched shoes, laughing loudly to herself, and owning a pet aardvark.", 
+            "meaning": "behavioral attribute that is distinctive and peculiar to an individual", 
+            "meaning_bg": "\u0438\u043d\u0434\u0438\u0432\u0438\u0434\u0443\u0430\u043b\u043d\u0430 \u043e\u0441\u043e\u0431\u0435\u043d\u043e\u0441\u0442, \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u043d\u043e\u0441\u0442", 
+            "note": "", 
+            "syn": "", 
+            "type": "noun"
+        }
+    ], 
+    "implausible": [
+        {
+            "ant": "", 
+            "example": "The teacher found it implausible that the student was late to school because he had been kidnapped by outlaws on horseback.", 
+            "meaning": "describing a statement that is not believable", 
+            "meaning_bg": "\u043d\u0435\u043f\u0440\u0430\u0432\u0434\u043e\u043f\u043e\u0434\u043e\u0431\u0435\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "indifference": [
+        {
+            "ant": "", 
+            "example": "In an effort to fight indifference, the president of the college introduced a new, stricter grading system.", 
+            "meaning": "the trait of seeming not to care", 
+            "meaning_bg": "\u0431\u0435\u0437\u0440\u0430\u0437\u043b\u0438\u0447\u0438\u0435, \u043d\u0435\u0437\u0430\u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043e\u0432\u0430\u043d\u043e\u0441\u0442", 
+            "note": "", 
+            "syn": "", 
+            "type": "noun"
+        }
+    ], 
+    "insolent": [
+        {
+            "ant": "", 
+            "example": "Lilian could not help herself from being insolent, commenting that the Queen's shoes were showing too much toe.", 
+            "meaning": "rude and arrogant", 
+            "meaning_bg": "", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "irrevocable": [
+        {
+            "ant": "", 
+            "example": "Once you enter your plea to the court, it is irrevocable so think carefully about what you will say.", 
+            "meaning": "incapable of being retracted or revoked", 
+            "meaning_bg": "\u043d\u0435\u043e\u0442\u043c\u0435\u043d\u0438\u043c, \u0431\u0435\u0437\u0432\u044a\u0437\u0432\u0440\u0430\u0442\u0435\u043d, \u043e\u043a\u043e\u043d\u0447\u0430\u0442\u0435\u043b\u0435\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "myriad": [
+        {
+            "ant": "", 
+            "example": "There are a myriad of internet sites hawking pills that claim to boost energy for hours on end.", 
+            "meaning": "a large indefinite number", 
+            "meaning_bg": "\u0431\u0435\u0437\u0431\u0440\u043e\u0439", 
+            "note": "", 
+            "syn": "", 
+            "type": "noun"
+        }
+    ], 
+    "opaque": [
+        {
+            "ant": "", 
+            "example": "The meaning of the professor's new research was opaque to most people, so no one asked any questions.", 
+            "meaning": "not clearly expressed; hard to understand", 
+            "meaning_bg": "\u043d\u0435\u0440\u0430\u0437\u0431\u0438\u0440\u0430\u0435\u043c", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "ostracize": [
+        {
+            "ant": "", 
+            "example": "Later in his life, Leo Tolstoy was ostracized from the Russian Orthodox Church for his writings that contradicted church doctrine.", 
+            "meaning": "exclude from a community or group", 
+            "meaning_bg": "\u043e\u0442\u043b\u044a\u0447\u0432\u0430\u043c, \u0438\u0437\u043a\u043b\u044e\u0447\u0432\u0430\u043c", 
+            "note": "", 
+            "syn": "", 
+            "type": "verb"
+        }
+    ], 
+    "pedantic": [
+        {
+            "ant": "", 
+            "example": "Professor Thompson was regarded as an expert in his field, but his lectures were utterly pedantic, focused on rigorous details of the most trivial conventions in the field.", 
+            "meaning": "excessively concerned with minor details", 
+            "meaning_bg": "", 
+            "note": "", 
+            "syn": "overscrupulous", 
+            "type": "adj."
+        }
+    ], 
+    "pragmatic": [
+        {
+            "ant": "", 
+            "example": "Rather than make a philosophical appeal to the Congressmen, the Speaker decided to take a far more pragmatic approach, making small side-deals that would add votes to his bill.", 
+            "meaning": "guided by practical experience and observation rather than theory", 
+            "meaning_bg": "\u043f\u0440\u0430\u0433\u043c\u0430\u0442\u0438\u0447\u0435\u043d, \u043f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "refute": [
+        {
+            "ant": "", 
+            "example": "No one could refute his theories or propositions, and that is why he was esteemed by all his colleagues in the philosophy department.", 
+            "meaning": "prove to be false or incorrect", 
+            "meaning_bg": "\u043e\u043f\u0440\u043e\u0432\u0435\u0440\u0433\u0430\u0432\u0430\u043c, \u043e\u0431\u043e\u0440\u0432\u0430\u043c", 
+            "note": "", 
+            "syn": "", 
+            "type": "verb"
+        }
+    ], 
+    "scrupulous": [
+        {
+            "ant": "", 
+            "example": "Because of his scrupulous nature, Mary put him in charge of numbering and cataloging the entire collection of rare stamps.", 
+            "meaning": "careful, thorough, and extremely attentive to details", 
+            "meaning_bg": "\u0441\u044a\u0432\u0435\u0441\u0442\u0435\u043d, \u0449\u0430\u0442\u0435\u043b\u0435\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }, 
+        {
+            "ant": "", 
+            "example": "Everyone trusted what he said and followed his example because he was scrupulous and honest.", 
+            "meaning": "very concerned to avoid doing wrong; principled", 
+            "meaning_bg": "\u0434\u043e\u0431\u0440\u043e\u0441\u044a\u0432\u0435\u0441\u0442\u0435\u043d, \u043a\u043e\u0440\u0435\u043a\u0442\u0435\u043d, \u0432\u043d\u0438\u043c\u0430\u0442\u0435\u043b\u0435\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "soporific": [
+        {
+            "ant": "", 
+            "example": "Although the professor is brilliant, his bland monotone gives his lectures a soporific effect.", 
+            "meaning": "inducing sleep", 
+            "meaning_bg": "\u043f\u0440\u0438\u0441\u043f\u0438\u0432\u0435\u043d, \u043f\u0440\u0438\u0441\u043f\u0438\u0432\u0430\u0442\u0435\u043b\u0435\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "sporadic": [
+        {
+            "ant": "", 
+            "example": "The signals were at first sporadic, but now we detect a clear, consistent pattern of electromagnetic radiation eminating from deep space.", 
+            "meaning": "occurring at irregular intervals; scattered", 
+            "meaning_bg": "\u043d\u0435\u043f\u043e\u0441\u0442\u043e\u044f\u043d\u0435\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "sycophant": [
+        {
+            "ant": "", 
+            "example": "The CEO was unaware of the damaging consequences of his choices, largely because he surrounded himself with sycophants who would never dare criticize him.", 
+            "meaning": "a person who tries to please someone in order to gain a personal advantage", 
+            "meaning_bg": "\u043f\u043e\u0434\u043b\u0438\u0437\u0443\u0440\u043a\u043e", 
+            "note": "", 
+            "syn": "", 
+            "type": "noun"
+        }
+    ], 
+    "underscore": [
+        {
+            "ant": "", 
+            "example": "While the hiking instructor agreed that carrying a first aid kit could be a good idea under certain circumstances, he underscored the importance of carrying enough water.", 
+            "meaning": "give extra weight to (in communication)", 
+            "meaning_bg": "\u043f\u043e\u0434\u0447\u0435\u0440\u0442\u0432\u0430\u043c, \u043d\u0430\u0431\u043b\u044f\u0433\u0430\u043c", 
+            "note": "", 
+            "syn": "", 
+            "type": "verb"
+        }
+    ], 
+    "vacillate": [
+        {
+            "ant": "", 
+            "example": "Some students vacillate between schools when deciding which to attend, while others focus only on one school.", 
+            "meaning": "be indecisive; waver between different opinions or actions", 
+            "meaning_bg": "\u0434\u0432\u043e\u0443\u043c\u044f \u0441\u0435, \u043a\u043e\u043b\u0435\u0431\u0430\u044f \u0441\u0435", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "syn": "", 
+            "type": "verb"
+        }
+    ]
+}
