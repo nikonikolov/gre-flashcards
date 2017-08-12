@@ -21,6 +21,17 @@
             "type": "adj."
         }
     ], 
+    "askance": [
+        {
+            "ant": "", 
+            "example": "The old couple looked askance on the teenagers seated next to them, whispering to each other, \"They've got rings through their noses and purple hair!\"", 
+            "meaning": "with a look of suspicion or disapproval", 
+            "meaning_bg": "", 
+            "note": "", 
+            "syn": "", 
+            "type": "adv."
+        }
+    ], 
     "brazen": [
         {
             "ant": "", 
@@ -38,6 +49,17 @@
             "example": "Within a week of starting, the bumbling new waiter was unceremoniously fired.", 
             "meaning": "lacking physical movement skills, especially with the hands", 
             "meaning_bg": "\u0442\u0440\u043e\u043c\u0430\u0432, \u043d\u0435\u043f\u043e\u0445\u0432\u0430\u0442\u0435\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "commensurate": [
+        {
+            "ant": "", 
+            "example": "The convicted felon's life sentence was commensurate to the heinousness of his crime.", 
+            "meaning": "to be in proportion or corresponding in degree or amount", 
+            "meaning_bg": "\u0441\u044a\u0438\u0437\u043c\u0435\u0440\u0438\u043c, \u043f\u0440\u043e\u043f\u043e\u0440\u0446\u0438\u043e\u043d\u0430\u043b\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -94,12 +116,34 @@
             "type": "verb"
         }
     ], 
+    "contrition": [
+        {
+            "ant": "", 
+            "example": "Those who show contrition during their prison terms - especially when under review by a parole board-often get shortened sentences.", 
+            "meaning": "the feeling of remorse or guilt after doing something bad", 
+            "meaning_bg": "\u0440\u0430\u0437\u043a\u0430\u044f\u043d\u0438\u0435", 
+            "note": "", 
+            "syn": "", 
+            "type": "noun"
+        }
+    ], 
     "copious": [
         {
             "ant": "", 
             "example": "In midsummer, there are copious popsicle stands at the beach; in the winter, there are none.", 
             "meaning": "in abundant supply", 
             "meaning_bg": "\u0438\u0437\u043e\u0431\u0438\u043b\u0435\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "craven": [
+        {
+            "ant": "", 
+            "example": "Though the man could have at least alerted the police, he crouched cravenly in the corner as the old woman was mugged.", 
+            "meaning": "cowardly", 
+            "meaning_bg": "\u0441\u0442\u0440\u0430\u0445\u043b\u0438\u0432", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -114,6 +158,17 @@
             "note": "", 
             "syn": "disparage", 
             "type": "verb"
+        }
+    ], 
+    "duress": [
+        {
+            "ant": "", 
+            "example": "The witness said he signed the contract under duress and argued that the court should cancel the agreement.", 
+            "meaning": "compulsory force or threat", 
+            "meaning_bg": "\u043f\u0440\u0438\u043d\u0443\u0434\u0430", 
+            "note": "", 
+            "syn": "", 
+            "type": "noun"
         }
     ], 
     "exalt": [
@@ -138,6 +193,39 @@
             "type": "verb"
         }
     ], 
+    "extant": [
+        {
+            "ant": "", 
+            "example": "Despite many bookstores closing, experts predict that some form of book dealing will still be extant generations from now.", 
+            "meaning": "the opposite of extinct; still in existence, surviving", 
+            "meaning_bg": "", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "flux": [
+        {
+            "ant": "", 
+            "example": "Ever since Elvira resigned as the head of marketing, everything about our sales strategy has been in a state of flux.", 
+            "meaning": "continuous change", 
+            "meaning_bg": "", 
+            "note": "", 
+            "syn": "", 
+            "type": "noun"
+        }
+    ], 
+    "furtive": [
+        {
+            "ant": "", 
+            "example": "While at work, George and his boss Regina felt the need to be as furtive as possible about their romantic relationship.", 
+            "meaning": "attempting to avoid attention, because of guilt or fear of trouble; secretive", 
+            "meaning_bg": "\u043f\u043e\u0442\u0430\u0435\u043d, \u043f\u043b\u0430\u0445, \u0441\u043a\u0440\u0438\u0442", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
     "gauche": [
         {
             "ant": "", 
@@ -149,12 +237,34 @@
             "type": "adj."
         }
     ], 
+    "harried": [
+        {
+            "ant": "", 
+            "example": "With a team of new hires to train, Martha was constantly harried with little questions and could not focus on her projects.", 
+            "meaning": "troubled persistently, especially with petty annoyances", 
+            "meaning_bg": "\u0442\u043e\u0440\u043c\u043e\u0437\u0435\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
     "ignoble": [
         {
             "ant": "", 
             "example": "In the 1920s, the World Series was rigged - an ignoble act which baseball took decades to recover from.", 
             "meaning": "dishonorable", 
             "meaning_bg": "\u043f\u043e\u0437\u043e\u0440\u0435\u043d, \u0434\u043e\u043b\u0435\u043d, \u043d\u0438\u0437\u044a\u043a", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "ignominious": [
+        {
+            "ant": "", 
+            "example": "Since the politician preached ethics and morality, his texting of revealing photographs was ignominious, bringing shame on both himself and his party.", 
+            "meaning": "deserving or causing public disgrace or shame (about conduct)", 
+            "meaning_bg": "\u043f\u043e\u0437\u043e\u0440\u0435\u043d, \u0434\u043e\u043b\u0435\u043d, \u043d\u0435\u0447\u0435\u0441\u0442\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -204,6 +314,50 @@
             "type": "adj."
         }
     ], 
+    "maladroit": [
+        {
+            "ant": "", 
+            "example": "As a child she was quite maladroit, but as an adult, she has become an adept dancer.", 
+            "meaning": "clumsy; inefficient or inept", 
+            "meaning_bg": "\u0442\u0440\u043e\u043c\u0430\u0432", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "maverick": [
+        {
+            "ant": "", 
+            "example": "Officer Kelly was a maverick, rarely following police protocols or adopting the conventions for speech common among his fellow officers.", 
+            "meaning": "an unorthodox or independent-minded person", 
+            "meaning_bg": "\u043e\u0442\u0446\u0435\u043f\u043d\u0438\u043a", 
+            "note": "", 
+            "syn": "", 
+            "type": "noun"
+        }
+    ], 
+    "mendacity": [
+        {
+            "ant": "", 
+            "example": "I can forgive her for her mendacity but only because she is a child and is seeing what she can get away with.", 
+            "meaning": "untruthfulness, dishonesty", 
+            "meaning_bg": "\u043b\u044a\u0436\u0430, \u043b\u044a\u0436\u043b\u0438\u0432\u043e\u0441\u0442", 
+            "note": "", 
+            "syn": "", 
+            "type": "noun"
+        }
+    ], 
+    "misconstrue": [
+        {
+            "ant": "", 
+            "example": "The politician never trusted journalists because he though that they misconstrue his words and misrepresent his positions.", 
+            "meaning": "interpret in the wrong way", 
+            "meaning_bg": "", 
+            "note": "", 
+            "syn": "", 
+            "type": "verb"
+        }
+    ], 
     "myopic": [
         {
             "ant": "", 
@@ -215,6 +369,17 @@
             "type": "adj."
         }
     ], 
+    "nonplussed": [
+        {
+            "ant": "", 
+            "example": "Shirley was totally nonplussed when the angry motorist cut her off and then stuck his finger out the window.", 
+            "meaning": "unsure how to act or respond", 
+            "meaning_bg": "\u043e\u0431\u044a\u0440\u043a\u0430\u043d, \u043e\u0437\u0430\u0434\u0430\u0447\u0435\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "verb"
+        }
+    ], 
     "obsequious": [
         {
             "ant": "", 
@@ -222,6 +387,17 @@
             "meaning": "obedient, attentive and flattering to an excessive or servile degree", 
             "meaning_bg": "\u0440\u0430\u0431\u043e\u043b\u0435\u043f\u0435\u043d, \u0443\u0433\u043e\u0434\u043d\u0438\u0447\u0435\u0441\u043a\u0438", 
             "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "pejorative": [
+        {
+            "ant": "", 
+            "example": "Most psychologists object to the pejorative term \"shrink\", believing that they expand the human mind, not limit it.", 
+            "meaning": "expressing disapproval (refers to a term)", 
+            "meaning_bg": "\u043f\u0440\u0438\u0434\u0430\u0432\u0430\u0449 \u043e\u0442\u0440\u0438\u0446\u0430\u0442\u0435\u043b\u043d\u0430 \u043e\u0446\u0435\u043d\u043a\u0430", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
             "syn": "", 
             "type": "adj."
         }
@@ -288,6 +464,26 @@
             "note": "", 
             "syn": "", 
             "type": "noun"
+        }
+    ], 
+    "specious": [
+        {
+            "ant": "", 
+            "example": "Almost every image on TV is specious and not to be trusted.", 
+            "meaning": "misleadingly attractive, misleading in appearance", 
+            "meaning_bg": "", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }, 
+        {
+            "ant": "", 
+            "example": "He made a career out of specious arguments and fictional lab results, but lost his job and reputation when his lies were exposed by an article in The New York Times.", 
+            "meaning": "superficially plausible but actually false", 
+            "meaning_bg": "", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
         }
     ], 
     "subversive": [

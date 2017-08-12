@@ -19,6 +19,7 @@ add the ones that you need
 - counterfeit (spurious)
 - disdain (haughty)
 - wretched (forlorn)
+- sumptuous (opulence)
 
 
 ## Initial list counts

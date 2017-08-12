@@ -15,7 +15,7 @@
             "ant": "", 
             "example": "Maria had an antipathy for tour groups, often bolting to the other side of the museum as soon as she saw a chaperone leading a group of wide-eyed tourists.", 
             "meaning": "an intense feeling of dislike or aversion", 
-            "meaning_bg": "", 
+            "meaning_bg": "\u0430\u043d\u0442\u0438\u043f\u0430\u0442\u0438\u044f, \u043e\u0442\u0432\u0440\u0430\u0449\u0435\u043d\u0438\u0435", 
             "note": "", 
             "syn": "", 
             "type": "noun"
@@ -36,8 +36,8 @@
         {
             "ant": "", 
             "example": "In order to deal with the arduous cross-country journey, truck drivers often survive on a string of caffeinated drinks, staying awake for up to 30 hours at a time.", 
-            "meaning": "demanding considerable mental effort and skill; testing powers of endurance", 
-            "meaning_bg": "", 
+            "meaning": "requiring strenuous effort; difficult and tiring", 
+            "meaning_bg": "\u0442\u0440\u0443\u0434\u0435\u043d, \u0441\u0442\u0440\u044a\u043c\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -80,7 +80,7 @@
         {
             "ant": "", 
             "example": "Nearly every month our capricious CEO had a new plan to turn the company around, and none of them worked because we never gave them the time they needed to succeed.", 
-            "meaning": "determined by chance or impulse or whim rather than by necessity or reason", 
+            "meaning": "determined by impulse or whim rather than by reason", 
             "meaning_bg": "", 
             "note": "", 
             "syn": "", 
@@ -91,8 +91,8 @@
         {
             "ant": "", 
             "example": "Those who show contrition during their prison terms - especially when under review by a parole board-often get shortened sentences.", 
-            "meaning": "the feeling of remorse or guilt that comes from doing something bad", 
-            "meaning_bg": "", 
+            "meaning": "the feeling of remorse or guilt after doing something bad", 
+            "meaning_bg": "\u0440\u0430\u0437\u043a\u0430\u044f\u043d\u0438\u0435", 
             "note": "", 
             "syn": "", 
             "type": "noun"
@@ -102,8 +102,8 @@
         {
             "ant": "", 
             "example": "Though the man could have at least alerted the police, he crouched cravenly in the corner as the old woman was mugged.", 
-            "meaning": "pathetically cowardly", 
-            "meaning_bg": "", 
+            "meaning": "cowardly", 
+            "meaning_bg": "\u0441\u0442\u0440\u0430\u0445\u043b\u0438\u0432", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -113,8 +113,8 @@
         {
             "ant": "", 
             "example": "The BP oil spill in the Gulf of Mexico was deleterious to the fishing industry in the southern states.", 
-            "meaning": "harmful to living things", 
-            "meaning_bg": "", 
+            "meaning": "harmful, damaging", 
+            "meaning_bg": "\u0432\u0440\u0435\u0434\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -124,7 +124,7 @@
         {
             "ant": "", 
             "example": "Lawyers use dilatory tactics so that it takes years before the case is actually decided.", 
-            "meaning": "wasting time", 
+            "meaning": "wasting time, delaying", 
             "meaning_bg": "", 
             "note": "", 
             "syn": "", 
@@ -135,8 +135,8 @@
         {
             "ant": "", 
             "example": "A good scientist should be dispassionate, focusing purely on what the evidence says, without personal attachment.", 
-            "meaning": "unaffected by strong emotion or prejudice", 
-            "meaning_bg": "", 
+            "meaning": "unaffected by emotion or prejudice", 
+            "meaning_bg": "\u0431\u0435\u0437\u043f\u0440\u0438\u0441\u0442\u0440\u0430\u0441\u0442\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -146,8 +146,8 @@
         {
             "ant": "", 
             "example": "Before the effects of anaethesia were disseminated, patients had to experience the full pain of a surgery.", 
-            "meaning": "cause to become widely known", 
-            "meaning_bg": "", 
+            "meaning": "spread widely", 
+            "meaning_bg": "\u0440\u0430\u0437\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u044f\u0432\u0430\u043c, \u0440\u0430\u0437\u043d\u0430\u0441\u044f\u043c", 
             "note": "", 
             "syn": "", 
             "type": "verb"
@@ -158,7 +158,7 @@
             "ant": "", 
             "example": "The witness said he signed the contract under duress and argued that the court should cancel the agreement.", 
             "meaning": "compulsory force or threat", 
-            "meaning_bg": "", 
+            "meaning_bg": "\u043f\u0440\u0438\u043d\u0443\u0434\u0430", 
             "note": "", 
             "syn": "", 
             "type": "noun"
@@ -179,8 +179,8 @@
         {
             "ant": "", 
             "example": "I recently read an article in the Times about whether good literature is edifying or not; specifically, does reading more make a person more moral.", 
-            "meaning": "enlightening or uplifting so as to encourage intellectual or moral improvement", 
-            "meaning_bg": "", 
+            "meaning": "providing moral or intellectual instruction", 
+            "meaning_bg": "\u043f\u043e\u0443\u0447\u0438\u0442\u0435\u043b\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -190,8 +190,8 @@
         {
             "ant": "", 
             "example": "Since Maggie's cough syrup, which had expired five years back, was no longer efficacious, she coughed through the night.", 
-            "meaning": "producing the intended result", 
-            "meaning_bg": "", 
+            "meaning": "producing the intended result; effective", 
+            "meaning_bg": "\u0435\u0444\u0438\u043a\u0430\u0441\u0435\u043d, \u0440\u0435\u0437\u0443\u043b\u0442\u0430\u0442\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -201,8 +201,8 @@
         {
             "ant": "", 
             "example": "Just smiling - even if you are depressed - can elicit feelings of pleasure and happiness.", 
-            "meaning": "call forth (emotions, feelings, and responses)", 
-            "meaning_bg": "", 
+            "meaning": "evoke or draw out (emotions or response)", 
+            "meaning_bg": "\u0438\u0437\u0442\u0440\u044a\u0433\u0432\u0430\u043c, \u0438\u0437\u0432\u043b\u0438\u0447\u0430\u043c", 
             "note": "", 
             "syn": "", 
             "type": "verb"
@@ -213,7 +213,7 @@
             "ant": "", 
             "example": "Before the Internet, the library was typically were you would find erudite readers.", 
             "meaning": "having or showing profound knowledge", 
-            "meaning_bg": "", 
+            "meaning_bg": "\u0443\u0447\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -223,7 +223,7 @@
         {
             "ant": "", 
             "example": "Map collecting is an esoteric hobby to most, but to geography geeks it is a highly enjoyable pasttime.", 
-            "meaning": "confined to and understandable by only an enlightened inner circle", 
+            "meaning": "likely to be understood by only a small number of people with specialized knowledge", 
             "meaning_bg": "", 
             "note": "", 
             "syn": "", 
@@ -235,7 +235,7 @@
             "ant": "", 
             "example": "Whitney is fastidious about her shoes, arranging them on a shelf in a specific order, each pair evenly spaced.", 
             "meaning": "overly concerned with details; fussy", 
-            "meaning_bg": "", 
+            "meaning_bg": "\u043f\u0440\u0438\u0434\u0438\u0440\u0447\u0438\u0432, \u043a\u0430\u043f\u0440\u0438\u0437\u0435\u043d, \u043f\u0440\u0435\u0442\u0435\u043d\u0446\u0438\u043e\u0437\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -245,7 +245,7 @@
         {
             "ant": "", 
             "example": "Ever since Elvira resigned as the head of marketing, everything about our sales strategy has been in a state of flux.", 
-            "meaning": "a state of uncertainty about what should be done (usually following some important event)", 
+            "meaning": "continuous change", 
             "meaning_bg": "", 
             "note": "", 
             "syn": "", 
@@ -256,8 +256,8 @@
         {
             "ant": "", 
             "example": "While at work, George and his boss Regina felt the need to be as furtive as possible about their romantic relationship.", 
-            "meaning": "marked by quiet and caution and secrecy; taking pains to avoid being observed", 
-            "meaning_bg": "", 
+            "meaning": "attempting to avoid attention, because of guilt or fear of trouble; secretive", 
+            "meaning_bg": "\u043f\u043e\u0442\u0430\u0435\u043d, \u043f\u043b\u0430\u0445, \u0441\u043a\u0440\u0438\u0442", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -267,8 +267,8 @@
         {
             "ant": "", 
             "example": "With a team of new hires to train, Martha was constantly harried with little questions and could not focus on her projects.", 
-            "meaning": "troubled persistently especially with petty annoyances", 
-            "meaning_bg": "", 
+            "meaning": "troubled persistently, especially with petty annoyances", 
+            "meaning_bg": "\u0442\u043e\u0440\u043c\u043e\u0437\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -278,8 +278,8 @@
         {
             "ant": "", 
             "example": "Since the politician preached ethics and morality, his texting of revealing photographs was ignominious, bringing shame on both himself and his party.", 
-            "meaning": "(used of conduct or character) deserving or bringing disgrace or shame", 
-            "meaning_bg": "", 
+            "meaning": "deserving or causing public disgrace or shame (about conduct)", 
+            "meaning_bg": "\u043f\u043e\u0437\u043e\u0440\u0435\u043d, \u0434\u043e\u043b\u0435\u043d, \u043d\u0435\u0447\u0435\u0441\u0442\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -290,7 +290,7 @@
             "ant": "", 
             "example": "The judge was not impartial since he had been bribed by the witness's family.", 
             "meaning": "free from undue bias or preconceived opinions", 
-            "meaning_bg": "", 
+            "meaning_bg": "\u0431\u0435\u0437\u043f\u0440\u0438\u0441\u0442\u0440\u0430\u0441\u0442\u0435\u043d, \u043d\u0435\u043f\u0440\u0435\u0434\u0443\u0431\u0435\u0434\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -300,8 +300,8 @@
         {
             "ant": "", 
             "example": "Hitler, like Napoleon, made the imprudent move of invading Russia in winter, suffering even more casualties than Napoleon had.", 
-            "meaning": "not wise", 
-            "meaning_bg": "", 
+            "meaning": "not wise; rash", 
+            "meaning_bg": "\u043d\u0435\u043e\u0431\u043c\u0438\u0441\u043b\u0435\u043d, \u043d\u0435\u043f\u0440\u0435\u0434\u043f\u0430\u0437\u043b\u0438\u0432", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -310,9 +310,9 @@
     "indecorous": [
         {
             "ant": "", 
-            "example": "society Eating with elbows on the table is considered indecorous in refined circles.", 
-            "meaning": "not in keeping with accepted standards of what is right or proper in polite", 
-            "meaning_bg": "", 
+            "example": "Eating with elbows on the table is considered indecorous in refined circles.", 
+            "meaning": "not in keeping with good taste and propriety; improper", 
+            "meaning_bg": "\u043d\u0435\u043f\u043e\u0434\u043e\u0431\u0430\u0432\u0430\u0449, \u043d\u0435\u0431\u043b\u0430\u0433\u043e\u043f\u0440\u0438\u043b\u0438\u0447\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -322,8 +322,8 @@
         {
             "ant": "", 
             "example": "The political candidate and his supporters were jovial once it was clear that she had won.", 
-            "meaning": "full of or showing high-spirited merriment", 
-            "meaning_bg": "", 
+            "meaning": "cheerful and friendly", 
+            "meaning_bg": "\u0432\u0435\u0441\u0435\u043b, \u043f\u0440\u0438\u0432\u0435\u0442\u043b\u0438\u0432", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -333,8 +333,8 @@
         {
             "ant": "", 
             "example": "As a child she was quite maladroit, but as an adult, she has become an adept dancer.", 
-            "meaning": "clumsy", 
-            "meaning_bg": "", 
+            "meaning": "clumsy; inefficient or inept", 
+            "meaning_bg": "\u0442\u0440\u043e\u043c\u0430\u0432", 
             "note": "This word has other definitions but this is the most important one for the GRE", 
             "syn": "", 
             "type": "adj."
@@ -344,8 +344,8 @@
         {
             "ant": "", 
             "example": "Officer Kelly was a maverick, rarely following police protocols or adopting the conventions for speech common among his fellow officers.", 
-            "meaning": "someone who exhibits great independence in thought and action", 
-            "meaning_bg": "", 
+            "meaning": "an unorthodox or independent-minded person", 
+            "meaning_bg": "\u043e\u0442\u0446\u0435\u043f\u043d\u0438\u043a", 
             "note": "", 
             "syn": "", 
             "type": "noun"
@@ -355,8 +355,8 @@
         {
             "ant": "", 
             "example": "I can forgive her for her mendacity but only because she is a child and is seeing what she can get away with.", 
-            "meaning": "the tendency to be untruthful", 
-            "meaning_bg": "", 
+            "meaning": "untruthfulness, dishonesty", 
+            "meaning_bg": "\u043b\u044a\u0436\u0430, \u043b\u044a\u0436\u043b\u0438\u0432\u043e\u0441\u0442", 
             "note": "", 
             "syn": "", 
             "type": "noun"
@@ -378,7 +378,7 @@
             "ant": "", 
             "example": "Nancy found doing dishes a thorougly mundane task, although Peter found a kind of Zen pleasure in the chore.", 
             "meaning": "repetitive and boring; not spiritual", 
-            "meaning_bg": "", 
+            "meaning_bg": "\u043e\u0431\u0438\u043a\u043d\u043e\u0432\u0435\u043d, \u0434\u043e\u0441\u0430\u0434\u0435\u043d, \u0431\u0438\u0442\u043e\u0432", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -387,7 +387,7 @@
             "ant": "", 
             "example": "Though we think of the pope as someone always dealing in holy matters, he is also concerned with mundane events, such as deciding when to set his alarm each morning.", 
             "meaning": "relating to the ordinary world", 
-            "meaning_bg": "", 
+            "meaning_bg": "\u043e\u0431\u0438\u043a\u043d\u043e\u0432\u0435\u043d, \u0437\u0435\u043c\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -398,7 +398,7 @@
             "ant": "", 
             "example": "Shirley was totally nonplussed when the angry motorist cut her off and then stuck his finger out the window.", 
             "meaning": "unsure how to act or respond", 
-            "meaning_bg": "", 
+            "meaning_bg": "\u043e\u0431\u044a\u0440\u043a\u0430\u043d, \u043e\u0437\u0430\u0434\u0430\u0447\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "verb"
@@ -408,7 +408,7 @@
         {
             "ant": "", 
             "example": "Because of the nuances involved in this case, I hired an outside consultant to advice us and help.", 
-            "meaning": "a subtle difference in meaning or opinion or attitude", 
+            "meaning": "a subtle difference in meaning", 
             "meaning_bg": "", 
             "note": "", 
             "syn": "", 
@@ -419,8 +419,8 @@
         {
             "ant": "", 
             "example": "Russian oligarchs are famous for their opulence, living in fancy homes and dining on expensive cavier.", 
-            "meaning": "wealth as evidenced by sumptuous living", 
-            "meaning_bg": "", 
+            "meaning": "great wealth and luxuriousness", 
+            "meaning_bg": "\u0440\u0430\u0437\u043a\u043e\u0448, \u0431\u043e\u0433\u0430\u0442\u0441\u0442\u0432\u043e, \u0438\u0437\u043e\u0431\u0438\u043b\u0438\u0435", 
             "note": "", 
             "syn": "", 
             "type": "noun"
@@ -430,8 +430,8 @@
         {
             "ant": "", 
             "example": "Most psychologists object to the pejorative term \"shrink\", believing that they expand the human mind, not limit it.", 
-            "meaning": "expressing disapproval (usu. refers to a term)", 
-            "meaning_bg": "", 
+            "meaning": "expressing disapproval (refers to a term)", 
+            "meaning_bg": "\u043f\u0440\u0438\u0434\u0430\u0432\u0430\u0449 \u043e\u0442\u0440\u0438\u0446\u0430\u0442\u0435\u043b\u043d\u0430 \u043e\u0446\u0435\u043d\u043a\u0430", 
             "note": "This word has other definitions but this is the most important one for the GRE", 
             "syn": "", 
             "type": "adj."
@@ -441,8 +441,8 @@
         {
             "ant": "", 
             "example": "I was able to placate the angry mob of students by promising to bring cookies on Monday.", 
-            "meaning": "cause to be more favorably inclined; gain the good will of", 
-            "meaning_bg": "", 
+            "meaning": "make less angry or hostile", 
+            "meaning_bg": "\u0443\u0441\u043f\u043e\u043a\u043e\u044f\u0432\u0430\u043c, \u0443\u043a\u0440\u043e\u0442\u044f\u0432\u0430\u043c, \u0443\u043c\u0438\u0440\u043e\u0442\u0432\u043e\u0440\u044f\u0432\u0430\u043c", 
             "note": "", 
             "syn": "", 
             "type": "verb"
@@ -452,8 +452,8 @@
         {
             "ant": "", 
             "example": "The professor launched into a polemic, claiming that Freudian theory was a pack of lies that absolutely destroyed European literary theory.", 
-            "meaning": "a strong verbal or written attack on someone or something.", 
-            "meaning_bg": "", 
+            "meaning": "a strong verbal or written attack; engagement in controversial debate or dispute", 
+            "meaning_bg": "\u0441\u043f\u043e\u0440, \u0432\u043f\u0443\u0441\u043a\u0430\u043d\u0435 \u0432 \u0441\u043f\u043e\u0440", 
             "note": "This word has other definitions but this is the most important one for the GRE", 
             "syn": "", 
             "type": "noun"
@@ -463,8 +463,8 @@
         {
             "ant": "", 
             "example": "Initially, Einstein posited a repulsive force to balance Gravity, but then rejected that idea as a blunder.", 
-            "meaning": "assume as fact", 
-            "meaning_bg": "", 
+            "meaning": "put forward as fact", 
+            "meaning_bg": "\u043f\u043e\u0441\u0442\u0443\u043b\u0438\u0440\u0430\u043c, \u043f\u0440\u0438\u0435\u043c\u0430\u043c \u043a\u0430\u0442\u043e \u0444\u0430\u043a\u0442", 
             "note": "", 
             "syn": "", 
             "type": "verb"
@@ -475,7 +475,7 @@
             "ant": "", 
             "example": "The police chief rebuked the two officers whose irresponsible decisions almost led to the deaths of seven innocent by-standers.", 
             "meaning": "criticize severely or angrily; censure", 
-            "meaning_bg": "", 
+            "meaning_bg": "\u043c\u044a\u043c\u0440\u044f, \u043f\u043e\u0440\u0438\u0446\u0430\u0432\u0430\u043c", 
             "note": "", 
             "syn": "", 
             "type": "verb"
@@ -485,8 +485,8 @@
         {
             "ant": "", 
             "example": "At first, Sarah was going to yell at the boy, but she didn't want to reproach him for telling the truth about the situation.", 
-            "meaning": "to express criticism towards", 
-            "meaning_bg": "", 
+            "meaning": "to express criticism", 
+            "meaning_bg": "\u0443\u043a\u043e\u0440\u044f\u0432\u0430\u043c, \u0443\u043f\u0440\u0435\u043a\u0432\u0430\u043c, \u043a\u0440\u0438\u0442\u0438\u043a\u0443\u0432\u0430\u043c", 
             "note": "", 
             "syn": "", 
             "type": "verb"
@@ -496,7 +496,7 @@
         {
             "ant": "", 
             "example": "Almost every image on TV is specious and not to be trusted.", 
-            "meaning": "based on pretense; deceptively pleasing", 
+            "meaning": "misleadingly attractive, misleading in appearance", 
             "meaning_bg": "", 
             "note": "", 
             "syn": "", 
@@ -505,7 +505,7 @@
         {
             "ant": "", 
             "example": "He made a career out of specious arguments and fictional lab results, but lost his job and reputation when his lies were exposed by an article in The New York Times.", 
-            "meaning": "plausible but false", 
+            "meaning": "superficially plausible but actually false", 
             "meaning_bg": "", 
             "note": "", 
             "syn": "", 
@@ -516,8 +516,8 @@
         {
             "ant": "", 
             "example": "Most of the students disliked the teacher because of his stringent homework policy, but many students would later thank him for demanding so much from them.", 
-            "meaning": "demanding strict attention to rules and procedures", 
-            "meaning_bg": "", 
+            "meaning": "demanding strict attention to rules", 
+            "meaning_bg": "\u0441\u0442\u0440\u043e\u0433, \u0432\u0437\u0438\u0441\u043a\u0430\u0442\u0435\u043b\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -527,8 +527,8 @@
         {
             "ant": "", 
             "example": "Herbert took board games too seriously, often appearing sullen after losing.", 
-            "meaning": "showing a brooding ill humor", 
-            "meaning_bg": "", 
+            "meaning": "bad-tempered and sulky", 
+            "meaning_bg": "\u043d\u0430\u0447\u0443\u043c\u0435\u0440\u0435\u043d, \u043c\u0440\u0430\u0447\u0435\u043d, \u0441\u044a\u0440\u0434\u0438\u0442, \u0432\u0440\u0430\u0436\u0434\u0435\u0431\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -538,8 +538,8 @@
         {
             "ant": "", 
             "example": "Since this was her first time debating on stage and before an audience, Di's voice was timorous and quiet for the first 10 minutes.", 
-            "meaning": "timid by nature or revealing fear and nervousness", 
-            "meaning_bg": "", 
+            "meaning": "timid, nervous, lacking confidence", 
+            "meaning_bg": "\u043d\u0435\u0443\u0432\u0435\u0440\u0435\u043d, \u0431\u043e\u044f\u0437\u043b\u0438\u0432, \u043f\u043b\u0430\u0448\u043b\u0438\u0432", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -550,7 +550,7 @@
             "ant": "", 
             "example": "The unpredictable and transient nature of deja vu makes it a very difficult phenomenon to study properly.", 
             "meaning": "lasting a very short time", 
-            "meaning_bg": "", 
+            "meaning_bg": "\u043f\u0440\u0435\u0445\u043e\u0434\u0435\u043d, \u0432\u0440\u0435\u043c\u0435\u043d\u0435\u043d, \u043a\u0440\u0430\u0442\u044a\u043a", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -561,7 +561,7 @@
             "ant": "", 
             "example": "The soccer game was truncated when the monsoon rain began to fall.", 
             "meaning": "reduce the length of something", 
-            "meaning_bg": "", 
+            "meaning_bg": "\u043e\u0442\u0440\u044f\u0437\u0432\u0430\u043c, \u0441\u044a\u043a\u0440\u0430\u0449\u0430\u0432\u0430\u043c", 
             "note": "", 
             "syn": "", 
             "type": "verb"

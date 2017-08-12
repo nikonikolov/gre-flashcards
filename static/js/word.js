@@ -55,7 +55,12 @@ $(document).ready( function() {
         dataType: 'json',
         url: "/_append",
         success: function (resp) {
-          reportWarning("#add-result", resp["result"])
+          var result = resp["result"];
+          var status = resp["status"];
+          if (status === "success") 
+            reportSuccess("#add-result", result);
+          else
+            reportWarning("#add-result", result);
         },
         error: function(error) {
           console.log(error);

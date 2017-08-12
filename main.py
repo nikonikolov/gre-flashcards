@@ -166,17 +166,19 @@ def append_word_to_lists(word, meaning, decks):
       fail.append(d)
   
   msg = ""
+  status = "success"
   if success:
     msg += "Appended word to lists:" 
     for d in success:
       msg += (" " + d )
     msg += "!"
   if fail:
+    status = "fail"
     msg += " Failed to append word to lists:" 
     for d in fail:
       msg += (" " + d )
     msg += ", because it already exists there!"
-  return msg
+  return msg, status
 
 
 def _modify_word_in_list(word, meaning, deck):
@@ -302,8 +304,8 @@ def list_append_word():
   """
   data = request.get_json()
   word = data["word"]
-  msg = append_word_to_lists(word, get_word_meaning(word), data["decks"])
-  return jsonify(result=msg)
+  msg, status = append_word_to_lists(word, get_word_meaning(word), data["decks"])
+  return jsonify(result=msg, status=status)
 
 
 @app.route('/vocab/<listname>/_remove')

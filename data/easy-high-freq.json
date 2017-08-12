@@ -10,6 +10,28 @@
             "type": "noun"
         }
     ], 
+    "anomaly": [
+        {
+            "ant": "", 
+            "example": "After finding an anomaly in the data, she knew that she would have to conduct her experiment again.", 
+            "meaning": "something that is not normal, standard, or expected", 
+            "meaning_bg": "", 
+            "note": "", 
+            "syn": "", 
+            "type": "noun"
+        }
+    ], 
+    "antipathy": [
+        {
+            "ant": "", 
+            "example": "Maria had an antipathy for tour groups, often bolting to the other side of the museum as soon as she saw a chaperone leading a group of wide-eyed tourists.", 
+            "meaning": "an intense feeling of dislike or aversion", 
+            "meaning_bg": "\u0430\u043d\u0442\u0438\u043f\u0430\u0442\u0438\u044f, \u043e\u0442\u0432\u0440\u0430\u0449\u0435\u043d\u0438\u0435", 
+            "note": "", 
+            "syn": "", 
+            "type": "noun"
+        }
+    ], 
     "arbitrary": [
         {
             "ant": "", 
@@ -19,6 +41,28 @@
             "note": "This word has other definitions but this is the most important one for the GRE", 
             "syn": "", 
             "type": "adj."
+        }
+    ], 
+    "banality": [
+        {
+            "ant": "", 
+            "example": "Herbert regarded the minister's remark as a mere banality until Sharon pointed out profound implications to the seemingly obvious words.", 
+            "meaning": "a trite or obvious remark", 
+            "meaning_bg": "", 
+            "note": "", 
+            "syn": "", 
+            "type": "noun"
+        }
+    ], 
+    "bolster": [
+        {
+            "ant": "", 
+            "example": "The case for the suspect's innocence was bolstered considerably by the fact that neither fingerprints nor DNA were found at the scene.", 
+            "meaning": "support and strengthen", 
+            "meaning_bg": "", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "syn": "", 
+            "type": "verb"
         }
     ], 
     "circumscribe": [
@@ -32,6 +76,50 @@
             "type": "verb"
         }
     ], 
+    "disseminate": [
+        {
+            "ant": "", 
+            "example": "Before the effects of anaethesia were disseminated, patients had to experience the full pain of a surgery.", 
+            "meaning": "spread widely", 
+            "meaning_bg": "\u0440\u0430\u0437\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u044f\u0432\u0430\u043c, \u0440\u0430\u0437\u043d\u0430\u0441\u044f\u043c", 
+            "note": "", 
+            "syn": "", 
+            "type": "verb"
+        }
+    ], 
+    "economical": [
+        {
+            "ant": "", 
+            "example": "Journalists favor an economical style of writing, in which no unnecessary words are used and every sentence is as short as possible.", 
+            "meaning": "avoiding waste, efficient", 
+            "meaning_bg": "", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "efficacious": [
+        {
+            "ant": "", 
+            "example": "Since Maggie's cough syrup, which had expired five years back, was no longer efficacious, she coughed through the night.", 
+            "meaning": "producing the intended result; effective", 
+            "meaning_bg": "\u0435\u0444\u0438\u043a\u0430\u0441\u0435\u043d, \u0440\u0435\u0437\u0443\u043b\u0442\u0430\u0442\u0435\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "elicit": [
+        {
+            "ant": "", 
+            "example": "Just smiling - even if you are depressed - can elicit feelings of pleasure and happiness.", 
+            "meaning": "evoke or draw out (emotions or response)", 
+            "meaning_bg": "\u0438\u0437\u0442\u0440\u044a\u0433\u0432\u0430\u043c, \u0438\u0437\u0432\u043b\u0438\u0447\u0430\u043c", 
+            "note": "", 
+            "syn": "", 
+            "type": "verb"
+        }
+    ], 
     "eradicate": [
         {
             "ant": "", 
@@ -41,6 +129,17 @@
             "note": "", 
             "syn": "", 
             "type": "verb"
+        }
+    ], 
+    "erudite": [
+        {
+            "ant": "", 
+            "example": "Before the Internet, the library was typically were you would find erudite readers.", 
+            "meaning": "having or showing profound knowledge", 
+            "meaning_bg": "\u0443\u0447\u0435\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
         }
     ], 
     "espouse": [
@@ -109,12 +208,34 @@
             "type": "noun"
         }
     ], 
+    "impartial": [
+        {
+            "ant": "", 
+            "example": "The judge was not impartial since he had been bribed by the witness's family.", 
+            "meaning": "free from undue bias or preconceived opinions", 
+            "meaning_bg": "\u0431\u0435\u0437\u043f\u0440\u0438\u0441\u0442\u0440\u0430\u0441\u0442\u0435\u043d, \u043d\u0435\u043f\u0440\u0435\u0434\u0443\u0431\u0435\u0434\u0435\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
     "implausible": [
         {
             "ant": "", 
             "example": "The teacher found it implausible that the student was late to school because he had been kidnapped by outlaws on horseback.", 
             "meaning": "describing a statement that is not believable", 
             "meaning_bg": "\u043d\u0435\u043f\u0440\u0430\u0432\u0434\u043e\u043f\u043e\u0434\u043e\u0431\u0435\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "indecorous": [
+        {
+            "ant": "", 
+            "example": "Eating with elbows on the table is considered indecorous in refined circles.", 
+            "meaning": "not in keeping with good taste and propriety; improper", 
+            "meaning_bg": "\u043d\u0435\u043f\u043e\u0434\u043e\u0431\u0430\u0432\u0430\u0449, \u043d\u0435\u0431\u043b\u0430\u0433\u043e\u043f\u0440\u0438\u043b\u0438\u0447\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -153,12 +274,34 @@
             "type": "adj."
         }
     ], 
+    "jovial": [
+        {
+            "ant": "", 
+            "example": "The political candidate and his supporters were jovial once it was clear that she had won.", 
+            "meaning": "cheerful and friendly", 
+            "meaning_bg": "\u0432\u0435\u0441\u0435\u043b, \u043f\u0440\u0438\u0432\u0435\u0442\u043b\u0438\u0432", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
     "myriad": [
         {
             "ant": "", 
             "example": "There are a myriad of internet sites hawking pills that claim to boost energy for hours on end.", 
             "meaning": "a large indefinite number", 
             "meaning_bg": "\u0431\u0435\u0437\u0431\u0440\u043e\u0439", 
+            "note": "", 
+            "syn": "", 
+            "type": "noun"
+        }
+    ], 
+    "nuance": [
+        {
+            "ant": "", 
+            "example": "Because of the nuances involved in this case, I hired an outside consultant to advice us and help.", 
+            "meaning": "a subtle difference in meaning", 
+            "meaning_bg": "", 
             "note": "", 
             "syn": "", 
             "type": "noun"
@@ -173,6 +316,17 @@
             "note": "This word has other definitions but this is the most important one for the GRE", 
             "syn": "", 
             "type": "adj."
+        }
+    ], 
+    "opulence": [
+        {
+            "ant": "", 
+            "example": "Russian oligarchs are famous for their opulence, living in fancy homes and dining on expensive cavier.", 
+            "meaning": "great wealth and luxuriousness", 
+            "meaning_bg": "\u0440\u0430\u0437\u043a\u043e\u0448, \u0431\u043e\u0433\u0430\u0442\u0441\u0442\u0432\u043e, \u0438\u0437\u043e\u0431\u0438\u043b\u0438\u0435", 
+            "note": "", 
+            "syn": "", 
+            "type": "noun"
         }
     ], 
     "ostracize": [
@@ -270,6 +424,17 @@
             "note": "", 
             "syn": "", 
             "type": "noun"
+        }
+    ], 
+    "truncate": [
+        {
+            "ant": "", 
+            "example": "The soccer game was truncated when the monsoon rain began to fall.", 
+            "meaning": "reduce the length of something", 
+            "meaning_bg": "\u043e\u0442\u0440\u044f\u0437\u0432\u0430\u043c, \u0441\u044a\u043a\u0440\u0430\u0449\u0430\u0432\u0430\u043c", 
+            "note": "", 
+            "syn": "", 
+            "type": "verb"
         }
     ], 
     "underscore": [
