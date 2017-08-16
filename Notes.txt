@@ -1,4 +1,8 @@
 
+VALIDATION SOURCE:
+  http://1000hz.github.io/bootstrap-validator/#validator
+
+
 FINAL:
   - Check log.md and do the necessary changes
 

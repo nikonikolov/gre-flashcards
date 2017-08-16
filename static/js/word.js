@@ -88,6 +88,7 @@ $(document).ready( function() {
   function makeWordBold(){
     var meanings  = $('#meaning-block').find(".card-meaning");
     var word = $("#word").html();
+    word = word.substring(0, word.length-1);
     var re = new RegExp("(" + word + "\\w*)", 'gi');
 
     for (var i=0; i<meanings.length; i++) {

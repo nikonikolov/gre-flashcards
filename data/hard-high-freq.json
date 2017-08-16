@@ -1,4 +1,26 @@
 {
+    "aberration": [
+        {
+            "ant": "", 
+            "example": "Aberrations in climate have become the norm: rarely a week goes by without some meteorological phenomenon making headlines.", 
+            "meaning": "a deviation from what is normal or expected", 
+            "meaning_bg": "", 
+            "note": "", 
+            "syn": "", 
+            "type": "noun"
+        }
+    ], 
+    "amenable": [
+        {
+            "ant": "", 
+            "example": "Even though she did not like the outdoors, Shirley was generally amenable and so her brother was able to persuade her to go camping.", 
+            "meaning": "easily persuaded", 
+            "meaning_bg": "", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
     "antithetical": [
         {
             "ant": "", 
@@ -32,6 +54,39 @@
             "type": "adv."
         }
     ], 
+    "auspicious": [
+        {
+            "ant": "", 
+            "example": "Despite an auspicious beginning, Mike's road trip became a series of mishaps, and he was soon stranded and penniless, leaning against his wrecked automobile.", 
+            "meaning": "favorable, the opposite of sinister", 
+            "meaning_bg": "\u043f\u0440\u0435\u0434\u0432\u0435\u0449\u0430\u0432\u0430\u0449 \u0434\u043e\u0431\u0440\u043e, \u0441\u0432\u0435\u0442\u044a\u043b", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "avaricious": [
+        {
+            "ant": "", 
+            "example": "Since avaricious desire is similar to gluttony or lust - sins of excess - it was listed as one of the seven deadly sins by the Catholic church.", 
+            "meaning": "excessively greedy", 
+            "meaning_bg": "", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "belie": [
+        {
+            "ant": "", 
+            "example": "The smile on her face belies the pain she must feel after the death of her husband.", 
+            "meaning": "to give a false representation to; misrepresent", 
+            "meaning_bg": "", 
+            "note": "", 
+            "syn": "", 
+            "type": "verb"
+        }
+    ], 
     "brazen": [
         {
             "ant": "", 
@@ -52,6 +107,17 @@
             "note": "", 
             "syn": "", 
             "type": "adj."
+        }
+    ], 
+    "censure": [
+        {
+            "ant": "", 
+            "example": "After being caught in bed with a mistress, the mayor was quickly censured by the city council.", 
+            "meaning": "to express strong disapproval", 
+            "meaning_bg": "\u043d\u0435 \u043e\u0434\u043e\u0431\u0440\u044f\u0432\u0430\u043c, \u043f\u043e\u0440\u0438\u0446\u0430\u0432\u0430\u043c", 
+            "note": "", 
+            "syn": "", 
+            "type": "verb"
         }
     ], 
     "commensurate": [
@@ -149,6 +215,28 @@
             "type": "adj."
         }
     ], 
+    "delineate": [
+        {
+            "ant": "", 
+            "example": "After a brief summary of proper swimming technique, the coach delineated the specifics of each stroke, spending 30 minutes alone on the backstroke.", 
+            "meaning": "describe in detail", 
+            "meaning_bg": "", 
+            "note": "", 
+            "syn": "", 
+            "type": "verb"
+        }
+    ], 
+    "demur": [
+        {
+            "ant": "", 
+            "example": "Wallace disliked the cold, so he demurred when his friends suggested they going skiing in the Alps.", 
+            "meaning": "to object or show reluctance", 
+            "meaning_bg": "\u043f\u0440\u043e\u0442\u0438\u0432\u044f \u0441\u0435, \u043e\u0442\u0445\u0432\u044a\u0440\u043b\u044f\u043c, \u0432\u044a\u0437\u0440\u0430\u0437\u044f\u0432\u0430\u043c", 
+            "note": "", 
+            "syn": "", 
+            "type": "verb"
+        }
+    ], 
     "denigrate": [
         {
             "ant": "", 
@@ -160,6 +248,28 @@
             "type": "verb"
         }
     ], 
+    "disaffected": [
+        {
+            "ant": "", 
+            "example": "After watching his superior take rations from the soliders, he quickly became disaffected and rebeled.", 
+            "meaning": "dissatisfied, especially with people in authority", 
+            "meaning_bg": "", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "disinterested": [
+        {
+            "ant": "", 
+            "example": "The potential juror knew the defendant, and therefore could not serve on the jury, which must consist only of disinterested members.", 
+            "meaning": "unbiased; neutral", 
+            "meaning_bg": "", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
     "duress": [
         {
             "ant": "", 
@@ -169,6 +279,50 @@
             "note": "", 
             "syn": "", 
             "type": "noun"
+        }
+    ], 
+    "egregious": [
+        {
+            "ant": "", 
+            "example": "The dictator's abuse of human rights was so egregious that many world leaders asked that he be tried in an international court for genocide.", 
+            "meaning": "standing out in negative way; shockingly bad", 
+            "meaning_bg": "", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "enervate": [
+        {
+            "ant": "", 
+            "example": "John preferred to avoid equatorial countries; the intense sun would always leave him enervated after he'd spent the day sightseeing.", 
+            "meaning": "make (someone) feel drained of energy or vitality; to sap energy from", 
+            "meaning_bg": "\u043e\u0431\u0435\u0437\u0441\u0438\u043b\u0432\u0430\u043c, \u043e\u043c\u0430\u043b\u043e\u043c\u043e\u0449\u0430\u0432\u0430\u043c", 
+            "note": "", 
+            "syn": "", 
+            "type": "verb"
+        }
+    ], 
+    "entrenched": [
+        {
+            "ant": "", 
+            "example": "By the time we reach 60-years old, most of our habits are so entrenched that it is difficult for us to change.", 
+            "meaning": "fixed firmly or securely", 
+            "meaning_bg": "", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "eschew": [
+        {
+            "ant": "", 
+            "example": "Politicians are the masters of eschewing morals; academics are the masters of eschewing clarity.", 
+            "meaning": "avoid and stay away from deliberately", 
+            "meaning_bg": "\u043e\u0442\u0431\u044f\u0433\u0432\u0430\u043c, \u0432\u044a\u0437\u0434\u044a\u0440\u0436\u0430\u043c \u0441\u0435", 
+            "note": "", 
+            "syn": "", 
+            "type": "verb"
         }
     ], 
     "exalt": [
@@ -215,6 +369,28 @@
             "type": "noun"
         }
     ], 
+    "forlorn": [
+        {
+            "ant": "", 
+            "example": "After her third pet dog died, Marcia was simply forlorn: this time even the possibility of buying a new dog no longer held any joy.", 
+            "meaning": "showing hopelessness; sad and lonely; wretched", 
+            "meaning_bg": "\u0438\u0437\u043e\u0441\u0442\u0430\u0432\u0435\u043d, \u0431\u0435\u0436\u043d\u0430\u0434\u0435\u0436\u0434\u0435\u043d, \u043e\u043a\u0430\u044f\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "frugal": [
+        {
+            "ant": "", 
+            "example": "Monte was no miser, but was simply frugal, wisely spending the little that he earned.", 
+            "meaning": "not spending much money (but spending wisely)", 
+            "meaning_bg": "", 
+            "note": "", 
+            "syn": "parsimoniuous", 
+            "type": "adj."
+        }
+    ], 
     "furtive": [
         {
             "ant": "", 
@@ -226,12 +402,76 @@
             "type": "adj."
         }
     ], 
+    "gainsay": [
+        {
+            "ant": "", 
+            "example": "I can't gainsay a single piece of evidence James has presented, but I still don't trust his conclusion.", 
+            "meaning": "deny, contradict, oppose", 
+            "meaning_bg": "\u043e\u0441\u043f\u043e\u0440\u0432\u0430\u043c, \u043e\u0442\u0440\u0438\u0447\u0430\u043c", 
+            "note": "", 
+            "syn": "", 
+            "type": "verb"
+        }
+    ], 
+    "gall": [
+        {
+            "ant": "", 
+            "example": "Even though Carly was only recently hired, she had the gall to question her boss's judgment in front of the office.", 
+            "meaning": "bold and impertinent behavior", 
+            "meaning_bg": "\u043d\u0430\u0445\u0430\u043b\u0441\u0442\u0432\u043e, \u043d\u0435\u0443\u043c\u0435\u0441\u0442\u043d\u043e\u0441\u0442", 
+            "note": "", 
+            "syn": "", 
+            "type": "noun"
+        }, 
+        {
+            "ant": "", 
+            "example": "In an act of gall, Leah sent compromising photos of her ex-boyfriend to all his co-workers and professional contacts.", 
+            "meaning": "feeling of deep and bitter anger and ill-will", 
+            "meaning_bg": "\u0437\u043b\u043e\u0441\u0442, \u0433\u043d\u044f\u0432, \u0437\u043b\u043e\u0431\u0430", 
+            "note": "", 
+            "syn": "", 
+            "type": "noun"
+        }
+    ], 
+    "galvanize": [
+        {
+            "ant": "", 
+            "example": "At mile 23 of his first marathon, Kyle had all but given up, until he noticed his friends and family holding a banner that read, \"Go Kyle\"; galvanized, he broke into a gallop, finishing the last three miles in less than 20 minutes.", 
+            "meaning": "to excite or inspire (someone) to action", 
+            "meaning_bg": "", 
+            "note": "", 
+            "syn": "", 
+            "type": "verb"
+        }
+    ], 
     "gauche": [
         {
             "ant": "", 
             "example": "Sylvester says the most gauche things, such as telling a girl he liked that she was much prettier when she wore makeup.", 
             "meaning": "socially awkward and incapable; lacking social polish", 
             "meaning_bg": "\u0441\u0442\u0435\u0441\u043d\u0438\u0442\u0435\u043b\u0435\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "germane": [
+        {
+            "ant": "", 
+            "example": "The professor wanted to tell the jury in detail about his new book, but the lawyer said it wasn't germane to the charges in the cases.", 
+            "meaning": "relevant and appropriate", 
+            "meaning_bg": "\u0443\u043c\u0435\u0441\u0442\u0435\u043d, \u043f\u043e\u0434\u0445\u043e\u0434\u044f\u0449", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "gossamer": [
+        {
+            "ant": "", 
+            "example": "The gossamer wings of a butterfly, which allow it to fly, are also a curse, so delicate that they are often damaged.", 
+            "meaning": "characterized by unusual lightness and delicacy", 
+            "meaning_bg": "\u0435\u0444\u0438\u0440\u0435\u043d, \u043b\u0435\u043a", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -270,6 +510,28 @@
             "type": "adj."
         }
     ], 
+    "incisive": [
+        {
+            "ant": "", 
+            "example": "The lawyer had an incisive mind, able in a flash to dissect a hopelessly tangled issue and isolate the essential laws at play. | His incisive remarks made us see the fallacy in our plans", 
+            "meaning": "demonstrating ability to recognize fine distinctions; quick and direct", 
+            "meaning_bg": "\u043e\u0441\u0442\u044a\u0440 \u0443\u043c, \u043f\u0440\u043e\u0437\u043e\u0440\u043b\u0438\u0432", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "ingenuous": [
+        {
+            "ant": "", 
+            "example": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fall for any ruse, regardless of how elaborate.", 
+            "meaning": "naive and innocent", 
+            "meaning_bg": "", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
     "ingratiate": [
         {
             "ant": "", 
@@ -292,6 +554,17 @@
             "type": "adj."
         }
     ], 
+    "innocuous": [
+        {
+            "ant": "", 
+            "example": "Everyone found Nancy's banter innocuous - except for Mike, who felt like she was intentionally picking on him.", 
+            "meaning": "harmless", 
+            "meaning_bg": "", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
     "intransigent": [
         {
             "ant": "", 
@@ -301,6 +574,17 @@
             "note": "", 
             "syn": "", 
             "type": "adj."
+        }
+    ], 
+    "lambast": [
+        {
+            "ant": "", 
+            "example": "Showing no patience, the manager utterly lambasted the sales team that lost the big account.", 
+            "meaning": "criticize harshly", 
+            "meaning_bg": "", 
+            "note": "", 
+            "syn": "castigate, chastise", 
+            "type": "verb"
         }
     ], 
     "laudable": [
@@ -334,6 +618,17 @@
             "note": "", 
             "syn": "", 
             "type": "noun"
+        }
+    ], 
+    "mawkish": [
+        {
+            "ant": "", 
+            "example": "The film was incredibly mawkish, introducing highly likeable characters only to have them succumb to a devastating illnesses by the end of the movie.", 
+            "meaning": "overly sentimental, to the point that is disgusting", 
+            "meaning_bg": "\u0441\u043b\u0430\u0434\u043d\u0438\u043a\u0430\u0432\u043e \u0441\u0430\u043d\u0442\u0438\u043c\u0435\u043d\u0442\u0430\u043b\u0435\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
         }
     ], 
     "mendacity": [
@@ -391,6 +686,28 @@
             "type": "adj."
         }
     ], 
+    "parochial": [
+        {
+            "ant": "", 
+            "example": "Jasmine was sad to admit it, but her fledgling relationship with Jacob did not work out because his culinary tastes were simply too parochial; \"After all,\" she quipped on her blog, \"he considered Chef Boyardee ethnic food.\"", 
+            "meaning": "narrowly restricted in scope or outlook", 
+            "meaning_bg": "", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "parsimonious": [
+        {
+            "ant": "", 
+            "example": "Katie is so parsimonious that she only buys a pair of socks if all of her other socks have holes in them.", 
+            "meaning": "extremely frugal; miserly", 
+            "meaning_bg": "\u043f\u0435\u0441\u0442\u0435\u043b\u0438\u0432", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
     "pejorative": [
         {
             "ant": "", 
@@ -400,6 +717,17 @@
             "note": "This word has other definitions but this is the most important one for the GRE", 
             "syn": "", 
             "type": "adj."
+        }
+    ], 
+    "perfidy": [
+        {
+            "ant": "", 
+            "example": "The lowest circles in Dante's Inferno were for those who had practiced perfidy, and among these, the very lowest was for those, such as Judas, who had been treacherous to one of their benefactors.", 
+            "meaning": "deliberate betrayal; breach of a trust", 
+            "meaning_bg": "\u043a\u043e\u0432\u0430\u0440\u0441\u0442\u0432\u043e, \u0438\u0437\u043c\u044f\u043d\u0430", 
+            "note": "", 
+            "syn": "", 
+            "type": "noun"
         }
     ], 
     "poignant": [
@@ -431,6 +759,28 @@
             "note": "", 
             "syn": "", 
             "type": "adj."
+        }
+    ], 
+    "predilection": [
+        {
+            "ant": "", 
+            "example": "Monte had a predilection for the fine things in life: Cuban cigars, 200 dollar bottles of wine, and trips to the French Riviera.", 
+            "meaning": "a strong liking", 
+            "meaning_bg": "\u043f\u0440\u0435\u0434\u043f\u043e\u0447\u0438\u0442\u0430\u043d\u0438\u0435, \u043f\u0440\u0438\u0441\u0442\u0440\u0430\u0441\u0442\u0438\u0435", 
+            "note": "", 
+            "syn": "", 
+            "type": "noun"
+        }
+    ], 
+    "prevaricate": [
+        {
+            "ant": "", 
+            "example": "The cynic quipped, \"There is not much variance in politicians; they all seem to prevaricate\".", 
+            "meaning": "to speak in an evasive way", 
+            "meaning_bg": "\u0433\u043e\u0432\u043e\u0440\u044f \u0443\u043a\u043b\u043e\u043d\u0447\u0438\u0432\u043e", 
+            "note": "", 
+            "syn": "", 
+            "type": "verb"
         }
     ], 
     "prodigious": [
@@ -466,6 +816,28 @@
             "type": "noun"
         }
     ], 
+    "quotidian": [
+        {
+            "ant": "", 
+            "example": "Phil gets so involved thinking about Aristotle's arguments that he totally forgets quotidian concerns, such as exercising and eating regularly.", 
+            "meaning": "ordinary, everyday, daily; found in the ordinary course of events", 
+            "meaning_bg": "\u0435\u0436\u0435\u0434\u043d\u0435\u0432\u0435\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "refractory": [
+        {
+            "ant": "", 
+            "example": "Used to studious high school students, Martha was unprepared for the refractory Kindgergarteners who neither sat still nor listened to a single word she said.", 
+            "meaning": "stubbornly resistant to authority or control", 
+            "meaning_bg": "", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
     "specious": [
         {
             "ant": "", 
@@ -486,6 +858,28 @@
             "type": "adj."
         }
     ], 
+    "spurious": [
+        {
+            "ant": "", 
+            "example": "When listening to a politician speak, it is hard to distinguish the spurious claims from the authentic ones.", 
+            "meaning": "forged, false, fake", 
+            "meaning_bg": "\u0444\u0430\u043b\u0448\u0438\u0444\u0438\u0446\u0438\u0440\u0430\u043d, \u043f\u043e\u0434\u043f\u0440\u0430\u0432\u0435\u043d", 
+            "note": "", 
+            "syn": " counterfeit", 
+            "type": "adj."
+        }
+    ], 
+    "staunch": [
+        {
+            "ant": "", 
+            "example": "No longer a staunch supporter of the movement, Todd now will openly question whether its goals are worthwhile.", 
+            "meaning": "very loyal and committed in attitude", 
+            "meaning_bg": "\u0432\u0435\u0440\u0435\u043d, \u043b\u043e\u044f\u043b\u0435\u043d, \u0442\u0432\u044a\u0440\u0434", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
     "subversive": [
         {
             "ant": "", 
@@ -497,12 +891,34 @@
             "type": "adj."
         }
     ], 
+    "supplant": [
+        {
+            "ant": "", 
+            "example": "For many, a cell phone has supplanted a traditional phone; in fact, most 20-somethings don't even have a traditional phone anymore.", 
+            "meaning": "supersede and replace", 
+            "meaning_bg": "\u0438\u0437\u043c\u0435\u0441\u0442\u0432\u0430\u043c, \u0438\u0437\u0431\u0443\u0442\u0432\u0430\u043c", 
+            "note": "", 
+            "syn": "", 
+            "type": "verb"
+        }
+    ], 
     "taciturn": [
         {
             "ant": "", 
             "example": "While the CEO enthusiastically shares his plans and agenda with all who will listen, the CFO is far more taciturn, rarely revealing his perspective.", 
             "meaning": "reserved and uncommunicative", 
             "meaning_bg": "\u043c\u044a\u043b\u0447\u0430\u043b\u0438\u0432, \u043d\u0435\u043e\u0431\u0449\u0438\u0442\u0435\u043b\u0435\u043d, \u0441\u0434\u044a\u0440\u0436\u0430\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "tantamount": [
+        {
+            "ant": "", 
+            "example": "In many situations, remaining silent is tantamount to admitting guilt, so speak to prove your innocence.", 
+            "meaning": "equivalent in seriousness; virtually the same as", 
+            "meaning_bg": "\u0440\u0430\u0432\u043d\u043e\u0441\u0438\u043b\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -519,6 +935,17 @@
             "type": "adj."
         }
     ], 
+    "torpor": [
+        {
+            "ant": "", 
+            "example": "After work, I was expecting my colleagues to be enthusiastic about the outing, but I found them in a state of complete torpor.", 
+            "meaning": "physical or mental inactivity due to lack of vigor", 
+            "meaning_bg": "", 
+            "note": "", 
+            "syn": "lethargy", 
+            "type": "noun"
+        }
+    ], 
     "tractable": [
         {
             "ant": "", 
@@ -528,6 +955,28 @@
             "note": "", 
             "syn": "", 
             "type": "adj."
+        }
+    ], 
+    "vociferous": [
+        {
+            "ant": "", 
+            "example": "In giving Marcia a particular vociferous response, Paul caused people at every other table in the restaurant to turn around an look at them angrily.", 
+            "meaning": "conspicuously and offensively loud; characterized by vehement opinions", 
+            "meaning_bg": "\u0433\u043b\u0430\u0441\u043e\u0432\u0438\u0442, \u0433\u0440\u044a\u043c\u043e\u0433\u043b\u0430\u0441\u0435\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "volubility": [
+        {
+            "ant": "", 
+            "example": "The professor's volubility knows no bounds; he could talk through a hurricane and elaborate a point from one St. Patrick's Day to the next.", 
+            "meaning": "the quality of talking  fluently, easily, or incessantly", 
+            "meaning_bg": "\u043f\u0440\u0438\u043a\u0430\u0437\u043b\u0438\u0432\u043e\u0441\u0442, \u0441\u043b\u043e\u0432\u043e\u043e\u0445\u043e\u0442\u043b\u0438\u0432\u043e\u0441\u0442, \u0431\u044a\u0431\u0440\u0438\u0432\u043e\u0441\u0442", 
+            "note": "", 
+            "syn": "", 
+            "type": "noun"
         }
     ]
 }

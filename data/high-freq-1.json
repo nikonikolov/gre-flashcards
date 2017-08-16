@@ -349,7 +349,7 @@
         {
             "ant": "", 
             "example": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fall for any ruse, regardless of how elaborate.", 
-            "meaning": "to be naive and innocent", 
+            "meaning": "naive and innocent", 
             "meaning_bg": "", 
             "note": "", 
             "syn": "", 
@@ -372,7 +372,7 @@
             "ant": "", 
             "example": "At first Manfred's teachers intimated to his parents that he was not suited to skip a grade; when his parents protested, teachers explicitly told them that, notwithstanding the boy's precocity, he was simply too immature to jump to the 6th grade.", 
             "meaning": "to suggest something subtly", 
-            "meaning_bg": "", 
+            "meaning_bg": "\u043d\u0430\u043c\u0435\u043a\u0432\u0430\u043c", 
             "note": "This word has other definitions but this is the most important one for the GRE", 
             "syn": "", 
             "type": "verb"
@@ -415,7 +415,7 @@
         {
             "ant": "", 
             "example": "The fact that Ella's moods were as mercurial as the weather was problematic for her relationships - it didn't help that she lived in Chicago.", 
-            "meaning": "prone to unexpected and unpredictable changes in mood (about a person); fickle", 
+            "meaning": "prone to unexpected changes in mood (about a person); fickle", 
             "meaning_bg": "\u043f\u0440\u043e\u043c\u0435\u043d\u043b\u0438\u0432", 
             "note": "", 
             "syn": "", 
@@ -507,7 +507,7 @@
         }, 
         {
             "ant": "", 
-            "example": "Chris qualified his love for San Francisco, adding that he didn't like the weather as much as the weather in Los Angeles.\nUnable to give the candidate full support, the mayor gave him only a qualified endorsement.", 
+            "example": "Chris qualified his love for San Francisco, adding that he didn't like the weather as much as the weather in Los Angeles. || Unable to give the candidate full support, the mayor gave him only a qualified endorsement.", 
             "meaning": "to limit, restrict (a statement); to make less severe", 
             "meaning_bg": "", 
             "note": "", 
@@ -585,7 +585,7 @@
         {
             "ant": "", 
             "example": "Even seven Tour de France wins cannot vindicate Lance Armstrong in the eyes of the public - that the athlete used performance enhancing drugs invalidates all those wins.", 
-            "meaning": "to clear of accusation, blame, suspicion, or doubt with supporting arguments or proof", 
+            "meaning": "to clear of accusation or blame with supporting arguments or proof", 
             "meaning_bg": "", 
             "note": "", 
             "syn": "", 

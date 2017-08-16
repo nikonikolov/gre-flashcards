@@ -20,6 +20,7 @@ add the ones that you need
 - disdain (haughty)
 - wretched (forlorn)
 - sumptuous (opulence)
+- incendiary (inflammable)
 
 
 ## Initial list counts
