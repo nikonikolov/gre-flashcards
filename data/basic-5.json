@@ -14,7 +14,7 @@
         {
             "ant": "", 
             "example": "Sometimes I can't stand Nathan because he tries to impress everyone by being aphoristic, but he just states the obvious.", 
-            "meaning": "something that is a concise and instructive of a general truth or principle", 
+            "meaning": "making pithy observations which contain general truths", 
             "meaning_bg": "", 
             "note": "", 
             "syn": "", 
@@ -25,8 +25,8 @@
         {
             "ant": "", 
             "example": "Not one for social pleasantries, the Chief of Staff would brusquely ask his subordinates anything he wanted, even coffee.", 
-            "meaning": "in a blunt, direct manner", 
-            "meaning_bg": "", 
+            "meaning": "in an abrupt, blunt and direct manner", 
+            "meaning_bg": "\u0440\u044f\u0437\u043a\u043e, \u0433\u0440\u0443\u0431\u043e, \u0431\u0435\u0437\u0446\u0435\u0440\u0435\u043c\u043e\u043d\u043d\u043e", 
             "note": "", 
             "syn": "", 
             "type": "adv."
@@ -47,8 +47,8 @@
         {
             "ant": "", 
             "example": "Many have argued that Lee Harvey Oswald, JFK's assassin, was in collusion with other criminals; others maintain that Oswald was a lone gunman.", 
-            "meaning": "agreement on a secret plot", 
-            "meaning_bg": "", 
+            "meaning": "agreement on a secret and fraudulent plot", 
+            "meaning_bg": "\u0437\u0430\u0433\u043e\u0432\u043e\u0440", 
             "note": "", 
             "syn": "", 
             "type": "noun"
@@ -153,8 +153,8 @@
         {
             "ant": "", 
             "example": "Despite all their talented players, the team was filled with discord - some players refused to talk to others - and lost most of their games.", 
-            "meaning": "lack of agreement or harmony", 
-            "meaning_bg": "", 
+            "meaning": "conflict, lack of agreement or harmony", 
+            "meaning_bg": "\u0440\u0430\u0437\u0434\u043e\u0440, \u0440\u0430\u0437\u043d\u043e\u0433\u043b\u0430\u0441\u0438\u0435", 
             "note": "", 
             "syn": "", 
             "type": "noun"
@@ -164,7 +164,7 @@
         {
             "ant": "", 
             "example": "Stranded in a cabin over the winter, Terry was able to eke out an existence on canned food.", 
-            "meaning": "To live off meager resources, to scrape by", 
+            "meaning": "live off meager resources and with difficulty", 
             "meaning_bg": "", 
             "note": "", 
             "syn": "", 
@@ -197,8 +197,8 @@
         {
             "ant": "", 
             "example": "Charles rude remark toward Sarah yesterday was due to his illness, not due to any real enmity toward Sarah.", 
-            "meaning": "a state of deep-seated ill-will", 
-            "meaning_bg": "", 
+            "meaning": "deep-seated ill-will, hatred", 
+            "meaning_bg": "\u0437\u043b\u043e\u0431\u0430", 
             "note": "", 
             "syn": "", 
             "type": "noun"
@@ -219,7 +219,7 @@
         {
             "ant": "", 
             "example": "Lincoln exemplified the best of not only America, but also the potential greatness that exists within each person.", 
-            "meaning": "be characteristic of", 
+            "meaning": "serve as an example of, embody", 
             "meaning_bg": "", 
             "note": "", 
             "syn": "", 
@@ -228,7 +228,7 @@
         {
             "ant": "", 
             "example": "Please present some case studies that exemplify the results that you claim in your paper.", 
-            "meaning": "clarify by giving an example of", 
+            "meaning": "illustrate or clarify by giving an example of", 
             "meaning_bg": "", 
             "note": "", 
             "syn": "", 
@@ -261,8 +261,8 @@
         {
             "ant": "", 
             "example": "The impending doom of our world has been a discussed and debated for 2000 years - maybe even longer.", 
-            "meaning": "close in time; about to occur", 
-            "meaning_bg": "", 
+            "meaning": "about to happen", 
+            "meaning_bg": "\u043f\u0440\u0435\u0434\u0441\u0442\u043e\u044f\u0449, \u043d\u0435\u0438\u0437\u0431\u0435\u0436\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -283,8 +283,8 @@
         {
             "ant": "", 
             "example": "My little sister has a way of irking and annoying me like no other person.", 
-            "meaning": "irritate or vex", 
-            "meaning_bg": "", 
+            "meaning": "irritate, annoy, vex", 
+            "meaning_bg": "\u0434\u0440\u0430\u0437\u043d\u044f", 
             "note": "", 
             "syn": "", 
             "type": "verb"
@@ -305,8 +305,8 @@
         {
             "ant": "", 
             "example": "Villians are known for their malevolent nature, oftentimes inflicting cruetly on others just for enjoyment.", 
-            "meaning": "wishing or appearing to wish evil to others; arising from intense ill will or hatred", 
-            "meaning_bg": "", 
+            "meaning": "wishing evil to others", 
+            "meaning_bg": "\u0437\u043b\u043e\u0431\u0435\u043d, \u043e\u0442\u043c\u044a\u0441\u0442\u0438\u0442\u0435\u043b\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -349,8 +349,8 @@
         {
             "ant": "", 
             "example": "Our office manager is peevish, so the rest of us tip-toe around him, hoping not to set off another one of his fits.", 
-            "meaning": "easily irritated or annoyed", 
-            "meaning_bg": "", 
+            "meaning": "easily irritated or annoyed, petulant", 
+            "meaning_bg": "\u0441\u044a\u0440\u0434\u0438\u0442, \u0438\u0437\u0431\u0443\u0445\u043b\u0438\u0432, \u0434\u043e\u043a\u0430\u0447\u043b\u0438\u0432", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -360,8 +360,8 @@
         {
             "ant": "", 
             "example": "Now that Henry is recovering from a major illnesses, he no longer lets the little trivialities, such as late mail, perturb him.", 
-            "meaning": "disturb in mind or cause to be worried or alarmed", 
-            "meaning_bg": "", 
+            "meaning": "disturb", 
+            "meaning_bg": "\u0442\u0440\u0435\u0432\u043e\u0436\u0430, \u0441\u043c\u0443\u0449\u0430\u0432\u0430\u043c, \u043e\u0431\u0435\u0437\u043f\u043e\u043a\u043e\u044f\u0432\u0430\u043c", 
             "note": "", 
             "syn": "", 
             "type": "verb"
@@ -383,7 +383,7 @@
             "ant": "", 
             "example": "Dennis arranged an elaborate ploy, involving 14 different people lying for him in different situations, so that it could appear that he was meeting Mary completely by chance at the wedding reception.", 
             "meaning": "a clever plan to turn a situation to one's advantage", 
-            "meaning_bg": "", 
+            "meaning_bg": "\u043c\u0430\u043d\u0435\u0432\u0440\u0430, \u0442\u0430\u043a\u0442\u0438\u043a\u0430, \u0437\u0430\u0433\u043e\u0432\u043e\u0440", 
             "note": "", 
             "syn": "", 
             "type": "noun"
@@ -414,7 +414,7 @@
             "ant": "", 
             "example": "In one of the most famous quips about classical music, Mark Twain said: \"Wagner's music is better than it sounds.\"", 
             "meaning": "a witty saying or remark", 
-            "meaning_bg": "", 
+            "meaning_bg": "\u043e\u0441\u0442\u0440\u043e\u0443\u043c\u043d\u0430 \u0437\u0430\u0431\u0435\u043b\u0435\u0436\u043a\u0430", 
             "note": "", 
             "syn": "", 
             "type": "noun"
@@ -424,8 +424,8 @@
         {
             "ant": "", 
             "example": "Although Bruce was able to make the delivery in time with a nightime motorcycle ride in the rain, Susan criticized his actions as rash.", 
-            "meaning": "marked by defiant disregard for danger or consequences; imprudently incurring risk", 
-            "meaning_bg": "", 
+            "meaning": "done without careful consideration of the possible consequences; impetuous", 
+            "meaning_bg": "\u0431\u0435\u0437\u0440\u0430\u0437\u0441\u044a\u0434\u0435\u043d, \u043f\u0440\u0438\u0431\u044a\u0440\u0437\u0430\u043d, \u043d\u0435\u043e\u0431\u043b\u043c\u0438\u0441\u043b\u0435\u043d", 
             "note": "This word has other definitions but this is the most important one for the GRE", 
             "syn": "", 
             "type": "adj."
@@ -445,9 +445,9 @@
     "retract": [
         {
             "ant": "", 
-            "example": "under pressure Email is wonderfully efficient, but once something awkward or damaging has been sent, there is no way to retract it.", 
-            "meaning": "pull inward or towards a center; formally reject or disavow a formerly held belief, usually", 
-            "meaning_bg": "", 
+            "example": "Email is wonderfully efficient, but once something awkward or damaging has been sent, there is no way to retract it.", 
+            "meaning": "withdraw, take back", 
+            "meaning_bg": "\u043e\u0442\u0442\u0435\u0433\u043b\u044f\u043c", 
             "note": "", 
             "syn": "", 
             "type": "verb"
@@ -508,8 +508,8 @@
         {
             "ant": "", 
             "example": "Fearing his money would be squandered by his family, he gave all of it to charity when he died.", 
-            "meaning": "spend thoughtlessly; waste time, money, or an opportunity", 
-            "meaning_bg": "", 
+            "meaning": "waste in a fooling manner", 
+            "meaning_bg": "\u043f\u0440\u0430\u0445\u043e\u0441\u0432\u0430\u043c, \u043f\u0438\u043b\u0435\u044f", 
             "note": "", 
             "syn": "", 
             "type": "verb"
@@ -519,8 +519,8 @@
         {
             "ant": "", 
             "example": "A good captain needs to be steadfast, continuing to hold the wheel and stay the course even during the most violent storm.", 
-            "meaning": "marked by firm determination or resolution; not shakable", 
-            "meaning_bg": "", 
+            "meaning": "resolutely firm, unwavering, unswerving", 
+            "meaning_bg": "\u0442\u0432\u044a\u0440\u0434, \u0443\u0432\u0435\u0440\u0435\u043d, \u043d\u0435\u043f\u043e\u043a\u043e\u043b\u0435\u0431\u0438\u043c", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -541,8 +541,8 @@
         {
             "ant": "", 
             "example": "Pete Rose was one of the best baseball players of his generation, but his involvement with gambling on baseball games has tarnished his image in the eyes of many.", 
-            "meaning": "make dirty or spotty, as by exposure to air; also used metaphorically", 
-            "meaning_bg": "", 
+            "meaning": "make or become less valuable or respected", 
+            "meaning_bg": "\u043e\u043f\u0435\u0442\u043d\u044f\u0432\u0430\u043c, \u0433\u0443\u0431\u044f \u043b\u044a\u0441\u043a\u0430\u0432\u0438\u043d\u0430\u0442\u0430 \u0441\u0438", 
             "note": "", 
             "syn": "", 
             "type": "verb"
@@ -596,8 +596,8 @@
         {
             "ant": "", 
             "example": "He acted in an unseemly manner, insulting the hostess and then speaking ill of her deceased husband.", 
-            "meaning": "not in keeping with accepted standards of what is right or proper in polite society", 
-            "meaning_bg": "", 
+            "meaning": "unbecoming, indecent, not proper", 
+            "meaning_bg": "\u043d\u0435\u043f\u0440\u0438\u043b\u0438\u0447\u0435\u043d, \u043d\u0435\u043f\u0440\u0438\u0441\u043e\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."

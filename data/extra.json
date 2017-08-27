@@ -1,10 +1,76 @@
 {
+    "bogus": [
+        {
+            "ant": "", 
+            "example": "The police quickly found the distributors of the bogus twenty-dollar bills.", 
+            "meaning": "not genuine or true, counterfeit (usually for deception)", 
+            "meaning_bg": "", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "fanciful": [
+        {
+            "ant": "", 
+            "example": "None", 
+            "meaning": "over-imaginative and unrealistic", 
+            "meaning_bg": "\u043d\u0435\u0440\u0435\u0430\u043b\u0435\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "harbinger": [
+        {
+            "ant": "", 
+            "example": "The crocus is an early harbinger of spring.", 
+            "meaning": "forerunner", 
+            "meaning_bg": "\u043f\u0440\u0435\u0434\u0432\u0435\u0441\u0442\u043d\u0438\u043a", 
+            "note": "", 
+            "syn": "", 
+            "type": "noun"
+        }
+    ], 
     "licentious": [
         {
             "ant": "", 
             "example": "Unscrupulously seducing the daughter of his host, Don Juan felt no qualms about the immorality of his licentious behavior.", 
             "meaning": "amoral, lustful, lewd and lascivious, unrestrained, promiscuous", 
             "meaning_bg": "\u0431\u0435\u0437\u043d\u0440\u0430\u0432\u0441\u0442\u0432\u0435\u043d, \u043d\u0435\u0432\u044a\u0437\u0434\u044a\u0440\u0436\u0430\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "scathing": [
+        {
+            "ant": "", 
+            "example": "None", 
+            "meaning": "witheringly scornful, severely critical", 
+            "meaning_bg": "\u0443\u043d\u0438\u0449\u043e\u0436\u0438\u0442\u0435\u043b\u0435\u043d", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "stingy": [
+        {
+            "ant": "", 
+            "example": "Scrooge was an ungenerous old skinflint until he reformed his ways and became a notable philanthropist.", 
+            "meaning": "miserly, mean, ungenerous", 
+            "meaning_bg": "\u0441\u043a\u044a\u043f\u0435\u0440\u043d\u0438\u0447\u0435\u0441\u043a\u0438", 
+            "note": "", 
+            "syn": "", 
+            "type": "adj."
+        }
+    ], 
+    "tenuous": [
+        {
+            "ant": "", 
+            "example": "The allegiance of our allies is based on such tenuous ties that we have little hope they will remain loyal.", 
+            "meaning": "very weak or slight, insubstantial", 
+            "meaning_bg": "\u0441\u043b\u0430\u0431, \u0442\u044a\u043d\u044a\u043a, \u043d\u0435\u0437\u043d\u0430\u0447\u0438\u0442\u0435\u043b\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."

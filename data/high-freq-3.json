@@ -100,7 +100,7 @@
         {
             "ant": "", 
             "example": "After a brief summary of proper swimming technique, the coach delineated the specifics of each stroke, spending 30 minutes alone on the backstroke.", 
-            "meaning": "describe in detail", 
+            "meaning": "depict; describe in detail", 
             "meaning_bg": "", 
             "note": "", 
             "syn": "", 
@@ -239,7 +239,7 @@
         {
             "ant": "", 
             "example": "None", 
-            "meaning": "cause (someone) to feel upset or annoyed as a result of being unable to change or achieve something.", 
+            "meaning": "upset someone", 
             "meaning_bg": "", 
             "note": "", 
             "syn": "", 
@@ -251,7 +251,7 @@
             "ant": "", 
             "example": "At first I thought my niece was guileless, but I then found myself buying her ice cream every time we passed a shop.", 
             "meaning": "free of deceit; innocent and without deception", 
-            "meaning_bg": "\u043d\u0435\u0432\u0438\u043d\u0435\u043d, \u043e\u0442\u043a\u0440\u043e\u0432\u0435\u043d", 
+            "meaning_bg": "\u0447\u0435\u0441\u0442\u0435\u043d, \u043e\u0442\u043a\u0440\u043e\u0432\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -426,7 +426,7 @@
         {
             "ant": "", 
             "example": "Phil gets so involved thinking about Aristotle's arguments that he totally forgets quotidian concerns, such as exercising and eating regularly.", 
-            "meaning": "ordinary, everyday, daily; found in the ordinary course of events", 
+            "meaning": "occurring every day, ordinary, daily", 
             "meaning_bg": "\u0435\u0436\u0435\u0434\u043d\u0435\u0432\u0435\u043d", 
             "note": "", 
             "syn": "", 
@@ -437,8 +437,8 @@
         {
             "ant": "", 
             "example": "Used to studious high school students, Martha was unprepared for the refractory Kindgergarteners who neither sat still nor listened to a single word she said.", 
-            "meaning": "stubbornly resistant to authority or control", 
-            "meaning_bg": "", 
+            "meaning": "stubborn and unmanageable", 
+            "meaning_bg": "\u043d\u0435\u043f\u043e\u043a\u043e\u0440\u0435\u043d, \u043d\u0435\u043f\u043e\u0441\u043b\u0443\u0448\u0435\u043d", 
             "note": "This word has other definitions but this is the most important one for the GRE", 
             "syn": "", 
             "type": "adj."

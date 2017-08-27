@@ -31,7 +31,12 @@ $(document).ready( function() {
       });
     }
   ); 
-
+  
+  $(document).keypress(function (e) {
+    if (e.which == 13) {
+      $('#submit-btn').trigger('click');
+    }
+  });
 
   $('#submit-btn').click( 
     function() {

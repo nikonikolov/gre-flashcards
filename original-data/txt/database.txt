@@ -1366,10 +1366,9 @@ embroiled (adjective): involved in argument or contention
 These days we are never short of a D.C. politician embroiled in scandal--a welcome phenomenon for
 those who, having barely finished feasting on the sordid details of one imbroglio, can sink their teeth into
 a fresh one.
-empathetic (adjective): showing understanding and ready comprehension of other peoples' states and
-emotions
+empathetic (adjective): showing understanding and ready comprehension of other peoples' states and emotions
 Most discrimination and hatred is based on a lack of empathetic awareness of people that have the
-same aspitations and fears.
+same aspirations and fears.
 emulate (verb): strive to equal or match, especially by imitating; compete with successfully
 
 To really become fluent in a new language, emulate the speech patterns and intonation of people who
@@ -1795,8 +1794,7 @@ back at them, "Hey, you think this is easy -- why don"t you buffoons give it a s
 qualm (noun): uneasiness about the fitness of an action
 While he could articulate no clear reason why Harkner's plan would fail, he neverless felt qualms about
 committing any resources to it.
-quandary (noun): state of uncertainty or perplexity especially as requiring a choice between equally
-unfavorable options
+quandary (noun): state of uncertainty or perplexity especially as requiring a choice between equally unfavorable options
 Steve certainly is in a quandary: if he doesn't call Elaine, she will blame him for everything, but if he does
 call her, the evidence of where he currently is could cost him his job.
 quip (noun): a witty saying or remark
@@ -1859,8 +1857,7 @@ retiring (adjective): to be shy, and to be inclined to retract from company
 Nelson was always the first to leave soirees--rather than mill about with "fashionable" folk, he was
 retiring, and preferred the solitude of his garret.
 
-retract (verb): pull inward or towards a center; formally reject or disavow a formerly held belief, usually
-under pressure
+retract (verb): pull inward or towards a center; formally reject or disavow a formerly held belief, usually under pressure
 Email is wonderfully efficient, but once something awkward or damaging has been sent, there is no way
 to retract it.
 rile (verb): cause annoyance in; disturb, especially by minor irritations
@@ -2018,8 +2015,7 @@ even combinations and permutations questions.
 unprecedented (adjective): having never been done or known before; novel
 When America first created its national parks, the idea of setting aside the most beautiful land in a
 country was unprecedented in the history of mankind.
-unruly (adjective): (of persons) noisy and lacking in restraint or discipline; unwilling to submit to
-authority
+unruly (adjective): (of persons) noisy and lacking in restraint or discipline; unwilling to submit to authority
 Walk in to any preschool and I am sure that you will find an unruly and chaotic scene--unless it's nap
 time.
 unseemly (adjective): not in keeping with accepted standards of what is right or proper in polite society
@@ -2040,8 +2036,7 @@ The cynic quipped, "There is not much variance in politicians; they all seem to 
 veneer (noun): covering consisting of a thin superficial layer that hides the underlying substance
 Mark Twain referred to the Victorian Period in America as the "Gilded Age", implying the ample moral
 corruption that lay beneath a mere veneer of respectability.
-vicarious (adjective): felt or undergone as if one were taking part in the experience or feelings of
-another
+vicarious (adjective): felt or undergone as if one were taking part in the experience or feelings of another
 The advent of twitter is a celebrity stalker's dream, as he or she can--through hundreds of intimate
 "tweets"--vicariously live the life of a famous person.
 vie (verb): compete for something

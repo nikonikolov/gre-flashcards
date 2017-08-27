@@ -112,7 +112,7 @@
             "ant": "", 
             "example": "Despite an auspicious beginning, Mike's road trip became a series of mishaps, and he was soon stranded and penniless, leaning against his wrecked automobile.", 
             "meaning": "favorable, the opposite of sinister", 
-            "meaning_bg": "\u043f\u0440\u0435\u0434\u0432\u0435\u0449\u0430\u0432\u0430\u0449 \u0434\u043e\u0431\u0440\u043e, \u0441\u0432\u0435\u0442\u044a\u043b", 
+            "meaning_bg": "\u043f\u0440\u0435\u0434\u0432\u0435\u0449\u0430\u0432\u0430\u0449 \u0434\u043e\u0431\u0440\u043e, \u0431\u043b\u0430\u0433\u043e\u043f\u0440\u0438\u044f\u0442\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -122,7 +122,7 @@
         {
             "ant": "", 
             "example": "The smile on her face belies the pain she must feel after the death of her husband.", 
-            "meaning": "to give a false representation to; misrepresent", 
+            "meaning": "misrepresent; to give a false representation to", 
             "meaning_bg": "", 
             "note": "", 
             "syn": "", 
@@ -339,7 +339,7 @@
             "ant": "", 
             "example": "Dexter, distraught over losing his pet dachshund, Madeline, found the police officer's questions impertinent - after all, he thought, did she have to pry into such details as to what Madeline's favorite snack was?", 
             "meaning": "not pertinent to a particular manner, irrelevant", 
-            "meaning_bg": "\u043d\u0435 \u043f\u043e \u0432\u044a\u043f\u0440\u043e\u0441\u0430", 
+            "meaning_bg": "\u043d\u0435 \u043f\u043e \u0432\u044a\u043f\u0440\u043e\u0441\u0430, \u043d\u0435\u0443\u043c\u0435\u0441\u0442\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -469,21 +469,12 @@
     "profligate": [
         {
             "ant": "frugal", 
-            "example": "The wife's profligate spending depleted all the savings of the husband.", 
-            "meaning": "spending money recklessly or wastefully", 
+            "example": "The wife's profligate spending depleted all the savings of the husband. | Most lottery winners go from being conservative, frugal types to outright profligates who blow millions on fast cars, lavish homes, and giant yachts.", 
+            "meaning": "spending money recklessly or wastefully (also noun)", 
             "meaning_bg": "", 
             "note": "", 
             "syn": "prodigal", 
             "type": "adj."
-        }, 
-        {
-            "ant": "", 
-            "example": "Most lottery winners go from being conservative, frugal types to outright profligates who blow millions on fast cars, lavish homes, and giant yachts.", 
-            "meaning": "someone who spends money recklessly or wastefully", 
-            "meaning_bg": "", 
-            "note": "", 
-            "syn": "", 
-            "type": "noun"
         }, 
         {
             "ant": "", 
@@ -498,19 +489,10 @@
     "qualify": [
         {
             "ant": "", 
-            "example": "If James had made more than $50,000 last year, then he wouldn't have qualified for the low-income scholarship.", 
-            "meaning": "to be legally competent or capable", 
-            "meaning_bg": "", 
-            "note": "", 
-            "syn": "", 
-            "type": "adj."
-        }, 
-        {
-            "ant": "", 
             "example": "Chris qualified his love for San Francisco, adding that he didn't like the weather as much as the weather in Los Angeles. || Unable to give the candidate full support, the mayor gave him only a qualified endorsement.", 
             "meaning": "to limit, restrict (a statement); to make less severe", 
             "meaning_bg": "", 
-            "note": "", 
+            "note": "This word has other definitions but this is the most important one for the GRE", 
             "syn": "", 
             "type": "verb"
         }

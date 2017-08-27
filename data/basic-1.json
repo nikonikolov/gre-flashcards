@@ -114,7 +114,7 @@
             "ant": "", 
             "example": "The conspirators, willing to dispatch anyone who stood in their way, hatched a diabolical plan to take over the city.", 
             "meaning": "extremely wicked and evil, like the devil", 
-            "meaning_bg": "\u0434\u044f\u0432\u043e\u043b\u0441\u043a\u0438, \u0436\u0435\u0441\u0442\u043e\u043a, \u0441\u0430\u0442\u0438\u043d\u0438\u0447\u0435\u043d", 
+            "meaning_bg": "\u0437\u044a\u043b, \u0436\u0435\u0441\u0442\u043e\u043a, \u0441\u0430\u0442\u0438\u043d\u0438\u0447\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -135,7 +135,7 @@
         {
             "ant": "", 
             "example": "Once again a get-rich-fast Internt scheme had duped Harold into submitting a $5,000 check to a sham operation.", 
-            "meaning": "trick, swindle, deveive", 
+            "meaning": "trick, swindle, deceive", 
             "meaning_bg": "\u043f\u043e\u0434\u043b\u044a\u0432\u0430\u043c, \u043c\u0430\u043c\u044f, \u043f\u043e\u0434\u0445\u043b\u044a\u0437\u0432\u0430\u043c", 
             "note": "", 
             "syn": "", 
@@ -177,7 +177,7 @@
         {
             "ant": "", 
             "example": "It came as no surprise to pundits that the President's attempt at re-election floundered; even during his term, support for his policies was erratic, with an approval rating jumping anywhere from 30 to 60 percent.", 
-            "meaning": "not even or regular in pattern or movement; unpredictable", 
+            "meaning": "unpredictable, not even or regular in pattern or movement", 
             "meaning_bg": "\u043d\u0435\u043f\u043e\u0441\u0442\u043e\u044f\u043d\u0435\u043d, \u043f\u0440\u043e\u043c\u0435\u043d\u043b\u0438\u0432, \u0438\u0437\u043c\u0435\u043d\u0447\u0438\u0432", 
             "note": "", 
             "syn": "", 
@@ -221,8 +221,8 @@
         {
             "ant": "", 
             "example": "When the cyclist swerved into traffic, it forced the driver to brake and elicited an indignant shout of \"Hey, punk, watch where you're going!\"", 
-            "meaning": "feeling anger over a perceived injustice", 
-            "meaning_bg": "", 
+            "meaning": "angry over a perceived injustice", 
+            "meaning_bg": "\u0432\u044a\u0437\u043c\u0443\u0442\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -265,7 +265,7 @@
         {
             "ant": "", 
             "example": "Edgar Allen Poe was considered the master of the macabre; his stories vividly describe the moment leading up to - and often those moments after - a grisly death.", 
-            "meaning": "disturbing and horrifying because of involvement with or depiction of death; gruesome", 
+            "meaning": "horrifying because of involvement with or depiction of death; gruesome", 
             "meaning_bg": "\u0441\u0442\u0440\u0430\u0445\u043e\u0432\u0438\u0442, \u0443\u0436\u0430\u0441\u0435\u043d", 
             "note": "", 
             "syn": "", 
@@ -285,7 +285,7 @@
     ], 
     "miser": [
         {
-            "ant": "", 
+            "ant": "spendthrift", 
             "example": "Monte was no miser, but was simply frugal, wisely spending the little that he earned.", 
             "meaning": "a person who doesn't like to spend money (because he is greedy)", 
             "meaning_bg": "\u0441\u043a\u044a\u043f\u0435\u0440\u043d\u0438\u043a", 
@@ -331,7 +331,7 @@
         {
             "ant": "", 
             "example": "During mile 20 of the Hawaii Marathon, Dwayne was sweating so profusely that he stopped to take off his shirt, and ran the remaining six miles wearing nothing more than skimpy shorts.", 
-            "meaning": "plentiful, adundant", 
+            "meaning": "plentiful, abundant", 
             "meaning_bg": "\u0438\u0437\u043e\u0431\u0438\u043b\u0435\u043d, \u0431\u043e\u0433\u0430\u0442", 
             "note": "", 
             "syn": "", 
@@ -342,7 +342,7 @@
         {
             "ant": "", 
             "example": "Remiss in his duty to keep the school functioning efficiently, the principle was relieved of his position after only three months.", 
-            "meaning": "acking care or attention to duty; negligent", 
+            "meaning": "negligent; lacking care or attention to duty", 
             "meaning_bg": "\u043d\u0435\u0431\u0440\u0435\u0436\u0435\u043d, \u043d\u0435\u0438\u0437\u043f\u044a\u043b\u043d\u0438\u0442\u0435\u043b\u0435\u043d, \u0432\u044f\u043b", 
             "note": "", 
             "syn": "", 
@@ -397,7 +397,7 @@
         {
             "ant": "", 
             "example": "The office building had been constructed in a slapdash manner, so it did not surprise officials when, during a small earthquake, a large crack emerged on the facade of the building.", 
-            "meaning": "carelessly and hastily put together", 
+            "meaning": "done carelessly and hastily", 
             "meaning_bg": "\u043d\u0435\u0431\u0440\u0435\u0436\u0435\u043d, \u043f\u0440\u0438\u0431\u044a\u0440\u0437\u0430\u043d", 
             "note": "", 
             "syn": "", 
@@ -406,7 +406,7 @@
     ], 
     "spendthrift": [
         {
-            "ant": "", 
+            "ant": "miser", 
             "example": "Taking weekly trips to Vegas, Megan was a spendthrift whose excesses eventually caught up to her.", 
             "meaning": "one who spends money extravagantly", 
             "meaning_bg": "\u043f\u0440\u0430\u0445\u043e\u0441\u043d\u0438\u043a", 
@@ -450,8 +450,8 @@
         {
             "ant": "", 
             "example": "Her unbecoming dress was very telling when it came to her sense of fashion.", 
-            "meaning": "having a striking or revealing effect; significant", 
-            "meaning_bg": "\u0438\u0437\u0440\u0430\u0437\u0438\u0442\u0435\u043b\u0435\u043d, \u043c\u043d\u043e\u0433\u043e\u0437\u043d\u0430\u0447\u0438\u0442\u0435\u043b\u0435\u043d, \u043f\u0440\u0430\u0432\u0435\u0449 \u0441\u0438\u043b\u043d\u043e \u0432\u043f\u0435\u0447\u0430\u0442\u043b\u0435\u043d\u0438\u0435", 
+            "meaning": "striking and revealing; significant", 
+            "meaning_bg": "\u043f\u0440\u0430\u0432\u0435\u0449 \u0441\u0438\u043b\u043d\u043e \u0432\u043f\u0435\u0447\u0430\u0442\u043b\u0435\u043d\u0438\u0435", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -483,8 +483,8 @@
         {
             "ant": "", 
             "example": "As a thoroughgoing bibliophile, one who had turned his house into a veritable library, he shocked his friends when he bought a Kindle.", 
-            "meaning": "very thorough; complete; exemplifying a specified characteristic fully; absolute", 
-            "meaning_bg": "", 
+            "meaning": "exemplifying a specified characteristic fully; absolute", 
+            "meaning_bg": "\u0438\u0441\u0442\u0438\u043d\u0441\u043a\u0438, \u043f\u044a\u043b\u0435\u043d, \u0441\u044a\u0432\u044a\u0440\u0448\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -527,8 +527,8 @@
         {
             "ant": "", 
             "example": "At one time unnerved by math problems, she began avidly \"Magoosh-ing\", and soon became adept at even combinations and permutations questions.", 
-            "meaning": "make someone lose courage or confidence; upset", 
-            "meaning_bg": "\u0440\u0430\u0437\u0441\u0442\u0440\u043e\u0439\u0432\u0430\u043c; \u043b\u0438\u0448\u0430\u0432\u0430\u043c \u043e\u0442 \u0441\u0438\u043b\u0430, \u0442\u0432\u044a\u0440\u0434\u043e\u0441\u0442, \u043c\u044a\u0436\u0435\u0441\u0442\u0432\u043e", 
+            "meaning": "upset; make someone lose courage or confidence", 
+            "meaning_bg": "\u0440\u0430\u0437\u0441\u0442\u0440\u043e\u0439\u0432\u0430\u043c; \u043b\u0438\u0448\u0430\u0432\u0430\u043c \u043e\u0442 \u0441\u0438\u043b\u0430", 
             "note": "", 
             "syn": "", 
             "type": "verb"

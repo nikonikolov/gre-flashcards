@@ -81,7 +81,7 @@
             "ant": "", 
             "example": "Nearly every month our capricious CEO had a new plan to turn the company around, and none of them worked because we never gave them the time they needed to succeed.", 
             "meaning": "determined by impulse or whim rather than by reason", 
-            "meaning_bg": "", 
+            "meaning_bg": "\u043a\u0430\u043f\u0440\u0438\u0437\u0435\u043d, \u0441\u0432\u043e\u0435\u043d\u0440\u0430\u0432\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -91,7 +91,7 @@
         {
             "ant": "", 
             "example": "Those who show contrition during their prison terms - especially when under review by a parole board-often get shortened sentences.", 
-            "meaning": "the feeling of remorse or guilt after doing something bad", 
+            "meaning": "the feeling of remorse and penitence", 
             "meaning_bg": "\u0440\u0430\u0437\u043a\u0430\u044f\u043d\u0438\u0435", 
             "note": "", 
             "syn": "", 
@@ -279,7 +279,7 @@
             "ant": "", 
             "example": "Since the politician preached ethics and morality, his texting of revealing photographs was ignominious, bringing shame on both himself and his party.", 
             "meaning": "deserving or causing public disgrace or shame (about conduct)", 
-            "meaning_bg": "\u043f\u043e\u0437\u043e\u0440\u0435\u043d, \u0434\u043e\u043b\u0435\u043d, \u043d\u0435\u0447\u0435\u0441\u0442\u0435\u043d", 
+            "meaning_bg": "\u043f\u043e\u0437\u043e\u0440\u0435\u043d, \u0434\u043e\u043b\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -301,7 +301,7 @@
             "ant": "", 
             "example": "Hitler, like Napoleon, made the imprudent move of invading Russia in winter, suffering even more casualties than Napoleon had.", 
             "meaning": "not wise; rash", 
-            "meaning_bg": "\u043d\u0435\u043e\u0431\u043c\u0438\u0441\u043b\u0435\u043d, \u043d\u0435\u043f\u0440\u0435\u0434\u043f\u0430\u0437\u043b\u0438\u0432", 
+            "meaning_bg": "\u043d\u0435\u043e\u0431\u043c\u0438\u0441\u043b\u0435\u043d, \u043f\u0440\u0438\u0431\u044a\u0440\u0437\u0430\u043d, \u043d\u0435\u043f\u0440\u0435\u0434\u043f\u0430\u0437\u043b\u0438\u0432", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -364,7 +364,7 @@
     ], 
     "misconstrue": [
         {
-            "ant": "", 
+            "ant": "construe", 
             "example": "The politician never trusted journalists because he though that they misconstrue his words and misrepresent his positions.", 
             "meaning": "interpret in the wrong way", 
             "meaning_bg": "", 
@@ -377,7 +377,7 @@
         {
             "ant": "", 
             "example": "Nancy found doing dishes a thorougly mundane task, although Peter found a kind of Zen pleasure in the chore.", 
-            "meaning": "repetitive and boring; not spiritual", 
+            "meaning": "repetitive, boring and unshophisticated; not spiritual", 
             "meaning_bg": "\u043e\u0431\u0438\u043a\u043d\u043e\u0432\u0435\u043d, \u0434\u043e\u0441\u0430\u0434\u0435\u043d, \u0431\u0438\u0442\u043e\u0432", 
             "note": "", 
             "syn": "", 
