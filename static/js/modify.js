@@ -76,4 +76,21 @@ $(document).ready( function() {
     }
   );
 
+
+  $(document).keydown(
+    function (e){
+      if (e.keyCode == 13) {
+        $('#submit-btn').trigger('click');
+      }
+    }
+  )
+
+  $("input").keydown(
+    function (e){
+      if (e.keyCode == 13) {
+        $('#submit-btn').trigger('click');
+      }
+    }
+  )
+
 });

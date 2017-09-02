@@ -185,4 +185,43 @@ $(document).ready( function() {
   );
 
 
+  $(document).keydown(
+    function (e){
+      // console.log(e.keyCode);
+
+      // d
+      if (e.keyCode == 68) {
+        sendResponse(0);
+      }
+
+      // k
+      if (e.keyCode == 75) {
+        sendResponse(1);
+      }
+
+      // m
+      if (e.keyCode == 77) {
+        $('#mod-btn').trigger('click');
+      }
+
+      // o
+      if (e.keyCode == 79) {
+        $('#opt-btn').trigger('click');
+      }
+
+      // s
+      if (e.keyCode == 83) {
+        $('#show-meaning').trigger('click');
+      }
+
+      // a
+      if (e.keyCode == 65) {
+        $('#add-btn').trigger('click');
+      }
+
+    }
+  )
+
+
+
 });

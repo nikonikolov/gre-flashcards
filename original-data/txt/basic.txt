@@ -38,8 +38,8 @@ press.
 animosity (noun): intense hostility
 The governor's animosity toward his rival was only inflamed when the latter spread false lies regarding
 the governor's first term.
-antedated (verb): precede in time
-Harry was so unknowledgable that he was unaware the Egyptian pharaohs antedated the American
+antedate (verb): precede in time
+Harry was so unknowledgable that he was unaware the Egyptian pharaohs antedate the American
 Revolution.
 antiquated (adjective): old-fashioned; belonging to an earlier period in time
 Aunt Betty had antiquated notions about marriage, believing that a man should court a woman for at
@@ -200,8 +200,7 @@ This word has other definitions but this is the most important one for the GRE
 
 chivalrous (adjective): being attentive to women like an ideal knight
 Marco's chivalrous ways, like opening doors and pulling out chairs, was much appreciated by his date.
-clemency (noun): leniency and compassion shown toward offenders by a person or agency charged with
-administering justice
+clemency (noun): leniency and compassion shown toward offenders by a person or agency charged with administering justice
 In the final moments of the trial, during his closing speech, Phillips was nearly begging the judge for
 clemency.
 coalesce (verb): fuse or cause to grow together
@@ -314,8 +313,8 @@ deride (verb): treat or speak of with contempt
 The nun derided the students for trying to sneak insects and worms into the classroom.
 derisive (adjective): abusing vocally; expressing contempt or ridicule
 I was surprised by her derisive tone; usually, she is sweet, soft spoken, and congenial.
-derogative (adjective): expressed as worthless or in negative terms
-Never before have we seen a debate between two political candidates that was so derogative and filthy.
+derogatory (adjective): expressed as worthless or in negative terms
+Never before have we seen a debate between two political candidates that was so derogatory and filthy.
 desecrate (verb): to willfully violate or destroy a sacred place
 
 After desecrating the pharaoh's tomb, the archaeologist soon fell victim to a horrible illness.
@@ -341,8 +340,7 @@ The conspirators, willing to dispatch anyone who stood in their way, hatched a d
 over the city.
 differentiate (verb): be a distinctive feature, attribute, or trait (sometimes in positive sense)
 Mozart's long melodic lines differentiate his compositions from other works of late 18th century music.
-differentiate (verb): evolve so as to lead to a new species or develop in a way most suited to the
-environment
+differentiate (verb): evolve so as to lead to a new species or develop in a way most suited to the environment
 Animals on Madagascar differentiated from other similar animal species due to many years of isolation
 on the island.
 dilapidated (adjective): in terrible condition
@@ -1101,8 +1099,7 @@ Poor Billy was the victim of the virago's invective--she railed at him for a goo
 is the scum of the earth for speaking loudly on his cellphone in public.
 voracious (adjective): very hungry; approaching an activity with gusto
 Steven was a voracious reader, sometimes finishing two novels in the same day.
-wanton (adjective): without check or limitation; showing no moral restraints to one's anger, desire, or
-appetites
+wanton (adjective): without check or limitation; showing no moral restraints to one's anger, desire, or appetites
 Due to wanton behavior and crude language, the drunk man was thrown out of the bar and asked to
 never return.
 wax (verb): to gradually increase in size or intensity

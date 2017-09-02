@@ -32,7 +32,8 @@ $(document).ready( function() {
     }
   ); 
   
-  $(document).keypress(function (e) {
+  // $(document).keypress(function (e) {
+  $("input").keypress(function (e) {
     if (e.which == 13) {
       $('#submit-btn').trigger('click');
     }

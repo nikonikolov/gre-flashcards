@@ -26,7 +26,7 @@
             "ant": "", 
             "example": "The apogee of the Viennese style of music, Mozart's music continues to mesmerize audiences well into the 21st century.", 
             "meaning": "the highest point", 
-            "meaning_bg": "", 
+            "meaning_bg": "\u0430\u043f\u043e\u0433\u0435\u0439", 
             "note": "", 
             "syn": "", 
             "type": "noun"
@@ -47,8 +47,8 @@
         {
             "ant": "", 
             "example": "An arrant fool, Lawrence surprised nobody when he lost all his money in a pyramid scheme that was every bit as transparent as it was corrupt.", 
-            "meaning": "complete and wholly (usually modifying a noun with negative connotation)", 
-            "meaning_bg": "", 
+            "meaning": "complete, utter", 
+            "meaning_bg": "\u043e\u0442\u044f\u0432\u043b\u0435\u043d, \u0441\u044a\u0449\u0438\u043d\u0441\u043a\u0438", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -135,8 +135,8 @@
         {
             "ant": "", 
             "example": "While a brilliant lecturer, Mr. Dawson came across as choleric and unapproachable - very rarely did students come to his office hours.", 
-            "meaning": "prone to outbursts of temper; easily angered", 
-            "meaning_bg": "", 
+            "meaning": "irritable, easily angered", 
+            "meaning_bg": "\u0440\u0430\u0437\u0434\u0440\u0430\u0437\u043d\u0438\u0442\u0435\u043b\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -256,8 +256,8 @@
         {
             "ant": "", 
             "example": "The controversial bill proved factious, as dissension even within parties resulted", 
-            "meaning": "produced by, or characterized by internal dissension", 
-            "meaning_bg": "", 
+            "meaning": "relating or inclined to dissension", 
+            "meaning_bg": "\u043f\u043e\u0434\u043c\u043e\u043b\u0435\u043d, \u043f\u043e\u0434\u0440\u0438\u0432\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -354,7 +354,7 @@
             "ant": "", 
             "example": "Paul kowtowed to his boss so often the boss herself became nauseated by his sycophancy.", 
             "meaning": "to bow or act in a subservient manner", 
-            "meaning_bg": "", 
+            "meaning_bg": "\u0434\u044a\u0440\u0436\u0430 \u0441\u0435 \u0440\u0430\u0431\u043e\u043b\u0435\u043f\u043d\u043e", 
             "note": "", 
             "syn": "", 
             "type": "verb"
@@ -397,8 +397,8 @@
         {
             "ant": "", 
             "example": "Mark was so convinced of his basketball skills that in his overweening pride he could not fathom that his name was not on the varsity list; he walked up to the basketball coach and told her she had forgotten to add his name.", 
-            "meaning": "arrogant; presumptuous", 
-            "meaning_bg": "", 
+            "meaning": "arrogant; presumptuous, excessively proud", 
+            "meaning_bg": "\u0432\u0438\u0441\u043e\u043a\u043e\u043c\u0435\u0440\u0435\u043d, \u043d\u0430\u0434\u043c\u0435\u043d\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -462,7 +462,7 @@
             "ant": "", 
             "example": "Instead of conducting a thorough investigation after the city hall break-in, the governor acted precipitately, accusing his staff of aiding and abetting the criminals.", 
             "meaning": "hasty or rash", 
-            "meaning_bg": "", 
+            "meaning_bg": "\u043f\u0440\u0438\u0431\u044a\u0440\u0437\u0430\u043d, \u043d\u0435\u043e\u0431\u043c\u0438\u0441\u043b\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -470,8 +470,8 @@
         {
             "ant": "", 
             "example": "The government's mishandling the hurricane's aftermath precipitated a widespread outbreak of looting and other criminal activity.", 
-            "meaning": "to cause to happen", 
-            "meaning_bg": "", 
+            "meaning": "to cause to happen suddenly", 
+            "meaning_bg": "\u0443\u0441\u043a\u043e\u0440\u044f\u0432\u0430\u043c", 
             "note": "", 
             "syn": "", 
             "type": "verb"
@@ -481,8 +481,8 @@
         {
             "ant": "", 
             "example": "Unlike the talented artists in his workshop, Paul had no such bent for the visual medium, so when it was time for him to make a stained glass painting, he ended up with a prosaic mosaic.", 
-            "meaning": "dull and lacking imagination", 
-            "meaning_bg": "", 
+            "meaning": "dull and unimaginative", 
+            "meaning_bg": "\u043f\u0440\u043e\u0437\u0430\u0438\u0447\u0435\u043d, \u0441\u043a\u0443\u0447\u0435\u043d, \u0431\u0435\u0437\u0438\u043d\u0442\u0435\u0440\u0435\u0441\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -536,8 +536,8 @@
         {
             "ant": "", 
             "example": "During his reign, Caligula indulged in unspeakable sexual practices, so it not surprising that he will forever be remembered for his turpitude.", 
-            "meaning": "depravity; a depraved act", 
-            "meaning_bg": "", 
+            "meaning": "depravity", 
+            "meaning_bg": "\u043f\u043e\u0434\u043b\u043e\u0441\u0442, \u043d\u0438\u0437\u043e\u0441\u0442", 
             "note": "", 
             "syn": "", 
             "type": "noun"
