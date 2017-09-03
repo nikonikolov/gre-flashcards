@@ -268,8 +268,10 @@ def show_word(word, listname, know_button, meaning=None, number=None):
 # --------------------------- DECKS ---------------------------
 @app.route('/')
 def home():
-  wordlists = g_all_decks
-  return render_template('wordlists.html', wordlists=wordlists)
+  # wordlists = g_all_decks
+  default_decks = g_default_decks
+  custom_decks  = g_custom_decks
+  return render_template('wordlists.html', default_decks=default_decks, custom_decks=custom_decks)
 
 
 # --------------------------- DISPLAYING WORD ---------------------------

@@ -59,8 +59,7 @@
     <h2 class="section-heading"> Word Lists </h2>
     
     <div class="row">
-
-      {% for listname in wordlists %}
+      {% for listname in default_decks %}
       <div class="col-sm-4">
         <a class="card text-center" href="/vocab/{{ listname }}">
           <div class="card-block">
@@ -69,8 +68,23 @@
         </a>
       </div>
       {% endfor %}
-
     </div>
+
+    <hr class="featurette-divider">
+    <hr class="featurette-divider">
+
+    <div class="row">
+      {% for listname in custom_decks %}
+      <div class="col-sm-4">
+        <a class="card text-center" href="/vocab/{{ listname }}">
+          <div class="card-block">
+            <h3 class="card-title"> {{ listname }} </h3>
+          </div>
+        </a>
+      </div>
+      {% endfor %}
+    </div>
+
   </div>
 
 
