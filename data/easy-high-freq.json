@@ -801,17 +801,6 @@
             "type": "noun"
         }
     ], 
-    "ostracize": [
-        {
-            "ant": "", 
-            "example": "Later in his life, Leo Tolstoy was ostracized from the Russian Orthodox Church for his writings that contradicted church doctrine.", 
-            "meaning": "exclude from a community or group", 
-            "meaning_bg": "\u043e\u0442\u043b\u044a\u0447\u0432\u0430\u043c, \u0438\u0437\u043a\u043b\u044e\u0447\u0432\u0430\u043c", 
-            "note": "", 
-            "syn": "", 
-            "type": "verb"
-        }
-    ], 
     "pedantic": [
         {
             "ant": "", 
@@ -831,17 +820,6 @@
             "meaning_bg": "\u043f\u0440\u0430\u0433\u043c\u0430\u0442\u0438\u0447\u0435\u043d, \u043f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u043d", 
             "note": "", 
             "syn": "", 
-            "type": "adj."
-        }
-    ], 
-    "recondite": [
-        {
-            "ant": "", 
-            "example": "I found Ulysses recondite and never finished the book, waiting instead to read it with someone else so we could penetrate its meaning together.", 
-            "meaning": "incomprehensible; difficult to penetrate", 
-            "meaning_bg": "\u043d\u0435\u044f\u0441\u0435\u043d", 
-            "note": "", 
-            "syn": "abstruse, obscure", 
             "type": "adj."
         }
     ], 

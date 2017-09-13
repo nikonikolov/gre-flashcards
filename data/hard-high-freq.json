@@ -838,6 +838,17 @@
             "type": "adj."
         }
     ], 
+    "recondite": [
+        {
+            "ant": "", 
+            "example": "I found Ulysses recondite and never finished the book, waiting instead to read it with someone else so we could penetrate its meaning together.", 
+            "meaning": "incomprehensible; difficult to penetrate", 
+            "meaning_bg": "\u043d\u0435\u044f\u0441\u0435\u043d", 
+            "note": "", 
+            "syn": "abstruse, obscure", 
+            "type": "adj."
+        }
+    ], 
     "refractory": [
         {
             "ant": "", 

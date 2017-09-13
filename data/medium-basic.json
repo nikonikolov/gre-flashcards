@@ -136,9 +136,9 @@
             "ant": "", 
             "example": "Known for their bellicose ways, the Spartans were once the most feared people from Peloponnesus to Persia.", 
             "meaning": "warlike, demonstrating willingness to fight", 
-            "meaning_bg": "", 
+            "meaning_bg": "\u0432\u043e\u0439\u043d\u0441\u0442\u0432\u0435\u043d, \u0437\u0430\u044f\u0434\u043b\u0438\u0432", 
             "note": "", 
-            "syn": "\u0432\u043e\u0439\u043d\u0441\u0442\u0432\u0435\u043d, \u0437\u0430\u044f\u0434\u043b\u0438\u0432", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
@@ -297,7 +297,7 @@
             "ant": "", 
             "example": "One by one, the presidential candidates dropped out of the race, their respective checkered pasts -  from embezzlement to infidelity - sabotaging their campaigns.", 
             "meaning": "marked by discreditable incidents or periods of varied fortune", 
-            "meaning_bg": "\u043f\u044a\u0441\u0442\u044a\u0440, \u0448\u0430\u0440\u0435\u043d (\u0432 \u043f\u0440\u0435\u043d\u043e\u0441\u0435\u043d \u0441\u043c\u0438\u0441\u044a\u043b)", 
+            "meaning_bg": "\u043f\u044a\u0441\u0442\u044a\u0440, \u0448\u0430\u0440\u0435\u043d (\u0437\u0430 \u043c\u0438\u043d\u0430\u043b\u043e \u0438\u043b\u0438 \u043f\u0440\u0435\u0436\u0438\u0432\u044f\u0432\u0430\u043d\u0435)", 
             "note": "This word has other definitions but this is the most important one for the GRE", 
             "syn": "", 
             "type": "adj."
@@ -319,7 +319,7 @@
             "ant": "", 
             "example": "A well-written, cohesive essay will keep on topic at all times, never losing sight of the main argument.", 
             "meaning": "well integrated, forming a united whole", 
-            "meaning_bg": "\u0441\u0442\u0435\u0433\u043d\u0430\u0442, \u0441\u043f\u043b\u043e\u0442\u0435\u043d, \u043a\u043e\u0445\u0435\u0440\u0435\u043d\u0442\u0435\u043d", 
+            "meaning_bg": "\u0441\u0442\u0435\u0433\u043d\u0430\u0442, \u0441\u043f\u0440\u0435\u0442\u043d\u0430\u0442, \u0441\u043f\u043b\u043e\u0442\u0435\u043d, \u043a\u043e\u0445\u0435\u0440\u0435\u043d\u0442\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -663,7 +663,7 @@
             "ant": "", 
             "example": "She was so fickle in her politics, it was hard to pinpoint her beliefs; one week she would embrace a side, and the next week she would denounce it.", 
             "meaning": "changeable, liable to unpredictable change, especially in loyalties or affections", 
-            "meaning_bg": "\u043d\u0435\u043f\u043e\u0441\u0442\u043e\u044f\u043d\u0435\u043d, \u043f\u0440\u043e\u043c\u0435\u043d\u0447\u0438\u0432", 
+            "meaning_bg": "\u043d\u0435\u043f\u043e\u0441\u0442\u043e\u044f\u043d\u0435\u043d, \u043f\u0440\u043e\u043c\u0435\u043d\u043b\u0438\u0432", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -1154,7 +1154,7 @@
             "ant": "", 
             "example": "Charlie may seem to run at a plodding pace, but he is an ultramarathoner, meaning he runs distances of up to 100 miles, and can run for ten hours at a stretch.", 
             "meaning": "slow-moving and unexciting", 
-            "meaning_bg": "\u0431\u0430\u0432\u0435\u043d", 
+            "meaning_bg": "", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -1162,7 +1162,7 @@
         {
             "ant": "", 
             "example": "None", 
-            "meaning": "thorough and hard-working but lacking in imagination or intelligence", 
+            "meaning": "hard-working and methodical but lacking imagination", 
             "meaning_bg": "\u0442\u0440\u0443\u0434\u043e\u043b\u044e\u0431\u0438\u0432 \u043d\u043e \u0441\u043a\u0443\u0447\u0435\u043d", 
             "note": "", 
             "syn": "", 

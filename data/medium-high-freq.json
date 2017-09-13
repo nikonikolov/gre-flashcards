@@ -996,6 +996,17 @@
             "type": "adj."
         }
     ], 
+    "ostracize": [
+        {
+            "ant": "", 
+            "example": "Later in his life, Leo Tolstoy was ostracized from the Russian Orthodox Church for his writings that contradicted church doctrine.", 
+            "meaning": "exclude from a community or group", 
+            "meaning_bg": "\u043e\u0442\u043b\u044a\u0447\u0432\u0430\u043c, \u0438\u0437\u043a\u043b\u044e\u0447\u0432\u0430\u043c", 
+            "note": "", 
+            "syn": "", 
+            "type": "verb"
+        }
+    ], 
     "panache": [
         {
             "ant": "", 

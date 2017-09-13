@@ -385,7 +385,7 @@
             "ant": "", 
             "example": "Wherever the bowl haircut teen-idol went, his legions of screaming fans ran through the streets amuck, hoping for a glance at his boyish face.", 
             "meaning": "in a disruptive, uncontrolled or frenzied state", 
-            "meaning_bg": "", 
+            "meaning_bg": "\u043f\u043e\u0431\u0435\u0441\u043d\u044f\u043b\u043e, \u0433\u043d\u0435\u0432\u043d\u043e, \u043d\u0435\u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u0443\u0435\u043c\u043e", 
             "note": "", 
             "syn": "", 
             "type": "adv."
@@ -1344,9 +1344,9 @@
             "ant": "", 
             "example": "Known for their bellicose ways, the Spartans were once the most feared people from Peloponnesus to Persia.", 
             "meaning": "warlike, demonstrating willingness to fight", 
-            "meaning_bg": "", 
+            "meaning_bg": "\u0432\u043e\u0439\u043d\u0441\u0442\u0432\u0435\u043d, \u0437\u0430\u044f\u0434\u043b\u0438\u0432", 
             "note": "", 
-            "syn": "\u0432\u043e\u0439\u043d\u0441\u0442\u0432\u0435\u043d, \u0437\u0430\u044f\u0434\u043b\u0438\u0432", 
+            "syn": "", 
             "type": "adj."
         }
     ], 
@@ -2078,7 +2078,7 @@
             "ant": "", 
             "example": "One by one, the presidential candidates dropped out of the race, their respective checkered pasts -  from embezzlement to infidelity - sabotaging their campaigns.", 
             "meaning": "marked by discreditable incidents or periods of varied fortune", 
-            "meaning_bg": "\u043f\u044a\u0441\u0442\u044a\u0440, \u0448\u0430\u0440\u0435\u043d (\u0432 \u043f\u0440\u0435\u043d\u043e\u0441\u0435\u043d \u0441\u043c\u0438\u0441\u044a\u043b)", 
+            "meaning_bg": "\u043f\u044a\u0441\u0442\u044a\u0440, \u0448\u0430\u0440\u0435\u043d (\u0437\u0430 \u043c\u0438\u043d\u0430\u043b\u043e \u0438\u043b\u0438 \u043f\u0440\u0435\u0436\u0438\u0432\u044f\u0432\u0430\u043d\u0435)", 
             "note": "This word has other definitions but this is the most important one for the GRE", 
             "syn": "", 
             "type": "adj."
@@ -2199,7 +2199,7 @@
             "ant": "", 
             "example": "A well-written, cohesive essay will keep on topic at all times, never losing sight of the main argument.", 
             "meaning": "well integrated, forming a united whole", 
-            "meaning_bg": "\u0441\u0442\u0435\u0433\u043d\u0430\u0442, \u0441\u043f\u043b\u043e\u0442\u0435\u043d, \u043a\u043e\u0445\u0435\u0440\u0435\u043d\u0442\u0435\u043d", 
+            "meaning_bg": "\u0441\u0442\u0435\u0433\u043d\u0430\u0442, \u0441\u043f\u0440\u0435\u0442\u043d\u0430\u0442, \u0441\u043f\u043b\u043e\u0442\u0435\u043d, \u043a\u043e\u0445\u0435\u0440\u0435\u043d\u0442\u0435\u043d", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -4296,7 +4296,7 @@
         {
             "ant": "", 
             "example": "Unlike his peers, who spent their hours studying in the library, Matthew preferred errant walks through the university campus.", 
-            "meaning": "wandering; straying from the accepted course or standards", 
+            "meaning": "wandering; straying from the accepted standards", 
             "meaning_bg": "\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0443\u0432\u0430\u0449", 
             "note": "", 
             "syn": "", 
@@ -4823,7 +4823,7 @@
             "ant": "", 
             "example": "She was so fickle in her politics, it was hard to pinpoint her beliefs; one week she would embrace a side, and the next week she would denounce it.", 
             "meaning": "changeable, liable to unpredictable change, especially in loyalties or affections", 
-            "meaning_bg": "\u043d\u0435\u043f\u043e\u0441\u0442\u043e\u044f\u043d\u0435\u043d, \u043f\u0440\u043e\u043c\u0435\u043d\u0447\u0438\u0432", 
+            "meaning_bg": "\u043d\u0435\u043f\u043e\u0441\u0442\u043e\u044f\u043d\u0435\u043d, \u043f\u0440\u043e\u043c\u0435\u043d\u043b\u0438\u0432", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -5277,7 +5277,7 @@
             "ant": "", 
             "example": "Doug did not want to enter the race, but Jim, through a steady stream of taunts, goaded him into signing up for it.", 
             "meaning": "provoke or annoy so as to stimulate a reaction", 
-            "meaning_bg": "\u043f\u0440\u043e\u0432\u043e\u043a\u0438\u0440\u0430\u043c, \u043f\u043e\u0434\u0442\u0438\u043a\u0432\u0430\u043c", 
+            "meaning_bg": "\u043f\u0440\u043e\u0432\u043e\u043a\u0438\u0440\u0430\u043c, \u043f\u0440\u0435\u0434\u0438\u0437\u0432\u0438\u043a\u0432\u0430\u043c", 
             "note": "", 
             "syn": "", 
             "type": "verb"
@@ -8558,7 +8558,7 @@
             "ant": "", 
             "example": "Charlie may seem to run at a plodding pace, but he is an ultramarathoner, meaning he runs distances of up to 100 miles, and can run for ten hours at a stretch.", 
             "meaning": "slow-moving and unexciting", 
-            "meaning_bg": "\u0431\u0430\u0432\u0435\u043d", 
+            "meaning_bg": "", 
             "note": "", 
             "syn": "", 
             "type": "adj."
@@ -8566,7 +8566,7 @@
         {
             "ant": "", 
             "example": "None", 
-            "meaning": "thorough and hard-working but lacking in imagination or intelligence", 
+            "meaning": "hard-working and methodical but lacking imagination", 
             "meaning_bg": "\u0442\u0440\u0443\u0434\u043e\u043b\u044e\u0431\u0438\u0432 \u043d\u043e \u0441\u043a\u0443\u0447\u0435\u043d", 
             "note": "", 
             "syn": "", 
@@ -11150,7 +11150,7 @@
         {
             "ant": "", 
             "example": "The lawyer's demands were so unconscionable that rather than pay an exorbitant sum or submit himself to any other inconveniences, the defendant decided to find a new lawyer.", 
-            "meaning": "unreasonable, unscrupulous, excessive", 
+            "meaning": "unreasonable, excessive, unscrupulous", 
             "meaning_bg": "\u0431\u0435\u0437\u0441\u043a\u0440\u0443\u043f\u0443\u043b\u0435\u043d, \u043f\u0440\u0435\u043a\u0430\u043b\u0435\u043d", 
             "note": "", 
             "syn": "", 
@@ -11535,7 +11535,7 @@
         {
             "ant": "", 
             "example": "The advent of twitter is a celebrity stalker's dream, as he or she can - through hundreds of intimate \"tweets\" - vicariously live the life of a famous person.", 
-            "meaning": "felt or undergone as if one were taking part in the experience or feelings of another", 
+            "meaning": "felt or undergone as if one were taking part in the experience of another", 
             "meaning_bg": "", 
             "note": "", 
             "syn": "", 
